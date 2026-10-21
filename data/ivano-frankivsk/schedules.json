@@ -1,18 +1,19 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T05:37:00.434Z",
+  "generatedAt": "2026-10-21T12:34:51.766Z",
   "source": {
-    "name": "АТ «Прикарпаттяобленерго» — офіційне API графіків ГПВ",
+    "name": "АТ «Прикарпаттяобленерго» — офіційне API графіків ГПВ · резерв alerts.org.ua",
     "indexUrl": "https://svitlo.oe.if.ua/",
-    "checkedAt": "2026-10-21T08:07:57.196Z"
+    "checkedAt": "2026-10-21T12:34:51.766Z"
   },
   "schedules": [
     {
       "date": "2026-10-21",
-      "status": "unavailable",
-      "publishedAt": null,
-      "articleUrl": null,
+      "status": "available",
+      "publishedAt": "2026-10-20T18:11:00.000Z",
+      "articleUrl": "https://alerts.org.ua/ivano-frankivska-oblast/",
       "checkedAt": null,
+      "note": "Дані надійшли з alerts.org.ua — стороннього агрегатора. Звіряйте зміни на офіційному сервісі оператора. Резервні дані отримано зі стороннього агрегатора alerts.org.ua. Звіряйте графік з офіційним джерелом оператора.",
       "queues": [
         {
           "id": "1.1",
