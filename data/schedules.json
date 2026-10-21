@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T12:34:17.011Z",
+  "generatedAt": "2026-10-21T17:25:14.117Z",
   "source": {
     "name": "АТ «Черкасиобленерго» — новини ГПВ",
     "indexUrl": "https://www.cherkasyoblenergo.com/media",
@@ -204,58 +204,230 @@
     },
     {
       "date": "2026-10-22",
-      "status": "unavailable",
-      "publishedAt": null,
-      "articleUrl": null,
+      "status": "available",
+      "publishedAt": "2026-10-21T16:21:00.000Z",
+      "articleUrl": "https://www.cherkasyoblenergo.com/media/hrafik-pohodynnykh-vidklyuchen-hpv-na-22-zhovtnya?lang=uk",
       "checkedAt": null,
       "queues": [
         {
           "id": "1.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "06:00",
+              "to": "08:00",
+              "state": "outage"
+            },
+            {
+              "from": "12:00",
+              "to": "14:00",
+              "state": "outage"
+            },
+            {
+              "from": "18:00",
+              "to": "20:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "1.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "06:00",
+              "to": "08:00",
+              "state": "outage"
+            },
+            {
+              "from": "12:00",
+              "to": "14:00",
+              "state": "outage"
+            },
+            {
+              "from": "18:00",
+              "to": "20:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "2.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "12:00",
+              "to": "14:00",
+              "state": "outage"
+            },
+            {
+              "from": "18:00",
+              "to": "20:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "2.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "12:00",
+              "to": "14:00",
+              "state": "outage"
+            },
+            {
+              "from": "18:00",
+              "to": "20:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "3.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "10:00",
+              "to": "12:00",
+              "state": "outage"
+            },
+            {
+              "from": "16:00",
+              "to": "18:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "3.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "10:00",
+              "to": "12:00",
+              "state": "outage"
+            },
+            {
+              "from": "16:00",
+              "to": "18:00",
+              "state": "outage"
+            },
+            {
+              "from": "22:00",
+              "to": "24:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "4.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "10:00",
+              "to": "12:00",
+              "state": "outage"
+            },
+            {
+              "from": "16:00",
+              "to": "18:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "4.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "10:00",
+              "to": "12:00",
+              "state": "outage"
+            },
+            {
+              "from": "16:00",
+              "to": "18:00",
+              "state": "outage"
+            },
+            {
+              "from": "22:00",
+              "to": "24:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "5.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "08:00",
+              "to": "10:00",
+              "state": "outage"
+            },
+            {
+              "from": "14:00",
+              "to": "16:00",
+              "state": "outage"
+            },
+            {
+              "from": "20:00",
+              "to": "22:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "5.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "08:00",
+              "to": "10:00",
+              "state": "outage"
+            },
+            {
+              "from": "14:00",
+              "to": "16:00",
+              "state": "outage"
+            },
+            {
+              "from": "20:00",
+              "to": "22:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "6.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "08:00",
+              "to": "10:00",
+              "state": "outage"
+            },
+            {
+              "from": "14:00",
+              "to": "16:00",
+              "state": "outage"
+            },
+            {
+              "from": "20:00",
+              "to": "22:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "6.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "08:00",
+              "to": "10:00",
+              "state": "outage"
+            },
+            {
+              "from": "14:00",
+              "to": "16:00",
+              "state": "outage"
+            },
+            {
+              "from": "20:00",
+              "to": "22:00",
+              "state": "outage"
+            }
+          ]
         }
       ],
       "note": null
