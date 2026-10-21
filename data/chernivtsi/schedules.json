@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-20T16:47:29.215Z",
+  "source": {
+    "name": "АТ «Чернівціобленерго» — графік ГПВ",
+    "indexUrl": "https://oblenergo.cv.ua/shutdowns/",
+    "checkedAt": "2026-10-20T19:15:51.635Z"
+  },
+  "schedules": [
+    {
+      "date": "2026-10-20",
+      "status": "unavailable",
+      "publishedAt": null,
+      "articleUrl": null,
+      "checkedAt": null,
+      "note": "На офіційній сторінці Чернівціобленерго доступний графік на 18.10.2026, не на цю дату.",
+      "queues": [
+        {
+          "id": "1",
+          "intervals": []
+        },
+        {
+          "id": "2",
+          "intervals": []
+        },
+        {
+          "id": "3",
+          "intervals": []
+        },
+        {
+          "id": "4",
+          "intervals": []
+        },
+        {
+          "id": "5",
+          "intervals": []
+        },
+        {
+          "id": "6",
+          "intervals": []
+        },
+        {
+          "id": "7",
+          "intervals": []
+        },
+        {
+          "id": "8",
+          "intervals": []
+        },
+        {
+          "id": "9",
+          "intervals": []
+        },
+        {
+          "id": "10",
+          "intervals": []
+        },
+        {
+          "id": "11",
+          "intervals": []
+        },
+        {
+          "id": "12",
+          "intervals": []
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "status": "unavailable",
+      "publishedAt": null,
+      "articleUrl": null,
+      "checkedAt": null,
+      "note": "На офіційній сторінці Чернівціобленерго доступний графік на 18.10.2026, не на цю дату.",
+      "queues": [
+        {
+          "id": "1",
+          "intervals": []
+        },
+        {
+          "id": "2",
+          "intervals": []
+        },
+        {
+          "id": "3",
+          "intervals": []
+        },
+        {
+          "id": "4",
+          "intervals": []
+        },
+        {
+          "id": "5",
+          "intervals": []
+        },
+        {
+          "id": "6",
+          "intervals": []
+        },
+        {
+          "id": "7",
+          "intervals": []
+        },
+        {
+          "id": "8",
+          "intervals": []
+        },
+        {
+          "id": "9",
+          "intervals": []
+        },
+        {
+          "id": "10",
+          "intervals": []
+        },
+        {
+          "id": "11",
+          "intervals": []
+        },
+        {
+          "id": "12",
+          "intervals": []
+        }
+      ]
+    }
+  ]
+}

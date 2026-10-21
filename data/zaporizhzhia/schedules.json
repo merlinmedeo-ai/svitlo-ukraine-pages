@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-20T16:46:37.389Z",
+  "source": {
+    "name": "АТ «Запоріжжяобленерго» — офіційні публікації ГПВ",
+    "indexUrl": "https://www.zoe.com.ua/outage/",
+    "checkedAt": "2026-10-20T19:15:53.127Z"
+  },
+  "schedules": [
+    {
+      "date": "2026-10-20",
+      "status": "unavailable",
+      "publishedAt": null,
+      "articleUrl": null,
+      "checkedAt": null,
+      "note": "Запоріжжяобленерго не опублікувало погодинний графік на цю дату.",
+      "queues": [
+        {
+          "id": "1.1",
+          "intervals": []
+        },
+        {
+          "id": "1.2",
+          "intervals": []
+        },
+        {
+          "id": "2.1",
+          "intervals": []
+        },
+        {
+          "id": "2.2",
+          "intervals": []
+        },
+        {
+          "id": "3.1",
+          "intervals": []
+        },
+        {
+          "id": "3.2",
+          "intervals": []
+        },
+        {
+          "id": "4.1",
+          "intervals": []
+        },
+        {
+          "id": "4.2",
+          "intervals": []
+        },
+        {
+          "id": "5.1",
+          "intervals": []
+        },
+        {
+          "id": "5.2",
+          "intervals": []
+        },
+        {
+          "id": "6.1",
+          "intervals": []
+        },
+        {
+          "id": "6.2",
+          "intervals": []
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "status": "unavailable",
+      "publishedAt": null,
+      "articleUrl": null,
+      "checkedAt": null,
+      "note": "Запоріжжяобленерго не опублікувало погодинний графік на цю дату.",
+      "queues": [
+        {
+          "id": "1.1",
+          "intervals": []
+        },
+        {
+          "id": "1.2",
+          "intervals": []
+        },
+        {
+          "id": "2.1",
+          "intervals": []
+        },
+        {
+          "id": "2.2",
+          "intervals": []
+        },
+        {
+          "id": "3.1",
+          "intervals": []
+        },
+        {
+          "id": "3.2",
+          "intervals": []
+        },
+        {
+          "id": "4.1",
+          "intervals": []
+        },
+        {
+          "id": "4.2",
+          "intervals": []
+        },
+        {
+          "id": "5.1",
+          "intervals": []
+        },
+        {
+          "id": "5.2",
+          "intervals": []
+        },
+        {
+          "id": "6.1",
+          "intervals": []
+        },
+        {
+          "id": "6.2",
+          "intervals": []
+        }
+      ]
+    }
+  ]
+}
