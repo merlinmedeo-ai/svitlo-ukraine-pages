@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T20:44:59.497Z",
+  "generatedAt": "2026-10-21T23:46:45.740Z",
   "source": {
     "name": "АТ «Сумиобленерго» — графік ГПВ та офіційні повідомлення · резерв alerts.org.ua",
     "indexUrl": "https://www.soe.com.ua/consumers/shutdowns?tab=hourly-schedules",
-    "checkedAt": "2026-10-21T20:44:59.497Z"
+    "checkedAt": "2026-10-21T23:46:45.740Z"
   },
   "schedules": [
     {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "status": "available",
-      "publishedAt": "2026-10-20T18:19:00.000Z",
+      "publishedAt": "2026-10-21T16:49:00.000Z",
       "articleUrl": "https://alerts.org.ua/sumska-oblast/",
       "checkedAt": null,
       "note": "Дані надійшли з alerts.org.ua — стороннього агрегатора. Звіряйте зміни на офіційному сервісі оператора. Резервні дані отримано зі стороннього агрегатора alerts.org.ua. Звіряйте графік з офіційним джерелом оператора.",
@@ -19,22 +19,38 @@
           "id": "1.1",
           "intervals": [
             {
-              "from": "08:00",
-              "to": "11:00",
+              "from": "06:00",
+              "to": "10:00",
+              "state": "outage"
+            },
+            {
+              "from": "12:00",
+              "to": "16:00",
               "state": "outage"
             }
           ]
         },
         {
           "id": "1.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "06:00",
+              "to": "08:00",
+              "state": "outage"
+            },
+            {
+              "from": "10:00",
+              "to": "14:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "2.1",
           "intervals": [
             {
-              "from": "22:00",
-              "to": "24:00",
+              "from": "08:00",
+              "to": "12:00",
               "state": "outage"
             }
           ]
@@ -43,8 +59,8 @@
           "id": "2.2",
           "intervals": [
             {
-              "from": "20:00",
-              "to": "24:00",
+              "from": "08:00",
+              "to": "10:00",
               "state": "outage"
             }
           ]
@@ -53,8 +69,8 @@
           "id": "3.1",
           "intervals": [
             {
-              "from": "18:00",
-              "to": "22:00",
+              "from": "20:00",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -73,8 +89,8 @@
           "id": "4.1",
           "intervals": [
             {
-              "from": "14:00",
-              "to": "16:00",
+              "from": "18:00",
+              "to": "22:00",
               "state": "outage"
             }
           ]
@@ -83,8 +99,8 @@
           "id": "4.2",
           "intervals": [
             {
-              "from": "12:00",
-              "to": "14:00",
+              "from": "16:00",
+              "to": "20:00",
               "state": "outage"
             }
           ]
@@ -93,8 +109,13 @@
           "id": "5.1",
           "intervals": [
             {
-              "from": "10:00",
-              "to": "13:00",
+              "from": "14:00",
+              "to": "18:00",
+              "state": "outage"
+            },
+            {
+              "from": "20:00",
+              "to": "22:00",
               "state": "outage"
             }
           ]
@@ -103,8 +124,13 @@
           "id": "5.2",
           "intervals": [
             {
-              "from": "08:00",
-              "to": "12:00",
+              "from": "12:00",
+              "to": "16:00",
+              "state": "outage"
+            },
+            {
+              "from": "18:00",
+              "to": "22:00",
               "state": "outage"
             }
           ]
@@ -113,8 +139,13 @@
           "id": "6.1",
           "intervals": [
             {
-              "from": "06:00",
-              "to": "10:00",
+              "from": "10:00",
+              "to": "14:00",
+              "state": "outage"
+            },
+            {
+              "from": "16:00",
+              "to": "20:00",
               "state": "outage"
             }
           ]
@@ -123,13 +154,13 @@
           "id": "6.2",
           "intervals": [
             {
-              "from": "06:00",
-              "to": "08:00",
+              "from": "08:00",
+              "to": "12:00",
               "state": "outage"
             },
             {
-              "from": "10:00",
-              "to": "12:00",
+              "from": "14:00",
+              "to": "18:00",
               "state": "outage"
             }
           ]
@@ -137,12 +168,12 @@
       ]
     },
     {
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,
       "checkedAt": null,
-      "note": "Сумиобленерго повідомило про графік, але його публічне повідомлення не містить інтервалів для кожної черги; погодинний API оператора не відкрив дані.",
+      "note": "На публічній сторінці Сумиобленерго немає доступного переліку інтервалів на цю дату.",
       "queues": [
         {
           "id": "1.1",
