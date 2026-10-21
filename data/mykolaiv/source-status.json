@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-21T18:26:08.704Z",
+  "checkedAt": "2026-10-21T20:44:54.594Z",
   "sourceHealthy": true,
   "dates": [
     {
       "date": "2026-10-21",
       "healthy": true,
-      "checkedAt": "2026-10-21T18:26:08.439Z",
+      "checkedAt": "2026-10-21T20:44:54.125Z",
       "note": "Дані надійшли з alerts.org.ua — стороннього агрегатора. Звіряйте зміни на офіційному сервісі оператора."
     },
     {
       "date": "2026-10-22",
       "healthy": true,
-      "checkedAt": "2026-10-21T18:25:28.726Z",
+      "checkedAt": "2026-10-21T20:44:12.826Z",
       "note": null
     }
   ]
