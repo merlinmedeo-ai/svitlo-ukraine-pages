@@ -1,258 +1,67 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T23:46:03.648Z",
+  "generatedAt": "2026-10-22T13:15:57.660Z",
   "source": {
-    "name": "АТ «ДТЕК Дніпровські електромережі» — офіційні графіки ГПВ",
+    "name": "АТ «ДТЕК Дніпровські електромережі» — офіційні графіки ГПВ · резерв alerts.org.ua",
     "indexUrl": "https://www.dtek-dnem.com.ua/ua/shutdowns",
-    "checkedAt": "2026-10-22T07:46:33.228Z"
+    "checkedAt": "2026-10-22T13:15:57.660Z"
   },
   "schedules": [
     {
       "date": "2026-10-22",
       "status": "available",
-      "publishedAt": "2026-10-17T06:55:00.000Z",
-      "articleUrl": "https://www.dtek-dnem.com.ua/ua/shutdowns",
+      "publishedAt": "2026-10-21T17:10:00.000Z",
+      "articleUrl": "https://alerts.org.ua/dnipropetrovska-oblast/",
       "checkedAt": null,
+      "note": "Дані надійшли з alerts.org.ua — стороннього агрегатора. Звіряйте зміни на офіційному сервісі оператора. Резервні дані отримано зі стороннього агрегатора alerts.org.ua. Звіряйте графік з офіційним джерелом оператора.",
       "queues": [
         {
           "id": "1.1",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "05:30",
-              "state": "possible"
-            },
-            {
-              "from": "09:00",
-              "to": "16:00",
-              "state": "possible"
-            },
-            {
-              "from": "19:30",
-              "to": "24:00",
-              "state": "possible"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "1.2",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "05:30",
-              "state": "possible"
-            },
-            {
-              "from": "09:00",
-              "to": "16:00",
-              "state": "possible"
-            },
-            {
-              "from": "19:30",
-              "to": "24:00",
-              "state": "possible"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "2.1",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "05:30",
-              "state": "possible"
-            },
-            {
-              "from": "09:00",
-              "to": "16:00",
-              "state": "possible"
-            },
-            {
-              "from": "19:30",
-              "to": "24:00",
-              "state": "possible"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "2.2",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "05:30",
-              "state": "possible"
-            },
-            {
-              "from": "09:00",
-              "to": "16:00",
-              "state": "possible"
-            },
-            {
-              "from": "19:30",
-              "to": "24:00",
-              "state": "possible"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "3.1",
-          "intervals": [
-            {
-              "from": "02:00",
-              "to": "09:00",
-              "state": "possible"
-            },
-            {
-              "from": "12:30",
-              "to": "19:30",
-              "state": "possible"
-            },
-            {
-              "from": "23:00",
-              "to": "24:00",
-              "state": "possible"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "3.2",
-          "intervals": [
-            {
-              "from": "02:00",
-              "to": "09:00",
-              "state": "possible"
-            },
-            {
-              "from": "12:30",
-              "to": "19:30",
-              "state": "possible"
-            },
-            {
-              "from": "23:00",
-              "to": "24:00",
-              "state": "possible"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "4.1",
-          "intervals": [
-            {
-              "from": "02:00",
-              "to": "09:00",
-              "state": "possible"
-            },
-            {
-              "from": "12:30",
-              "to": "19:30",
-              "state": "possible"
-            },
-            {
-              "from": "23:00",
-              "to": "24:00",
-              "state": "possible"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "4.2",
-          "intervals": [
-            {
-              "from": "02:00",
-              "to": "09:00",
-              "state": "possible"
-            },
-            {
-              "from": "12:30",
-              "to": "19:30",
-              "state": "possible"
-            },
-            {
-              "from": "23:00",
-              "to": "24:00",
-              "state": "possible"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "5.1",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "02:00",
-              "state": "possible"
-            },
-            {
-              "from": "05:30",
-              "to": "12:30",
-              "state": "possible"
-            },
-            {
-              "from": "16:00",
-              "to": "23:00",
-              "state": "possible"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "5.2",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "02:00",
-              "state": "possible"
-            },
-            {
-              "from": "05:30",
-              "to": "12:30",
-              "state": "possible"
-            },
-            {
-              "from": "16:00",
-              "to": "23:00",
-              "state": "possible"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "6.1",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "02:00",
-              "state": "possible"
-            },
-            {
-              "from": "05:30",
-              "to": "12:30",
-              "state": "possible"
-            },
-            {
-              "from": "16:00",
-              "to": "23:00",
-              "state": "possible"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "6.2",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "02:00",
-              "state": "possible"
-            },
-            {
-              "from": "05:30",
-              "to": "12:30",
-              "state": "possible"
-            },
-            {
-              "from": "16:00",
-              "to": "23:00",
-              "state": "possible"
-            }
-          ]
+          "intervals": []
         }
       ]
     },
