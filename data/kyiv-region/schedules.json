@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T23:46:06.777Z",
+  "generatedAt": "2026-10-22T21:47:04.375Z",
   "source": {
     "name": "ПрАТ «ДТЕК Київські регіональні електромережі» — офіційні графіки ГПВ",
     "indexUrl": "https://www.dtek-krem.com.ua/ua/shutdowns",
-    "checkedAt": "2026-10-22T18:04:05.912Z"
+    "checkedAt": "2026-10-22T21:47:04.375Z"
   },
   "schedules": [
     {
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "status": "available",
-      "publishedAt": "2026-10-21T16:20:00.000Z",
+      "publishedAt": "2026-10-22T18:44:00.000Z",
       "articleUrl": "https://www.dtek-krem.com.ua/ua/shutdowns",
       "checkedAt": null,
       "queues": [
@@ -19,16 +19,16 @@
           "intervals": [
             {
               "from": "00:00",
-              "to": "07:00",
+              "to": "04:00",
               "state": "possible"
             },
             {
-              "from": "10:30",
-              "to": "17:30",
+              "from": "07:30",
+              "to": "14:30",
               "state": "possible"
             },
             {
-              "from": "21:00",
+              "from": "18:00",
               "to": "24:00",
               "state": "possible"
             }
@@ -39,16 +39,16 @@
           "intervals": [
             {
               "from": "00:00",
-              "to": "07:00",
+              "to": "04:00",
               "state": "possible"
             },
             {
-              "from": "10:30",
-              "to": "17:30",
+              "from": "07:30",
+              "to": "14:30",
               "state": "possible"
             },
             {
-              "from": "21:00",
+              "from": "18:00",
               "to": "24:00",
               "state": "possible"
             }
@@ -59,16 +59,16 @@
           "intervals": [
             {
               "from": "00:00",
-              "to": "07:00",
+              "to": "04:00",
               "state": "possible"
             },
             {
-              "from": "10:30",
-              "to": "17:30",
+              "from": "07:30",
+              "to": "14:30",
               "state": "possible"
             },
             {
-              "from": "21:00",
+              "from": "18:00",
               "to": "24:00",
               "state": "possible"
             }
@@ -79,16 +79,16 @@
           "intervals": [
             {
               "from": "00:00",
-              "to": "07:00",
+              "to": "04:00",
               "state": "possible"
             },
             {
-              "from": "10:30",
-              "to": "17:30",
+              "from": "07:30",
+              "to": "14:30",
               "state": "possible"
             },
             {
-              "from": "21:00",
+              "from": "18:00",
               "to": "24:00",
               "state": "possible"
             }
@@ -98,13 +98,18 @@
           "id": "3.1",
           "intervals": [
             {
-              "from": "03:30",
-              "to": "10:30",
+              "from": "00:30",
+              "to": "07:30",
               "state": "possible"
             },
             {
-              "from": "14:00",
-              "to": "21:00",
+              "from": "11:00",
+              "to": "18:00",
+              "state": "possible"
+            },
+            {
+              "from": "21:30",
+              "to": "24:00",
               "state": "possible"
             }
           ]
@@ -113,13 +118,18 @@
           "id": "3.2",
           "intervals": [
             {
-              "from": "03:30",
-              "to": "10:30",
+              "from": "00:30",
+              "to": "07:30",
               "state": "possible"
             },
             {
-              "from": "14:00",
-              "to": "21:00",
+              "from": "11:00",
+              "to": "18:00",
+              "state": "possible"
+            },
+            {
+              "from": "21:30",
+              "to": "24:00",
               "state": "possible"
             }
           ]
@@ -128,13 +138,18 @@
           "id": "4.1",
           "intervals": [
             {
-              "from": "03:30",
-              "to": "10:30",
+              "from": "00:30",
+              "to": "07:30",
               "state": "possible"
             },
             {
-              "from": "14:00",
-              "to": "21:00",
+              "from": "11:00",
+              "to": "18:00",
+              "state": "possible"
+            },
+            {
+              "from": "21:30",
+              "to": "24:00",
               "state": "possible"
             }
           ]
@@ -143,13 +158,18 @@
           "id": "4.2",
           "intervals": [
             {
-              "from": "03:30",
-              "to": "10:30",
+              "from": "00:30",
+              "to": "07:30",
               "state": "possible"
             },
             {
-              "from": "14:00",
-              "to": "21:00",
+              "from": "11:00",
+              "to": "18:00",
+              "state": "possible"
+            },
+            {
+              "from": "21:30",
+              "to": "24:00",
               "state": "possible"
             }
           ]
@@ -159,17 +179,17 @@
           "intervals": [
             {
               "from": "00:00",
-              "to": "03:30",
+              "to": "00:30",
               "state": "possible"
             },
             {
-              "from": "07:00",
-              "to": "14:00",
+              "from": "04:00",
+              "to": "11:00",
               "state": "possible"
             },
             {
-              "from": "17:30",
-              "to": "24:00",
+              "from": "14:30",
+              "to": "21:30",
               "state": "possible"
             }
           ]
@@ -179,17 +199,17 @@
           "intervals": [
             {
               "from": "00:00",
-              "to": "03:30",
+              "to": "00:30",
               "state": "possible"
             },
             {
-              "from": "07:00",
-              "to": "14:00",
+              "from": "04:00",
+              "to": "11:00",
               "state": "possible"
             },
             {
-              "from": "17:30",
-              "to": "24:00",
+              "from": "14:30",
+              "to": "21:30",
               "state": "possible"
             }
           ]
@@ -199,17 +219,17 @@
           "intervals": [
             {
               "from": "00:00",
-              "to": "03:30",
+              "to": "00:30",
               "state": "possible"
             },
             {
-              "from": "07:00",
-              "to": "14:00",
+              "from": "04:00",
+              "to": "11:00",
               "state": "possible"
             },
             {
-              "from": "17:30",
-              "to": "24:00",
+              "from": "14:30",
+              "to": "21:30",
               "state": "possible"
             }
           ]
@@ -219,17 +239,17 @@
           "intervals": [
             {
               "from": "00:00",
-              "to": "03:30",
+              "to": "00:30",
               "state": "possible"
             },
             {
-              "from": "07:00",
-              "to": "14:00",
+              "from": "04:00",
+              "to": "11:00",
               "state": "possible"
             },
             {
-              "from": "17:30",
-              "to": "24:00",
+              "from": "14:30",
+              "to": "21:30",
               "state": "possible"
             }
           ]
@@ -237,9 +257,9 @@
       ]
     },
     {
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "status": "available",
-      "publishedAt": "2026-10-21T16:20:00.000Z",
+      "publishedAt": "2026-10-22T18:44:00.000Z",
       "articleUrl": "https://www.dtek-krem.com.ua/ua/shutdowns",
       "checkedAt": null,
       "queues": [
@@ -248,17 +268,17 @@
           "intervals": [
             {
               "from": "00:00",
-              "to": "04:00",
+              "to": "01:00",
               "state": "possible"
             },
             {
-              "from": "07:30",
-              "to": "14:30",
+              "from": "04:30",
+              "to": "11:30",
               "state": "possible"
             },
             {
-              "from": "18:00",
-              "to": "24:00",
+              "from": "15:00",
+              "to": "22:00",
               "state": "possible"
             }
           ]
@@ -268,17 +288,17 @@
           "intervals": [
             {
               "from": "00:00",
-              "to": "04:00",
+              "to": "01:00",
               "state": "possible"
             },
             {
-              "from": "07:30",
-              "to": "14:30",
+              "from": "04:30",
+              "to": "11:30",
               "state": "possible"
             },
             {
-              "from": "18:00",
-              "to": "24:00",
+              "from": "15:00",
+              "to": "22:00",
               "state": "possible"
             }
           ]
@@ -288,17 +308,17 @@
           "intervals": [
             {
               "from": "00:00",
-              "to": "04:00",
+              "to": "01:00",
               "state": "possible"
             },
             {
-              "from": "07:30",
-              "to": "14:30",
+              "from": "04:30",
+              "to": "11:30",
               "state": "possible"
             },
             {
-              "from": "18:00",
-              "to": "24:00",
+              "from": "15:00",
+              "to": "22:00",
               "state": "possible"
             }
           ]
@@ -308,17 +328,17 @@
           "intervals": [
             {
               "from": "00:00",
-              "to": "04:00",
+              "to": "01:00",
               "state": "possible"
             },
             {
-              "from": "07:30",
-              "to": "14:30",
+              "from": "04:30",
+              "to": "11:30",
               "state": "possible"
             },
             {
-              "from": "18:00",
-              "to": "24:00",
+              "from": "15:00",
+              "to": "22:00",
               "state": "possible"
             }
           ]
@@ -327,17 +347,17 @@
           "id": "3.1",
           "intervals": [
             {
-              "from": "00:30",
-              "to": "07:30",
+              "from": "00:00",
+              "to": "04:30",
               "state": "possible"
             },
             {
-              "from": "11:00",
-              "to": "18:00",
+              "from": "08:00",
+              "to": "15:00",
               "state": "possible"
             },
             {
-              "from": "21:30",
+              "from": "18:30",
               "to": "24:00",
               "state": "possible"
             }
@@ -347,17 +367,17 @@
           "id": "3.2",
           "intervals": [
             {
-              "from": "00:30",
-              "to": "07:30",
+              "from": "00:00",
+              "to": "04:30",
               "state": "possible"
             },
             {
-              "from": "11:00",
-              "to": "18:00",
+              "from": "08:00",
+              "to": "15:00",
               "state": "possible"
             },
             {
-              "from": "21:30",
+              "from": "18:30",
               "to": "24:00",
               "state": "possible"
             }
@@ -367,17 +387,17 @@
           "id": "4.1",
           "intervals": [
             {
-              "from": "00:30",
-              "to": "07:30",
+              "from": "00:00",
+              "to": "04:30",
               "state": "possible"
             },
             {
-              "from": "11:00",
-              "to": "18:00",
+              "from": "08:00",
+              "to": "15:00",
               "state": "possible"
             },
             {
-              "from": "21:30",
+              "from": "18:30",
               "to": "24:00",
               "state": "possible"
             }
@@ -387,17 +407,17 @@
           "id": "4.2",
           "intervals": [
             {
-              "from": "00:30",
-              "to": "07:30",
+              "from": "00:00",
+              "to": "04:30",
               "state": "possible"
             },
             {
-              "from": "11:00",
-              "to": "18:00",
+              "from": "08:00",
+              "to": "15:00",
               "state": "possible"
             },
             {
-              "from": "21:30",
+              "from": "18:30",
               "to": "24:00",
               "state": "possible"
             }
@@ -407,18 +427,18 @@
           "id": "5.1",
           "intervals": [
             {
-              "from": "00:00",
-              "to": "00:30",
+              "from": "01:00",
+              "to": "08:00",
               "state": "possible"
             },
             {
-              "from": "04:00",
-              "to": "11:00",
+              "from": "11:30",
+              "to": "18:30",
               "state": "possible"
             },
             {
-              "from": "14:30",
-              "to": "21:30",
+              "from": "22:00",
+              "to": "24:00",
               "state": "possible"
             }
           ]
@@ -427,18 +447,18 @@
           "id": "5.2",
           "intervals": [
             {
-              "from": "00:00",
-              "to": "00:30",
+              "from": "01:00",
+              "to": "08:00",
               "state": "possible"
             },
             {
-              "from": "04:00",
-              "to": "11:00",
+              "from": "11:30",
+              "to": "18:30",
               "state": "possible"
             },
             {
-              "from": "14:30",
-              "to": "21:30",
+              "from": "22:00",
+              "to": "24:00",
               "state": "possible"
             }
           ]
@@ -447,18 +467,18 @@
           "id": "6.1",
           "intervals": [
             {
-              "from": "00:00",
-              "to": "00:30",
+              "from": "01:00",
+              "to": "08:00",
               "state": "possible"
             },
             {
-              "from": "04:00",
-              "to": "11:00",
+              "from": "11:30",
+              "to": "18:30",
               "state": "possible"
             },
             {
-              "from": "14:30",
-              "to": "21:30",
+              "from": "22:00",
+              "to": "24:00",
               "state": "possible"
             }
           ]
@@ -467,18 +487,18 @@
           "id": "6.2",
           "intervals": [
             {
-              "from": "00:00",
-              "to": "00:30",
+              "from": "01:00",
+              "to": "08:00",
               "state": "possible"
             },
             {
-              "from": "04:00",
-              "to": "11:00",
+              "from": "11:30",
+              "to": "18:30",
               "state": "possible"
             },
             {
-              "from": "14:30",
-              "to": "21:30",
+              "from": "22:00",
+              "to": "24:00",
               "state": "possible"
             }
           ]
