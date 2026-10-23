@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T19:22:52.821Z",
+  "generatedAt": "2026-10-23T22:25:22.067Z",
   "source": {
-    "name": "АТ «Запоріжжяобленерго» — офіційні публікації ГПВ · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua",
+    "name": "АТ «Запоріжжяобленерго» — офіційні публікації ГПВ · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua",
     "indexUrl": "https://www.zoe.com.ua/outage/",
-    "checkedAt": "2026-10-23T19:22:52.821Z"
+    "checkedAt": "2026-10-23T22:25:22.067Z"
   },
   "schedules": [
     {
@@ -487,11 +487,151 @@
     },
     {
       "date": "2026-10-24",
+      "status": "available",
+      "publishedAt": "2026-10-23T18:11:00.000Z",
+      "articleUrl": "https://alerts.org.ua/zaporizka-oblast/",
+      "checkedAt": null,
+      "note": "Дані надійшли з alerts.org.ua — стороннього агрегатора. Звіряйте зміни на офіційному сервісі оператора. Резервні дані отримано зі стороннього агрегатора alerts.org.ua. Звіряйте графік з офіційним джерелом оператора.",
+      "queues": [
+        {
+          "id": "1.1",
+          "intervals": [
+            {
+              "from": "10:30",
+              "to": "13:30",
+              "state": "outage"
+            },
+            {
+              "from": "17:00",
+              "to": "18:30",
+              "state": "outage"
+            }
+          ]
+        },
+        {
+          "id": "1.2",
+          "intervals": [
+            {
+              "from": "09:30",
+              "to": "13:30",
+              "state": "outage"
+            }
+          ]
+        },
+        {
+          "id": "2.1",
+          "intervals": [
+            {
+              "from": "10:30",
+              "to": "13:30",
+              "state": "outage"
+            }
+          ]
+        },
+        {
+          "id": "2.2",
+          "intervals": [
+            {
+              "from": "13:00",
+              "to": "17:00",
+              "state": "outage"
+            }
+          ]
+        },
+        {
+          "id": "3.1",
+          "intervals": [
+            {
+              "from": "16:30",
+              "to": "20:30",
+              "state": "outage"
+            }
+          ]
+        },
+        {
+          "id": "3.2",
+          "intervals": [
+            {
+              "from": "20:00",
+              "to": "22:30",
+              "state": "outage"
+            }
+          ]
+        },
+        {
+          "id": "4.1",
+          "intervals": [
+            {
+              "from": "13:00",
+              "to": "17:00",
+              "state": "outage"
+            }
+          ]
+        },
+        {
+          "id": "4.2",
+          "intervals": [
+            {
+              "from": "13:00",
+              "to": "17:00",
+              "state": "outage"
+            }
+          ]
+        },
+        {
+          "id": "5.1",
+          "intervals": [
+            {
+              "from": "16:30",
+              "to": "20:30",
+              "state": "outage"
+            }
+          ]
+        },
+        {
+          "id": "5.2",
+          "intervals": [
+            {
+              "from": "16:30",
+              "to": "20:30",
+              "state": "outage"
+            }
+          ]
+        },
+        {
+          "id": "6.1",
+          "intervals": [
+            {
+              "from": "14:00",
+              "to": "17:30",
+              "state": "outage"
+            },
+            {
+              "from": "20:00",
+              "to": "22:30",
+              "state": "outage"
+            }
+          ]
+        },
+        {
+          "id": "6.2",
+          "intervals": [
+            {
+              "from": "20:00",
+              "to": "22:30",
+              "state": "outage"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,
       "checkedAt": null,
-      "note": "Сторінка alerts.org.ua зараз містить графік на 2026-10-23, не на цю дату.",
+      "note": "Сторінка alerts.org.ua зараз містить графік на 2026-10-24, не на цю дату.",
       "queues": [
         {
           "id": "1.1",

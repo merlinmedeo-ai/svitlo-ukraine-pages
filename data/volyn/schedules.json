@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T19:45:20.490Z",
+  "generatedAt": "2026-10-23T22:25:20.821Z",
   "source": {
     "name": "ПрАТ «Волиньобленерго» — офіційний графік ГПВ · резерв alerts.org.ua",
     "indexUrl": "https://energy.volyn.ua/spozhyvacham/perervy-u-elektropostachanni/hrafik-vidkliuchen/",
-    "checkedAt": "2026-10-23T19:45:20.490Z"
+    "checkedAt": "2026-10-23T22:25:20.821Z"
   },
   "schedules": [
     {
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "status": "available",
-      "publishedAt": "2026-10-22T18:01:00.000Z",
+      "publishedAt": "2026-10-23T18:07:00.000Z",
       "articleUrl": "https://alerts.org.ua/volynska-oblast/",
       "checkedAt": null,
       "note": "Дані надійшли з alerts.org.ua — стороннього агрегатора. Звіряйте зміни на офіційному сервісі оператора. Резервні дані отримано зі стороннього агрегатора alerts.org.ua. Звіряйте графік з офіційним джерелом оператора.",
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,
