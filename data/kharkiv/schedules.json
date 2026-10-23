@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T15:17:17.780Z",
+  "generatedAt": "2026-10-23T19:22:53.449Z",
   "source": {
     "name": "АТ «Харківобленерго» — офіційний Telegram-канал · резерв alerts.org.ua",
     "indexUrl": "https://t.me/s/kharkivenergy",
-    "checkedAt": "2026-10-23T15:17:17.780Z"
+    "checkedAt": "2026-10-23T19:22:53.449Z"
   },
   "schedules": [
     {
@@ -17,51 +17,163 @@
       "queues": [
         {
           "id": "1.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "13:00",
+              "to": "16:30",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "1.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "13:00",
+              "to": "16:30",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "2.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "13:00",
+              "to": "16:30",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "2.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "13:00",
+              "to": "16:30",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "3.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "08:00",
+              "to": "09:30",
+              "state": "outage"
+            },
+            {
+              "from": "16:30",
+              "to": "20:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "3.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "08:00",
+              "to": "09:30",
+              "state": "outage"
+            },
+            {
+              "from": "16:30",
+              "to": "20:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "4.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "06:00",
+              "to": "09:30",
+              "state": "outage"
+            },
+            {
+              "from": "16:30",
+              "to": "20:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "4.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "06:00",
+              "to": "09:30",
+              "state": "outage"
+            },
+            {
+              "from": "16:30",
+              "to": "20:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "5.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "09:30",
+              "to": "13:00",
+              "state": "outage"
+            },
+            {
+              "from": "20:00",
+              "to": "24:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "5.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "09:30",
+              "to": "13:00",
+              "state": "outage"
+            },
+            {
+              "from": "20:00",
+              "to": "24:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "6.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "09:30",
+              "to": "13:00",
+              "state": "outage"
+            },
+            {
+              "from": "20:00",
+              "to": "22:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "6.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "09:30",
+              "to": "13:00",
+              "state": "outage"
+            },
+            {
+              "from": "20:00",
+              "to": "22:00",
+              "state": "outage"
+            }
+          ]
         }
       ]
     },

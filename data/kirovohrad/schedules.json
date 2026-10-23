@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T15:17:16.810Z",
+  "generatedAt": "2026-10-23T19:22:52.649Z",
   "source": {
     "name": "ПрАТ «Кіровоградобленерго» — API активних графіків · резерв alerts.org.ua",
     "indexUrl": "https://kiroe.com.ua/electricity-blackout",
-    "checkedAt": "2026-10-23T15:17:16.810Z"
+    "checkedAt": "2026-10-23T19:22:52.649Z"
   },
   "schedules": [
     {
@@ -17,47 +17,148 @@
       "queues": [
         {
           "id": "1.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "12:00",
+              "to": "14:00",
+              "state": "outage"
+            },
+            {
+              "from": "20:00",
+              "to": "22:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "1.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "16:00",
+              "to": "18:00",
+              "state": "outage"
+            },
+            {
+              "from": "20:00",
+              "to": "22:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "2.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "16:00",
+              "to": "18:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "2.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "16:00",
+              "to": "18:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "3.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "12:00",
+              "to": "14:00",
+              "state": "outage"
+            },
+            {
+              "from": "16:00",
+              "to": "18:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "3.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "12:00",
+              "to": "14:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "4.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "10:00",
+              "to": "12:00",
+              "state": "outage"
+            },
+            {
+              "from": "18:00",
+              "to": "19:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "4.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "14:00",
+              "to": "16:00",
+              "state": "outage"
+            },
+            {
+              "from": "18:00",
+              "to": "20:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "5.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "14:00",
+              "to": "16:00",
+              "state": "outage"
+            },
+            {
+              "from": "18:00",
+              "to": "20:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "5.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "14:00",
+              "to": "16:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "6.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "11:00",
+              "to": "12:00",
+              "state": "outage"
+            },
+            {
+              "from": "14:30",
+              "to": "16:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "6.2",

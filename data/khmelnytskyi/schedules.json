@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T21:47:11.113Z",
+  "generatedAt": "2026-10-23T19:22:30.632Z",
   "source": {
     "name": "alerts.org.ua — сторонній агрегатор, графік за інформацією АТ «Хмельницькобленерго»",
     "indexUrl": "https://alerts.org.ua/hmelnitcka-oblast/",
-    "checkedAt": "2026-10-23T15:16:52.793Z"
+    "checkedAt": "2026-10-23T19:22:30.632Z"
   },
   "schedules": [
     {
@@ -45,43 +45,19 @@
         },
         {
           "id": "4.2",
-          "intervals": [
-            {
-              "from": "17:00",
-              "to": "20:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "5.1",
-          "intervals": [
-            {
-              "from": "17:00",
-              "to": "20:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "5.2",
-          "intervals": [
-            {
-              "from": "20:00",
-              "to": "22:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "6.1",
-          "intervals": [
-            {
-              "from": "20:00",
-              "to": "22:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "6.2",
