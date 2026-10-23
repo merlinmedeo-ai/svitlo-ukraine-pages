@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T13:16:28.481Z",
+  "generatedAt": "2026-10-23T14:19:57.664Z",
   "source": {
     "name": "АТ «Прикарпаттяобленерго» — офіційне API графіків ГПВ · резерв alerts.org.ua",
     "indexUrl": "https://svitlo.oe.if.ua/",
-    "checkedAt": "2026-10-23T13:16:28.481Z"
+    "checkedAt": "2026-10-23T14:19:57.664Z"
   },
   "schedules": [
     {
