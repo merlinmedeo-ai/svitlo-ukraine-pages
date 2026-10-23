@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T10:16:15.838Z",
+  "generatedAt": "2026-10-23T12:58:00.329Z",
   "source": {
     "name": "АТ «Черкасиобленерго» — новини ГПВ",
     "indexUrl": "https://www.cherkasyoblenergo.com/media",
@@ -10,8 +10,8 @@
     {
       "date": "2026-10-23",
       "status": "available",
-      "publishedAt": "2026-10-23T10:05:00.000Z",
-      "articleUrl": "https://www.cherkasyoblenergo.com/media/onovleno-hrafik-pohodynnykh-vidklyuchen-hpv-na-23-zhovtnya?lang=uk",
+      "publishedAt": "2026-10-23T11:20:00.000Z",
+      "articleUrl": "https://www.cherkasyoblenergo.com/media/onovleno-hrafik-pohodynnykh-vidklyuchen-hpv-na-23-zhovtnya-1?lang=uk",
       "checkedAt": null,
       "queues": [
         {
@@ -19,7 +19,7 @@
           "intervals": [
             {
               "from": "16:00",
-              "to": "18:00",
+              "to": "19:00",
               "state": "outage"
             },
             {
@@ -59,7 +59,7 @@
           "intervals": [
             {
               "from": "16:00",
-              "to": "18:00",
+              "to": "19:00",
               "state": "outage"
             }
           ]
@@ -69,7 +69,7 @@
           "intervals": [
             {
               "from": "14:00",
-              "to": "16:00",
+              "to": "17:00",
               "state": "outage"
             },
             {
@@ -84,7 +84,7 @@
           "intervals": [
             {
               "from": "14:00",
-              "to": "16:00",
+              "to": "17:00",
               "state": "outage"
             },
             {
@@ -103,7 +103,7 @@
               "state": "outage"
             },
             {
-              "from": "20:00",
+              "from": "19:00",
               "to": "22:00",
               "state": "outage"
             }
@@ -118,7 +118,7 @@
               "state": "outage"
             },
             {
-              "from": "20:00",
+              "from": "19:00",
               "to": "22:00",
               "state": "outage"
             }
@@ -158,12 +158,7 @@
           "id": "6.1",
           "intervals": [
             {
-              "from": "12:00",
-              "to": "14:00",
-              "state": "outage"
-            },
-            {
-              "from": "18:00",
+              "from": "17:00",
               "to": "20:00",
               "state": "outage"
             }
@@ -173,12 +168,7 @@
           "id": "6.2",
           "intervals": [
             {
-              "from": "12:00",
-              "to": "14:00",
-              "state": "outage"
-            },
-            {
-              "from": "18:00",
+              "from": "17:00",
               "to": "20:00",
               "state": "outage"
             }
