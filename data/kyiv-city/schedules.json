@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T21:47:32.329Z",
+  "generatedAt": "2026-10-23T10:16:49.876Z",
   "source": {
     "name": "YASNO — офіційний графік відключень ДТЕК Київські електромережі",
     "indexUrl": "https://kyiv.yasno.com.ua/schedule-turn-off-electricity",
-    "checkedAt": "2026-10-23T07:38:26.189Z"
+    "checkedAt": "2026-10-23T10:16:49.876Z"
   },
   "schedules": [
     {
       "date": "2026-10-23",
       "status": "available",
-      "publishedAt": "2026-10-22T19:15:01.000Z",
+      "publishedAt": "2026-10-23T10:00:01.000Z",
       "articleUrl": "https://kyiv.yasno.com.ua/schedule-turn-off-electricity",
       "checkedAt": null,
       "queues": [
@@ -753,7 +753,7 @@
               "state": "outage"
             },
             {
-              "from": "13:00",
+              "from": "12:30",
               "to": "16:30",
               "state": "outage"
             },
@@ -773,7 +773,7 @@
               "state": "outage"
             },
             {
-              "from": "13:30",
+              "from": "13:00",
               "to": "17:00",
               "state": "outage"
             }
@@ -788,7 +788,7 @@
               "state": "outage"
             },
             {
-              "from": "14:30",
+              "from": "14:00",
               "to": "18:00",
               "state": "outage"
             }
@@ -803,7 +803,7 @@
               "state": "outage"
             },
             {
-              "from": "15:30",
+              "from": "15:00",
               "to": "19:00",
               "state": "outage"
             }
@@ -818,7 +818,7 @@
               "state": "outage"
             },
             {
-              "from": "16:00",
+              "from": "15:30",
               "to": "19:30",
               "state": "outage"
             }
@@ -833,7 +833,7 @@
               "state": "outage"
             },
             {
-              "from": "16:30",
+              "from": "16:00",
               "to": "20:00",
               "state": "outage"
             }
@@ -848,7 +848,7 @@
               "state": "outage"
             },
             {
-              "from": "17:30",
+              "from": "17:00",
               "to": "21:00",
               "state": "outage"
             }
@@ -864,11 +864,11 @@
             },
             {
               "from": "09:30",
-              "to": "13:00",
+              "to": "13:30",
               "state": "outage"
             },
             {
-              "from": "18:30",
+              "from": "18:00",
               "to": "22:00",
               "state": "outage"
             }
@@ -958,7 +958,7 @@
               "state": "outage"
             },
             {
-              "from": "13:00",
+              "from": "12:30",
               "to": "16:30",
               "state": "outage"
             },
@@ -978,7 +978,7 @@
               "state": "outage"
             },
             {
-              "from": "13:30",
+              "from": "13:00",
               "to": "17:00",
               "state": "outage"
             }
@@ -993,7 +993,7 @@
               "state": "outage"
             },
             {
-              "from": "14:30",
+              "from": "14:00",
               "to": "18:00",
               "state": "outage"
             }
@@ -1008,7 +1008,7 @@
               "state": "outage"
             },
             {
-              "from": "15:30",
+              "from": "15:00",
               "to": "19:00",
               "state": "outage"
             }
@@ -1023,7 +1023,7 @@
               "state": "outage"
             },
             {
-              "from": "16:00",
+              "from": "15:30",
               "to": "19:30",
               "state": "outage"
             }
@@ -1038,7 +1038,7 @@
               "state": "outage"
             },
             {
-              "from": "16:30",
+              "from": "16:00",
               "to": "20:00",
               "state": "outage"
             }
@@ -1053,7 +1053,7 @@
               "state": "outage"
             },
             {
-              "from": "17:30",
+              "from": "17:00",
               "to": "21:00",
               "state": "outage"
             }
@@ -1069,11 +1069,11 @@
             },
             {
               "from": "09:30",
-              "to": "13:00",
+              "to": "13:30",
               "state": "outage"
             },
             {
-              "from": "18:30",
+              "from": "18:00",
               "to": "22:00",
               "state": "outage"
             }
