@@ -1,25 +1,19 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-23T22:25:21.191Z",
+  "checkedAt": "2026-10-24T05:08:48.198Z",
   "sourceHealthy": true,
   "dates": [
     {
-      "date": "2026-10-23",
-      "healthy": true,
-      "checkedAt": "2026-10-23T19:44:46.501Z",
-      "note": null
-    },
-    {
       "date": "2026-10-24",
       "healthy": true,
-      "checkedAt": "2026-10-23T22:25:21.012Z",
-      "note": "Дані надійшли з alerts.org.ua — стороннього агрегатора. Звіряйте зміни на офіційному сервісі оператора."
+      "checkedAt": "2026-10-24T05:08:48.198Z",
+      "note": null
     },
     {
       "date": "2026-10-25",
       "healthy": true,
-      "checkedAt": "2026-10-23T22:25:21.012Z",
-      "note": "Сторінка alerts.org.ua зараз містить графік на 2026-10-24, не на цю дату."
+      "checkedAt": "2026-10-24T05:08:48.198Z",
+      "note": null
     }
   ]
 }

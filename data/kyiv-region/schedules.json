@@ -1,36 +1,32 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T22:24:53.458Z",
+  "generatedAt": "2026-10-24T05:09:18.593Z",
   "source": {
-    "name": "ПрАТ «ДТЕК Київські регіональні електромережі» — офіційні графіки ГПВ",
+    "name": "ПрАТ «ДТЕК Київські регіональні електромережі» — офіційні графіки ГПВ · резерв alerts.org.ua",
     "indexUrl": "https://www.dtek-krem.com.ua/ua/shutdowns",
-    "checkedAt": "2026-10-24T00:51:00.063Z"
+    "checkedAt": "2026-10-24T05:09:18.593Z"
   },
   "schedules": [
     {
       "date": "2026-10-24",
       "status": "available",
-      "publishedAt": "2026-10-23T15:51:00.000Z",
-      "articleUrl": "https://www.dtek-krem.com.ua/ua/shutdowns",
+      "publishedAt": "2026-10-23T18:06:00.000Z",
+      "articleUrl": "https://alerts.org.ua/kyivska-oblast/",
       "checkedAt": null,
+      "note": "Дані надійшли з alerts.org.ua — стороннього агрегатора. Звіряйте зміни на офіційному сервісі оператора. Резервні дані отримано зі стороннього агрегатора alerts.org.ua. Звіряйте графік з офіційним джерелом оператора.",
       "queues": [
         {
           "id": "1.1",
           "intervals": [
             {
-              "from": "00:00",
-              "to": "01:00",
-              "state": "possible"
-            },
-            {
-              "from": "04:30",
-              "to": "11:30",
-              "state": "possible"
+              "from": "06:00",
+              "to": "08:30",
+              "state": "outage"
             },
             {
               "from": "15:00",
-              "to": "22:00",
-              "state": "possible"
+              "to": "19:00",
+              "state": "outage"
             }
           ]
         },
@@ -38,19 +34,14 @@
           "id": "1.2",
           "intervals": [
             {
-              "from": "00:00",
-              "to": "01:00",
-              "state": "possible"
-            },
-            {
-              "from": "04:30",
-              "to": "11:30",
-              "state": "possible"
+              "from": "06:00",
+              "to": "08:30",
+              "state": "outage"
             },
             {
               "from": "15:00",
-              "to": "22:00",
-              "state": "possible"
+              "to": "19:00",
+              "state": "outage"
             }
           ]
         },
@@ -58,19 +49,9 @@
           "id": "2.1",
           "intervals": [
             {
-              "from": "00:00",
-              "to": "01:00",
-              "state": "possible"
-            },
-            {
-              "from": "04:30",
-              "to": "11:30",
-              "state": "possible"
-            },
-            {
               "from": "15:00",
-              "to": "22:00",
-              "state": "possible"
+              "to": "19:00",
+              "state": "outage"
             }
           ]
         },
@@ -78,19 +59,9 @@
           "id": "2.2",
           "intervals": [
             {
-              "from": "00:00",
-              "to": "01:00",
-              "state": "possible"
-            },
-            {
-              "from": "04:30",
-              "to": "11:30",
-              "state": "possible"
-            },
-            {
               "from": "15:00",
-              "to": "22:00",
-              "state": "possible"
+              "to": "19:00",
+              "state": "outage"
             }
           ]
         },
@@ -98,19 +69,14 @@
           "id": "3.1",
           "intervals": [
             {
-              "from": "00:00",
-              "to": "04:30",
-              "state": "possible"
-            },
-            {
               "from": "08:00",
-              "to": "15:00",
-              "state": "possible"
+              "to": "12:00",
+              "state": "outage"
             },
             {
               "from": "18:30",
-              "to": "24:00",
-              "state": "possible"
+              "to": "22:00",
+              "state": "outage"
             }
           ]
         },
@@ -118,19 +84,14 @@
           "id": "3.2",
           "intervals": [
             {
-              "from": "00:00",
-              "to": "04:30",
-              "state": "possible"
-            },
-            {
               "from": "08:00",
-              "to": "15:00",
-              "state": "possible"
+              "to": "12:00",
+              "state": "outage"
             },
             {
               "from": "18:30",
-              "to": "24:00",
-              "state": "possible"
+              "to": "22:00",
+              "state": "outage"
             }
           ]
         },
@@ -138,19 +99,14 @@
           "id": "4.1",
           "intervals": [
             {
-              "from": "00:00",
-              "to": "04:30",
-              "state": "possible"
-            },
-            {
               "from": "08:00",
-              "to": "15:00",
-              "state": "possible"
+              "to": "12:00",
+              "state": "outage"
             },
             {
               "from": "18:30",
-              "to": "24:00",
-              "state": "possible"
+              "to": "22:30",
+              "state": "outage"
             }
           ]
         },
@@ -158,19 +114,14 @@
           "id": "4.2",
           "intervals": [
             {
-              "from": "00:00",
-              "to": "04:30",
-              "state": "possible"
-            },
-            {
               "from": "08:00",
-              "to": "15:00",
-              "state": "possible"
+              "to": "12:00",
+              "state": "outage"
             },
             {
               "from": "18:30",
-              "to": "24:00",
-              "state": "possible"
+              "to": "22:30",
+              "state": "outage"
             }
           ]
         },
@@ -178,19 +129,9 @@
           "id": "5.1",
           "intervals": [
             {
-              "from": "01:00",
-              "to": "08:00",
-              "state": "possible"
-            },
-            {
               "from": "11:30",
-              "to": "18:30",
-              "state": "possible"
-            },
-            {
-              "from": "22:00",
-              "to": "24:00",
-              "state": "possible"
+              "to": "15:30",
+              "state": "outage"
             }
           ]
         },
@@ -198,19 +139,9 @@
           "id": "5.2",
           "intervals": [
             {
-              "from": "01:00",
-              "to": "08:00",
-              "state": "possible"
-            },
-            {
               "from": "11:30",
-              "to": "18:30",
-              "state": "possible"
-            },
-            {
-              "from": "22:00",
-              "to": "24:00",
-              "state": "possible"
+              "to": "15:30",
+              "state": "outage"
             }
           ]
         },
@@ -218,19 +149,14 @@
           "id": "6.1",
           "intervals": [
             {
-              "from": "01:00",
-              "to": "08:00",
-              "state": "possible"
-            },
-            {
               "from": "11:30",
-              "to": "18:30",
-              "state": "possible"
+              "to": "15:30",
+              "state": "outage"
             },
             {
               "from": "22:00",
               "to": "24:00",
-              "state": "possible"
+              "state": "outage"
             }
           ]
         },
@@ -238,19 +164,14 @@
           "id": "6.2",
           "intervals": [
             {
-              "from": "01:00",
-              "to": "08:00",
-              "state": "possible"
-            },
-            {
               "from": "11:30",
-              "to": "18:30",
-              "state": "possible"
+              "to": "15:30",
+              "state": "outage"
             },
             {
               "from": "22:00",
               "to": "24:00",
-              "state": "possible"
+              "state": "outage"
             }
           ]
         }
