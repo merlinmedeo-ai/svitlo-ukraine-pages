@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T19:36:10.941Z",
+  "generatedAt": "2026-10-24T22:02:21.690Z",
   "source": {
     "name": "АТ «Чернігівобленерго» — офіційний Telegram-канал · резерв alerts.org.ua",
     "indexUrl": "https://t.me/s/chernigivoblenergo",
-    "checkedAt": "2026-10-24T19:36:10.941Z"
+    "checkedAt": "2026-10-24T22:02:21.690Z"
   },
   "schedules": [
     {
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "status": "available",
-      "publishedAt": "2026-10-23T18:31:00.000Z",
+      "publishedAt": "2026-10-24T18:17:00.000Z",
       "articleUrl": "https://alerts.org.ua/chernigivska-oblast/",
       "checkedAt": null,
       "note": "Дані надійшли з alerts.org.ua — стороннього агрегатора. Звіряйте зміни на офіційному сервісі оператора. Резервні дані отримано зі стороннього агрегатора alerts.org.ua. Звіряйте графік з офіційним джерелом оператора.",
@@ -19,13 +19,8 @@
           "id": "1.1",
           "intervals": [
             {
-              "from": "08:00",
-              "to": "12:00",
-              "state": "outage"
-            },
-            {
-              "from": "19:00",
-              "to": "22:00",
+              "from": "16:00",
+              "to": "19:30",
               "state": "outage"
             }
           ]
@@ -34,13 +29,8 @@
           "id": "1.2",
           "intervals": [
             {
-              "from": "08:00",
-              "to": "12:00",
-              "state": "outage"
-            },
-            {
-              "from": "19:00",
-              "to": "22:00",
+              "from": "12:30",
+              "to": "16:00",
               "state": "outage"
             }
           ]
@@ -49,13 +39,13 @@
           "id": "2.1",
           "intervals": [
             {
-              "from": "08:00",
-              "to": "12:00",
+              "from": "09:00",
+              "to": "12:30",
               "state": "outage"
             },
             {
-              "from": "19:00",
-              "to": "22:00",
+              "from": "19:30",
+              "to": "21:00",
               "state": "outage"
             }
           ]
@@ -64,13 +54,13 @@
           "id": "2.2",
           "intervals": [
             {
-              "from": "08:00",
-              "to": "12:00",
+              "from": "09:00",
+              "to": "12:30",
               "state": "outage"
             },
             {
-              "from": "19:00",
-              "to": "22:00",
+              "from": "19:30",
+              "to": "21:00",
               "state": "outage"
             }
           ]
@@ -79,13 +69,8 @@
           "id": "3.1",
           "intervals": [
             {
-              "from": "12:00",
-              "to": "15:30",
-              "state": "outage"
-            },
-            {
-              "from": "22:00",
-              "to": "24:00",
+              "from": "16:00",
+              "to": "19:30",
               "state": "outage"
             }
           ]
@@ -94,13 +79,8 @@
           "id": "3.2",
           "intervals": [
             {
-              "from": "12:00",
-              "to": "15:30",
-              "state": "outage"
-            },
-            {
-              "from": "22:00",
-              "to": "24:00",
+              "from": "16:00",
+              "to": "19:30",
               "state": "outage"
             }
           ]
@@ -109,13 +89,8 @@
           "id": "4.1",
           "intervals": [
             {
-              "from": "08:00",
-              "to": "12:00",
-              "state": "outage"
-            },
-            {
-              "from": "19:00",
-              "to": "22:00",
+              "from": "12:30",
+              "to": "16:00",
               "state": "outage"
             }
           ]
@@ -124,13 +99,13 @@
           "id": "4.2",
           "intervals": [
             {
-              "from": "08:00",
-              "to": "12:00",
+              "from": "12:30",
+              "to": "16:00",
               "state": "outage"
             },
             {
-              "from": "19:00",
-              "to": "22:00",
+              "from": "23:00",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -139,8 +114,13 @@
           "id": "5.1",
           "intervals": [
             {
-              "from": "12:00",
-              "to": "15:30",
+              "from": "07:00",
+              "to": "09:00",
+              "state": "outage"
+            },
+            {
+              "from": "23:00",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -149,8 +129,13 @@
           "id": "5.2",
           "intervals": [
             {
-              "from": "12:00",
-              "to": "15:30",
+              "from": "07:00",
+              "to": "09:00",
+              "state": "outage"
+            },
+            {
+              "from": "16:00",
+              "to": "19:30",
               "state": "outage"
             }
           ]
@@ -159,8 +144,13 @@
           "id": "6.1",
           "intervals": [
             {
-              "from": "15:30",
-              "to": "19:00",
+              "from": "09:00",
+              "to": "12:30",
+              "state": "outage"
+            },
+            {
+              "from": "19:30",
+              "to": "23:00",
               "state": "outage"
             }
           ]
@@ -169,8 +159,8 @@
           "id": "6.2",
           "intervals": [
             {
-              "from": "15:30",
-              "to": "19:00",
+              "from": "19:30",
+              "to": "23:00",
               "state": "outage"
             }
           ]
@@ -178,7 +168,7 @@
       ]
     },
     {
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,
