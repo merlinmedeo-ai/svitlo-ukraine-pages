@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T22:24:59.869Z",
+  "generatedAt": "2026-10-24T19:35:46.376Z",
   "source": {
     "name": "alerts.org.ua — сторонній агрегатор, графік за інформацією Львівобленерго",
     "indexUrl": "https://alerts.org.ua/lvivska-oblast/",
-    "checkedAt": "2026-10-24T17:03:24.714Z"
+    "checkedAt": "2026-10-24T19:35:46.376Z"
   },
   "schedules": [
     {
@@ -17,118 +17,47 @@
       "queues": [
         {
           "id": "1.1",
-          "intervals": [
-            {
-              "from": "20:00",
-              "to": "22:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "1.2",
-          "intervals": [
-            {
-              "from": "11:00",
-              "to": "14:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "2.1",
-          "intervals": [
-            {
-              "from": "17:00",
-              "to": "20:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "2.2",
-          "intervals": [
-            {
-              "from": "11:00",
-              "to": "14:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "3.1",
-          "intervals": [
-            {
-              "from": "16:00",
-              "to": "20:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "3.2",
-          "intervals": [
-            {
-              "from": "14:00",
-              "to": "18:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "4.1",
-          "intervals": [
-            {
-              "from": "18:00",
-              "to": "22:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "4.2",
-          "intervals": [
-            {
-              "from": "10:00",
-              "to": "12:00",
-              "state": "outage"
-            },
-            {
-              "from": "20:00",
-              "to": "22:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "5.1",
-          "intervals": [
-            {
-              "from": "12:00",
-              "to": "16:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "5.2",
-          "intervals": [
-            {
-              "from": "14:00",
-              "to": "17:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "6.1",
-          "intervals": [
-            {
-              "from": "14:00",
-              "to": "18:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "6.2",
