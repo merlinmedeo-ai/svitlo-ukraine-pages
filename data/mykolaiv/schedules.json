@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T05:09:17.696Z",
+  "generatedAt": "2026-10-24T09:39:33.952Z",
   "source": {
     "name": "АТ «Миколаївобленерго» — офіційне API графіків ГПВ · резерв alerts.org.ua",
     "indexUrl": "https://off.energy.mk.ua/",
-    "checkedAt": "2026-10-24T05:09:17.696Z"
+    "checkedAt": "2026-10-24T09:39:33.952Z"
   },
   "schedules": [
     {
