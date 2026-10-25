@@ -1,111 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T19:47:58.426Z",
+  "generatedAt": "2026-10-25T22:08:05.979Z",
   "source": {
     "name": "АТ «Житомиробленерго» — датована таблиця ГПВ",
     "indexUrl": "https://www.ztoe.com.ua/unhooking-search.php",
-    "checkedAt": "2026-10-25T19:47:58.426Z"
+    "checkedAt": "2026-10-25T22:08:05.979Z"
   },
   "schedules": [
-    {
-      "date": "2026-10-25",
-      "status": "available",
-      "publishedAt": null,
-      "articleUrl": "https://www.ztoe.com.ua/unhooking-search.php",
-      "checkedAt": null,
-      "queues": [
-        {
-          "id": "1.1",
-          "intervals": [
-            {
-              "from": "12:00",
-              "to": "13:30",
-              "state": "outage"
-            }
-          ]
-        },
-        {
-          "id": "1.2",
-          "intervals": [
-            {
-              "from": "12:00",
-              "to": "14:00",
-              "state": "outage"
-            }
-          ]
-        },
-        {
-          "id": "2.1",
-          "intervals": []
-        },
-        {
-          "id": "2.2",
-          "intervals": [
-            {
-              "from": "14:00",
-              "to": "16:00",
-              "state": "outage"
-            }
-          ]
-        },
-        {
-          "id": "3.1",
-          "intervals": [
-            {
-              "from": "20:00",
-              "to": "22:00",
-              "state": "outage"
-            }
-          ]
-        },
-        {
-          "id": "3.2",
-          "intervals": []
-        },
-        {
-          "id": "4.1",
-          "intervals": []
-        },
-        {
-          "id": "4.2",
-          "intervals": [
-            {
-              "from": "18:00",
-              "to": "20:00",
-              "state": "outage"
-            }
-          ]
-        },
-        {
-          "id": "5.1",
-          "intervals": []
-        },
-        {
-          "id": "5.2",
-          "intervals": [
-            {
-              "from": "12:00",
-              "to": "13:00",
-              "state": "outage"
-            }
-          ]
-        },
-        {
-          "id": "6.1",
-          "intervals": [
-            {
-              "from": "16:00",
-              "to": "18:00",
-              "state": "outage"
-            }
-          ]
-        },
-        {
-          "id": "6.2",
-          "intervals": []
-        }
-      ]
-    },
     {
       "date": "2026-10-26",
       "status": "available",
@@ -287,6 +188,64 @@
               "state": "outage"
             }
           ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "status": "unavailable",
+      "publishedAt": null,
+      "articleUrl": null,
+      "checkedAt": null,
+      "note": "Житомиробленерго ще не опублікувало таблицю ГПВ на цю дату.",
+      "queues": [
+        {
+          "id": "1.1",
+          "intervals": []
+        },
+        {
+          "id": "1.2",
+          "intervals": []
+        },
+        {
+          "id": "2.1",
+          "intervals": []
+        },
+        {
+          "id": "2.2",
+          "intervals": []
+        },
+        {
+          "id": "3.1",
+          "intervals": []
+        },
+        {
+          "id": "3.2",
+          "intervals": []
+        },
+        {
+          "id": "4.1",
+          "intervals": []
+        },
+        {
+          "id": "4.2",
+          "intervals": []
+        },
+        {
+          "id": "5.1",
+          "intervals": []
+        },
+        {
+          "id": "5.2",
+          "intervals": []
+        },
+        {
+          "id": "6.1",
+          "intervals": []
+        },
+        {
+          "id": "6.2",
+          "intervals": []
         }
       ]
     }

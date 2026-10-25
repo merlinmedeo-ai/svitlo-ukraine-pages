@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T22:01:58.422Z",
+  "generatedAt": "2026-10-25T22:07:45.212Z",
   "source": {
     "name": "alerts.org.ua — сторонній агрегатор, графік за інформацією АТ «Вінницяобленерго»",
     "indexUrl": "https://alerts.org.ua/vinnytcka-oblast/",
-    "checkedAt": "2026-10-25T19:47:38.284Z"
+    "checkedAt": "2026-10-25T22:07:45.212Z"
   },
   "schedules": [
     {
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "status": "available",
-      "publishedAt": "2026-10-24T18:25:00.000Z",
+      "publishedAt": "2026-10-25T18:09:00.000Z",
       "articleUrl": "https://alerts.org.ua/vinnytcka-oblast/",
       "checkedAt": null,
       "note": "Дані надійшли з alerts.org.ua — стороннього агрегатора. Звіряйте зміни на офіційному сервісі оператора.",
@@ -122,12 +122,12 @@
       ]
     },
     {
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,
       "checkedAt": null,
-      "note": "Сторінка alerts.org.ua зараз містить графік на 2026-10-25, не на цю дату.",
+      "note": "Сторінка alerts.org.ua зараз містить графік на 2026-10-26, не на цю дату.",
       "queues": [
         {
           "id": "1.1",

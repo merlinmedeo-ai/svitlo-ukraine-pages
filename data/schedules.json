@@ -1,106 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T19:47:26.742Z",
+  "generatedAt": "2026-10-25T22:07:29.403Z",
   "source": {
     "name": "АТ «Черкасиобленерго» — новини ГПВ",
     "indexUrl": "https://www.cherkasyoblenergo.com/media",
     "checkedAt": null
   },
   "schedules": [
-    {
-      "date": "2026-10-25",
-      "status": "available",
-      "publishedAt": "2026-10-25T19:35:00.000Z",
-      "articleUrl": "https://www.cherkasyoblenergo.com/media/onovleno-hrafik-pohodynnykh-vidklyuchen-hpv-na-25-zhovtnya?lang=uk",
-      "checkedAt": null,
-      "queues": [
-        {
-          "id": "1.1",
-          "intervals": [
-            {
-              "from": "21:00",
-              "to": "24:00",
-              "state": "outage"
-            }
-          ]
-        },
-        {
-          "id": "1.2",
-          "intervals": [
-            {
-              "from": "22:00",
-              "to": "24:00",
-              "state": "outage"
-            }
-          ]
-        },
-        {
-          "id": "2.1",
-          "intervals": [
-            {
-              "from": "21:00",
-              "to": "24:00",
-              "state": "outage"
-            }
-          ]
-        },
-        {
-          "id": "2.2",
-          "intervals": []
-        },
-        {
-          "id": "3.1",
-          "intervals": [
-            {
-              "from": "19:00",
-              "to": "22:00",
-              "state": "outage"
-            }
-          ]
-        },
-        {
-          "id": "3.2",
-          "intervals": [
-            {
-              "from": "19:00",
-              "to": "22:00",
-              "state": "outage"
-            }
-          ]
-        },
-        {
-          "id": "4.1",
-          "intervals": []
-        },
-        {
-          "id": "4.2",
-          "intervals": []
-        },
-        {
-          "id": "5.1",
-          "intervals": [
-            {
-              "from": "22:00",
-              "to": "24:00",
-              "state": "outage"
-            }
-          ]
-        },
-        {
-          "id": "5.2",
-          "intervals": []
-        },
-        {
-          "id": "6.1",
-          "intervals": []
-        },
-        {
-          "id": "6.2",
-          "intervals": []
-        }
-      ],
-      "note": null
-    },
     {
       "date": "2026-10-26",
       "status": "available",
@@ -332,6 +238,64 @@
               "state": "outage"
             }
           ]
+        }
+      ],
+      "note": null
+    },
+    {
+      "date": "2026-10-27",
+      "status": "unavailable",
+      "publishedAt": null,
+      "articleUrl": null,
+      "checkedAt": null,
+      "queues": [
+        {
+          "id": "1.1",
+          "intervals": []
+        },
+        {
+          "id": "1.2",
+          "intervals": []
+        },
+        {
+          "id": "2.1",
+          "intervals": []
+        },
+        {
+          "id": "2.2",
+          "intervals": []
+        },
+        {
+          "id": "3.1",
+          "intervals": []
+        },
+        {
+          "id": "3.2",
+          "intervals": []
+        },
+        {
+          "id": "4.1",
+          "intervals": []
+        },
+        {
+          "id": "4.2",
+          "intervals": []
+        },
+        {
+          "id": "5.1",
+          "intervals": []
+        },
+        {
+          "id": "5.2",
+          "intervals": []
+        },
+        {
+          "id": "6.1",
+          "intervals": []
+        },
+        {
+          "id": "6.2",
+          "intervals": []
         }
       ],
       "note": null

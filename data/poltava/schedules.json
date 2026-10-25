@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T22:01:59.560Z",
+  "generatedAt": "2026-10-25T22:07:48.027Z",
   "source": {
     "name": "alerts.org.ua — сторонній агрегатор, графік за інформацією АТ «Полтаваобленерго»",
     "indexUrl": "https://alerts.org.ua/poltavska-oblast/",
-    "checkedAt": "2026-10-25T19:47:40.060Z"
+    "checkedAt": "2026-10-25T22:07:48.027Z"
   },
   "schedules": [
     {
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "status": "available",
-      "publishedAt": "2026-10-24T16:56:00.000Z",
+      "publishedAt": "2026-10-25T18:34:00.000Z",
       "articleUrl": "https://alerts.org.ua/poltavska-oblast/",
       "checkedAt": null,
       "note": "Дані надійшли з alerts.org.ua — стороннього агрегатора. Звіряйте зміни на офіційному сервісі оператора.",
@@ -19,83 +19,23 @@
           "id": "1.1",
           "intervals": [
             {
-              "from": "12:00",
-              "to": "13:30",
-              "state": "outage"
-            },
-            {
-              "from": "13:30",
-              "to": "14:00",
-              "state": "possible"
-            },
-            {
-              "from": "18:00",
-              "to": "20:00",
-              "state": "outage"
-            },
-            {
-              "from": "20:00",
-              "to": "20:30",
-              "state": "possible"
-            }
-          ]
-        },
-        {
-          "id": "1.2",
-          "intervals": [
-            {
               "from": "07:00",
-              "to": "07:30",
-              "state": "outage"
-            },
-            {
-              "from": "07:30",
-              "to": "08:00",
-              "state": "possible"
-            },
-            {
-              "from": "12:30",
-              "to": "14:00",
-              "state": "outage"
-            },
-            {
-              "from": "14:00",
-              "to": "14:30",
-              "state": "possible"
-            },
-            {
-              "from": "18:30",
-              "to": "20:30",
-              "state": "outage"
-            },
-            {
-              "from": "20:30",
-              "to": "21:00",
-              "state": "possible"
-            }
-          ]
-        },
-        {
-          "id": "2.1",
-          "intervals": [
-            {
-              "from": "07:00",
-              "to": "08:00",
-              "state": "outage"
-            },
-            {
-              "from": "08:00",
               "to": "08:30",
+              "state": "outage"
+            },
+            {
+              "from": "08:30",
+              "to": "09:00",
               "state": "possible"
             },
             {
               "from": "13:00",
-              "to": "14:30",
+              "to": "15:00",
               "state": "outage"
             },
             {
-              "from": "14:30",
-              "to": "15:00",
+              "from": "15:00",
+              "to": "15:30",
               "state": "possible"
             },
             {
@@ -111,26 +51,26 @@
           ]
         },
         {
-          "id": "2.2",
+          "id": "1.2",
           "intervals": [
             {
               "from": "07:30",
-              "to": "08:30",
+              "to": "09:00",
               "state": "outage"
             },
             {
-              "from": "08:30",
-              "to": "09:00",
+              "from": "09:00",
+              "to": "09:30",
               "state": "possible"
             },
             {
               "from": "13:30",
-              "to": "15:00",
+              "to": "15:30",
               "state": "outage"
             },
             {
-              "from": "15:00",
-              "to": "15:30",
+              "from": "15:30",
+              "to": "16:00",
               "state": "possible"
             },
             {
@@ -146,7 +86,7 @@
           ]
         },
         {
-          "id": "3.1",
+          "id": "2.1",
           "intervals": [
             {
               "from": "08:00",
@@ -160,12 +100,12 @@
             },
             {
               "from": "14:00",
-              "to": "15:30",
+              "to": "16:00",
               "state": "outage"
             },
             {
-              "from": "15:30",
-              "to": "16:00",
+              "from": "16:00",
+              "to": "16:30",
               "state": "possible"
             },
             {
@@ -181,7 +121,7 @@
           ]
         },
         {
-          "id": "3.2",
+          "id": "2.2",
           "intervals": [
             {
               "from": "08:30",
@@ -216,7 +156,7 @@
           ]
         },
         {
-          "id": "4.1",
+          "id": "3.1",
           "intervals": [
             {
               "from": "09:00",
@@ -251,16 +191,16 @@
           ]
         },
         {
-          "id": "4.2",
+          "id": "3.2",
           "intervals": [
             {
               "from": "09:30",
-              "to": "11:00",
+              "to": "11:30",
               "state": "outage"
             },
             {
-              "from": "11:00",
-              "to": "11:30",
+              "from": "11:30",
+              "to": "12:00",
               "state": "possible"
             },
             {
@@ -286,16 +226,16 @@
           ]
         },
         {
-          "id": "5.1",
+          "id": "4.1",
           "intervals": [
             {
               "from": "10:00",
-              "to": "11:30",
+              "to": "12:00",
               "state": "outage"
             },
             {
-              "from": "11:30",
-              "to": "12:00",
+              "from": "12:00",
+              "to": "12:30",
               "state": "possible"
             },
             {
@@ -321,16 +261,16 @@
           ]
         },
         {
-          "id": "5.2",
+          "id": "4.2",
           "intervals": [
             {
               "from": "10:30",
-              "to": "12:00",
+              "to": "12:30",
               "state": "outage"
             },
             {
-              "from": "12:00",
-              "to": "12:30",
+              "from": "12:30",
+              "to": "13:00",
               "state": "possible"
             },
             {
@@ -356,16 +296,26 @@
           ]
         },
         {
-          "id": "6.1",
+          "id": "5.1",
           "intervals": [
             {
-              "from": "11:00",
-              "to": "12:30",
+              "from": "06:00",
+              "to": "06:30",
               "state": "outage"
             },
             {
-              "from": "12:30",
+              "from": "06:30",
+              "to": "07:00",
+              "state": "possible"
+            },
+            {
+              "from": "11:00",
               "to": "13:00",
+              "state": "outage"
+            },
+            {
+              "from": "13:00",
+              "to": "13:30",
               "state": "possible"
             },
             {
@@ -386,16 +336,26 @@
           ]
         },
         {
-          "id": "6.2",
+          "id": "5.2",
           "intervals": [
             {
-              "from": "11:30",
-              "to": "13:00",
+              "from": "06:00",
+              "to": "07:00",
               "state": "outage"
             },
             {
-              "from": "13:00",
+              "from": "07:00",
+              "to": "07:30",
+              "state": "possible"
+            },
+            {
+              "from": "11:30",
               "to": "13:30",
+              "state": "outage"
+            },
+            {
+              "from": "13:30",
+              "to": "14:00",
               "state": "possible"
             },
             {
@@ -414,16 +374,86 @@
               "state": "outage"
             }
           ]
+        },
+        {
+          "id": "6.1",
+          "intervals": [
+            {
+              "from": "06:00",
+              "to": "07:30",
+              "state": "outage"
+            },
+            {
+              "from": "07:30",
+              "to": "08:00",
+              "state": "possible"
+            },
+            {
+              "from": "12:00",
+              "to": "14:00",
+              "state": "outage"
+            },
+            {
+              "from": "14:00",
+              "to": "14:30",
+              "state": "possible"
+            },
+            {
+              "from": "18:00",
+              "to": "20:00",
+              "state": "outage"
+            },
+            {
+              "from": "20:00",
+              "to": "20:30",
+              "state": "possible"
+            }
+          ]
+        },
+        {
+          "id": "6.2",
+          "intervals": [
+            {
+              "from": "06:30",
+              "to": "08:00",
+              "state": "outage"
+            },
+            {
+              "from": "08:00",
+              "to": "08:30",
+              "state": "possible"
+            },
+            {
+              "from": "12:30",
+              "to": "14:30",
+              "state": "outage"
+            },
+            {
+              "from": "14:30",
+              "to": "15:00",
+              "state": "possible"
+            },
+            {
+              "from": "18:30",
+              "to": "20:30",
+              "state": "outage"
+            },
+            {
+              "from": "20:30",
+              "to": "21:00",
+              "state": "possible"
+            }
+          ]
         }
       ]
     },
     {
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,
       "checkedAt": null,
-      "note": "Сторінка alerts.org.ua зараз містить графік на 2026-10-25, не на цю дату.",
+      "note": "Сторінка alerts.org.ua зараз містить графік на 2026-10-26, не на цю дату.",
       "queues": [
         {
           "id": "1.1",
