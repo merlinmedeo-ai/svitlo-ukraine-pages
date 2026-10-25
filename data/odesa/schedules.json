@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T00:24:41.777Z",
+  "generatedAt": "2026-10-25T04:59:20.057Z",
   "source": {
-    "name": "АТ «ДТЕК Одеські електромережі» — офіційні графіки ГПВ · резерв alerts.org.ua",
+    "name": "АТ «ДТЕК Одеські електромережі» — офіційні графіки ГПВ · резерв alerts.org.ua · резерв alerts.org.ua",
     "indexUrl": "https://www.dtek-oem.com.ua/ua/shutdowns",
-    "checkedAt": "2026-10-25T00:24:41.777Z"
+    "checkedAt": "2026-10-25T04:59:20.057Z"
   },
   "schedules": [
     {
