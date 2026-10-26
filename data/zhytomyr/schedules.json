@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T22:08:05.979Z",
+  "generatedAt": "2026-10-26T11:19:34.390Z",
   "source": {
     "name": "АТ «Житомиробленерго» — датована таблиця ГПВ",
     "indexUrl": "https://www.ztoe.com.ua/unhooking-search.php",
-    "checkedAt": "2026-10-26T05:09:39.989Z"
+    "checkedAt": "2026-10-26T11:19:34.390Z"
   },
   "schedules": [
     {
@@ -20,6 +20,11 @@
             {
               "from": "09:00",
               "to": "12:00",
+              "state": "outage"
+            },
+            {
+              "from": "16:00",
+              "to": "17:00",
               "state": "outage"
             },
             {
@@ -49,12 +54,12 @@
           "intervals": [
             {
               "from": "06:00",
-              "to": "08:00",
+              "to": "09:00",
               "state": "outage"
             },
             {
               "from": "12:00",
-              "to": "15:00",
+              "to": "16:00",
               "state": "outage"
             }
           ]
@@ -66,6 +71,11 @@
               "from": "12:00",
               "to": "15:00",
               "state": "outage"
+            },
+            {
+              "from": "19:00",
+              "to": "21:00",
+              "state": "outage"
             }
           ]
         },
@@ -74,7 +84,7 @@
           "intervals": [
             {
               "from": "11:00",
-              "to": "13:00",
+              "to": "14:00",
               "state": "outage"
             },
             {
@@ -88,7 +98,7 @@
           "id": "3.2",
           "intervals": [
             {
-              "from": "11:00",
+              "from": "10:00",
               "to": "13:00",
               "state": "outage"
             },
@@ -104,7 +114,7 @@
           "intervals": [
             {
               "from": "06:00",
-              "to": "09:00",
+              "to": "10:00",
               "state": "outage"
             },
             {
@@ -144,7 +154,7 @@
           "intervals": [
             {
               "from": "08:00",
-              "to": "11:00",
+              "to": "12:00",
               "state": "outage"
             },
             {
@@ -163,7 +173,7 @@
               "state": "outage"
             },
             {
-              "from": "15:00",
+              "from": "14:00",
               "to": "18:00",
               "state": "outage"
             }
@@ -173,7 +183,7 @@
           "id": "6.1",
           "intervals": [
             {
-              "from": "13:00",
+              "from": "12:00",
               "to": "15:00",
               "state": "outage"
             }
@@ -185,6 +195,11 @@
             {
               "from": "13:00",
               "to": "15:00",
+              "state": "outage"
+            },
+            {
+              "from": "17:00",
+              "to": "19:00",
               "state": "outage"
             }
           ]

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T22:07:29.403Z",
+  "generatedAt": "2026-10-26T11:18:57.341Z",
   "source": {
     "name": "АТ «Черкасиобленерго» — новини ГПВ",
     "indexUrl": "https://www.cherkasyoblenergo.com/media",
@@ -10,8 +10,8 @@
     {
       "date": "2026-10-26",
       "status": "available",
-      "publishedAt": "2026-10-25T18:28:00.000Z",
-      "articleUrl": "https://www.cherkasyoblenergo.com/media/hrafik-pohodynnykh-vidklyuchen-hpv-na-26-zhovtnya?lang=uk",
+      "publishedAt": "2026-10-26T05:57:00.000Z",
+      "articleUrl": "https://www.cherkasyoblenergo.com/media/onovleno-hrafik-pohodynnykh-vidklyuchen-hpv-na-26-zhovtnya-1?lang=uk",
       "checkedAt": null,
       "queues": [
         {
@@ -19,7 +19,7 @@
           "intervals": [
             {
               "from": "08:00",
-              "to": "10:00",
+              "to": "11:00",
               "state": "outage"
             },
             {
@@ -28,7 +28,7 @@
               "state": "outage"
             },
             {
-              "from": "20:00",
+              "from": "19:00",
               "to": "21:00",
               "state": "outage"
             }
@@ -44,7 +44,7 @@
             },
             {
               "from": "14:00",
-              "to": "16:00",
+              "to": "17:00",
               "state": "outage"
             },
             {
@@ -83,7 +83,7 @@
               "state": "outage"
             },
             {
-              "from": "14:00",
+              "from": "13:00",
               "to": "16:00",
               "state": "outage"
             },
@@ -99,7 +99,7 @@
           "intervals": [
             {
               "from": "06:00",
-              "to": "08:00",
+              "to": "09:00",
               "state": "outage"
             },
             {
@@ -109,7 +109,7 @@
             },
             {
               "from": "18:00",
-              "to": "20:00",
+              "to": "21:00",
               "state": "outage"
             }
           ]
@@ -118,7 +118,7 @@
           "id": "3.2",
           "intervals": [
             {
-              "from": "12:00",
+              "from": "11:00",
               "to": "14:00",
               "state": "outage"
             },
@@ -138,7 +138,7 @@
               "state": "outage"
             },
             {
-              "from": "16:00",
+              "from": "15:00",
               "to": "18:00",
               "state": "outage"
             },
@@ -159,7 +159,7 @@
             },
             {
               "from": "16:00",
-              "to": "18:00",
+              "to": "19:00",
               "state": "outage"
             },
             {
@@ -174,7 +174,7 @@
           "intervals": [
             {
               "from": "10:00",
-              "to": "12:00",
+              "to": "13:00",
               "state": "outage"
             },
             {
@@ -188,7 +188,7 @@
           "id": "5.2",
           "intervals": [
             {
-              "from": "10:00",
+              "from": "09:00",
               "to": "12:00",
               "state": "outage"
             },
@@ -209,7 +209,7 @@
             },
             {
               "from": "12:00",
-              "to": "14:00",
+              "to": "15:00",
               "state": "outage"
             },
             {
@@ -233,7 +233,7 @@
               "state": "outage"
             },
             {
-              "from": "18:00",
+              "from": "17:00",
               "to": "20:00",
               "state": "outage"
             }
