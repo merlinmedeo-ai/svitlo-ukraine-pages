@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T17:29:46.293Z",
+  "generatedAt": "2026-10-26T21:46:34.803Z",
   "source": {
     "name": "ПрАТ «Рівнеобленерго» — таблиця ГПВ · резерв alerts.org.ua",
     "indexUrl": "https://www.roe.vsei.ua/disconnections",
-    "checkedAt": "2026-10-26T17:29:46.293Z"
+    "checkedAt": "2026-10-26T21:46:34.803Z"
   },
   "schedules": [
     {
@@ -19,9 +19,9 @@
           "id": "1.1",
           "intervals": [
             {
-              "from": "13:00",
-              "to": "16:00",
-              "state": "outage"
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
             }
           ]
         },
@@ -29,9 +29,9 @@
           "id": "1.2",
           "intervals": [
             {
-              "from": "13:00",
-              "to": "16:00",
-              "state": "outage"
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
             }
           ]
         },
@@ -39,9 +39,9 @@
           "id": "2.1",
           "intervals": [
             {
-              "from": "13:00",
-              "to": "16:00",
-              "state": "outage"
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
             }
           ]
         },
@@ -49,9 +49,9 @@
           "id": "2.2",
           "intervals": [
             {
-              "from": "13:00",
-              "to": "16:00",
-              "state": "outage"
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
             }
           ]
         },
@@ -59,9 +59,9 @@
           "id": "3.1",
           "intervals": [
             {
-              "from": "16:00",
-              "to": "20:00",
-              "state": "outage"
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
             }
           ]
         },
@@ -69,9 +69,9 @@
           "id": "3.2",
           "intervals": [
             {
-              "from": "16:00",
-              "to": "20:00",
-              "state": "outage"
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
             }
           ]
         },
@@ -79,9 +79,9 @@
           "id": "4.1",
           "intervals": [
             {
-              "from": "16:00",
-              "to": "20:00",
-              "state": "outage"
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
             }
           ]
         },
@@ -89,9 +89,9 @@
           "id": "4.2",
           "intervals": [
             {
-              "from": "16:00",
-              "to": "20:00",
-              "state": "outage"
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
             }
           ]
         },
@@ -99,9 +99,9 @@
           "id": "5.1",
           "intervals": [
             {
-              "from": "20:00",
+              "from": "00:00",
               "to": "24:00",
-              "state": "outage"
+              "state": "possible"
             }
           ]
         },
@@ -109,9 +109,9 @@
           "id": "5.2",
           "intervals": [
             {
-              "from": "20:00",
+              "from": "00:00",
               "to": "24:00",
-              "state": "outage"
+              "state": "possible"
             }
           ]
         },
@@ -119,9 +119,9 @@
           "id": "6.1",
           "intervals": [
             {
-              "from": "20:00",
+              "from": "00:00",
               "to": "24:00",
-              "state": "outage"
+              "state": "possible"
             }
           ]
         },
@@ -129,9 +129,9 @@
           "id": "6.2",
           "intervals": [
             {
-              "from": "20:00",
+              "from": "00:00",
               "to": "24:00",
-              "state": "outage"
+              "state": "possible"
             }
           ]
         }

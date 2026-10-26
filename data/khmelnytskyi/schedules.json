@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T22:07:48.831Z",
+  "generatedAt": "2026-10-26T21:46:07.143Z",
   "source": {
     "name": "alerts.org.ua — сторонній агрегатор, графік за інформацією АТ «Хмельницькобленерго»",
     "indexUrl": "https://alerts.org.ua/hmelnitcka-oblast/",
-    "checkedAt": "2026-10-26T17:29:21.607Z"
+    "checkedAt": "2026-10-26T21:46:07.143Z"
   },
   "schedules": [
     {
@@ -17,51 +17,123 @@
       "queues": [
         {
           "id": "1.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         },
         {
           "id": "1.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         },
         {
           "id": "2.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         },
         {
           "id": "2.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         },
         {
           "id": "3.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         },
         {
           "id": "3.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         },
         {
           "id": "4.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         },
         {
           "id": "4.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         },
         {
           "id": "5.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         },
         {
           "id": "5.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         },
         {
           "id": "6.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         },
         {
           "id": "6.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         }
       ]
     },

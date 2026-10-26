@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T17:29:49.185Z",
+  "generatedAt": "2026-10-26T21:46:36.987Z",
   "timezone": "Europe/Kyiv",
   "freshnessLimitMinutes": 90,
   "automaticSourceCount": 24,
   "automaticAreaCount": 23,
-  "currentSourceCount": 21,
+  "currentSourceCount": 22,
   "lookupOnlyCount": 1,
   "today": {
     "date": "2026-10-26",
-    "confirmedGraphCount": 21,
-    "areaCount": 20,
+    "confirmedGraphCount": 22,
+    "areaCount": 21,
     "sourceCount": 24
   },
   "tomorrow": {
     "date": "2026-10-27",
-    "confirmedGraphCount": 4,
-    "areaCount": 3,
+    "confirmedGraphCount": 7,
+    "areaCount": 6,
     "sourceCount": 24
   }
 }

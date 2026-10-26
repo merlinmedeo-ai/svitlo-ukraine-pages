@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T17:29:48.747Z",
+  "generatedAt": "2026-10-26T21:46:36.529Z",
   "source": {
     "name": "АТ «Тернопільобленерго» — офіційний Telegram-канал · резерв alerts.org.ua",
     "indexUrl": "https://t.me/s/ternopiloblenerho",
-    "checkedAt": "2026-10-26T17:29:48.747Z"
+    "checkedAt": "2026-10-26T21:46:36.529Z"
   },
   "schedules": [
     {
@@ -17,55 +17,121 @@
       "queues": [
         {
           "id": "1.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         },
         {
           "id": "1.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         },
         {
           "id": "2.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         },
         {
           "id": "2.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         },
         {
           "id": "3.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         },
         {
           "id": "3.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         },
         {
           "id": "4.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         },
         {
           "id": "4.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         },
         {
           "id": "5.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         },
         {
           "id": "5.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         },
         {
           "id": "6.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         },
         {
           "id": "6.2",
           "intervals": [
             {
-              "from": "06:00",
-              "to": "08:00",
-              "state": "outage"
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
             }
           ]
         }
