@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T05:51:54.909Z",
+  "generatedAt": "2026-10-27T11:08:50.830Z",
   "source": {
     "name": "АТ «Житомиробленерго» — датована таблиця ГПВ",
     "indexUrl": "https://www.ztoe.com.ua/unhooking-search.php",
-    "checkedAt": "2026-10-27T05:51:54.909Z"
+    "checkedAt": "2026-10-27T11:08:50.830Z"
   },
   "schedules": [
     {
@@ -53,11 +53,6 @@
           "id": "2.1",
           "intervals": [
             {
-              "from": "10:00",
-              "to": "12:30",
-              "state": "outage"
-            },
-            {
               "from": "18:00",
               "to": "21:00",
               "state": "outage"
@@ -73,11 +68,6 @@
               "state": "outage"
             },
             {
-              "from": "12:30",
-              "to": "15:00",
-              "state": "outage"
-            },
-            {
               "from": "18:00",
               "to": "21:00",
               "state": "outage"
@@ -87,6 +77,11 @@
         {
           "id": "3.1",
           "intervals": [
+            {
+              "from": "09:00",
+              "to": "10:00",
+              "state": "outage"
+            },
             {
               "from": "15:00",
               "to": "18:00",
