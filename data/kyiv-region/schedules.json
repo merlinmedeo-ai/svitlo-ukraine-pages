@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T00:57:46.254Z",
+  "generatedAt": "2026-10-27T05:51:33.234Z",
   "source": {
     "name": "ПрАТ «ДТЕК Київські регіональні електромережі» — офіційні графіки ГПВ",
     "indexUrl": "https://www.dtek-krem.com.ua/ua/shutdowns",
-    "checkedAt": "2026-10-27T00:57:46.254Z"
+    "checkedAt": "2026-10-27T05:51:33.234Z"
   },
   "schedules": [
     {
       "date": "2026-10-27",
       "status": "available",
-      "publishedAt": "2026-10-26T20:42:00.000Z",
+      "publishedAt": "2026-10-27T04:44:00.000Z",
       "articleUrl": "https://www.dtek-krem.com.ua/ua/shutdowns",
       "checkedAt": null,
       "queues": [
@@ -259,7 +259,7 @@
     {
       "date": "2026-10-28",
       "status": "available",
-      "publishedAt": "2026-10-26T20:42:00.000Z",
+      "publishedAt": "2026-10-27T04:44:00.000Z",
       "articleUrl": "https://www.dtek-krem.com.ua/ua/shutdowns",
       "checkedAt": null,
       "queues": [

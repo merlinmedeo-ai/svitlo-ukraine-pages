@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T00:58:11.754Z",
+  "generatedAt": "2026-10-27T05:51:56.061Z",
   "source": {
     "name": "YASNO — офіційний графік відключень ДТЕК Київські електромережі",
     "indexUrl": "https://kyiv.yasno.com.ua/schedule-turn-off-electricity",
-    "checkedAt": "2026-10-27T00:58:11.754Z"
+    "checkedAt": "2026-10-27T05:51:56.061Z"
   },
   "schedules": [
     {
       "date": "2026-10-27",
       "status": "available",
-      "publishedAt": "2026-10-26T19:15:02.000Z",
+      "publishedAt": "2026-10-27T05:45:02.000Z",
       "articleUrl": "https://kyiv.yasno.com.ua/schedule-turn-off-electricity",
       "checkedAt": null,
       "queues": [
@@ -188,7 +188,7 @@
           "id": "11.1",
           "intervals": [
             {
-              "from": "08:00",
+              "from": "08:30",
               "to": "11:30",
               "state": "outage"
             },
@@ -203,7 +203,7 @@
           "id": "12.1",
           "intervals": [
             {
-              "from": "08:30",
+              "from": "10:00",
               "to": "12:00",
               "state": "outage"
             },
@@ -388,7 +388,7 @@
           "id": "23.1",
           "intervals": [
             {
-              "from": "08:00",
+              "from": "08:30",
               "to": "11:30",
               "state": "outage"
             },
@@ -403,7 +403,7 @@
           "id": "24.1",
           "intervals": [
             {
-              "from": "08:30",
+              "from": "10:00",
               "to": "12:00",
               "state": "outage"
             },
@@ -588,7 +588,7 @@
           "id": "35.1",
           "intervals": [
             {
-              "from": "08:00",
+              "from": "08:30",
               "to": "11:30",
               "state": "outage"
             },
@@ -603,7 +603,7 @@
           "id": "36.1",
           "intervals": [
             {
-              "from": "08:30",
+              "from": "10:00",
               "to": "12:00",
               "state": "outage"
             },
@@ -788,7 +788,7 @@
           "id": "47.1",
           "intervals": [
             {
-              "from": "08:00",
+              "from": "08:30",
               "to": "11:30",
               "state": "outage"
             },
@@ -803,7 +803,7 @@
           "id": "48.1",
           "intervals": [
             {
-              "from": "08:30",
+              "from": "10:00",
               "to": "12:00",
               "state": "outage"
             },
@@ -988,7 +988,7 @@
           "id": "59.1",
           "intervals": [
             {
-              "from": "08:00",
+              "from": "08:30",
               "to": "11:30",
               "state": "outage"
             },
@@ -1003,7 +1003,7 @@
           "id": "60.1",
           "intervals": [
             {
-              "from": "08:30",
+              "from": "10:00",
               "to": "12:00",
               "state": "outage"
             },
