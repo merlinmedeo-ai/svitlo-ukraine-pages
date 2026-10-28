@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T21:02:37.207Z",
+  "generatedAt": "2026-10-28T00:36:23.194Z",
   "source": {
     "name": "АТ «Тернопільобленерго» — офіційний Telegram-канал · резерв alerts.org.ua",
     "indexUrl": "https://t.me/s/ternopiloblenerho",
-    "checkedAt": "2026-10-27T21:02:37.207Z"
+    "checkedAt": "2026-10-28T00:36:23.194Z"
   },
   "schedules": [
     {
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "status": "available",
-      "publishedAt": "2026-10-26T22:01:00.000Z",
+      "publishedAt": "2026-10-27T19:15:00.000Z",
       "articleUrl": "https://alerts.org.ua/ternopilska-oblast/",
       "checkedAt": null,
       "note": "Дані надійшли з alerts.org.ua — стороннього агрегатора. Звіряйте зміни на офіційному сервісі оператора. Резервні дані отримано зі стороннього агрегатора alerts.org.ua. Звіряйте графік з офіційним джерелом оператора.",
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,

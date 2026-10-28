@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T00:57:44.046Z",
+  "generatedAt": "2026-10-28T00:36:21.111Z",
   "source": {
-    "name": "АТ «ДТЕК Дніпровські електромережі» — офіційні графіки ГПВ",
+    "name": "АТ «ДТЕК Дніпровські електромережі» — офіційні графіки ГПВ · резерв alerts.org.ua",
     "indexUrl": "https://www.dtek-dnem.com.ua/ua/shutdowns",
-    "checkedAt": "2026-10-27T21:02:03.979Z"
+    "checkedAt": "2026-10-28T00:36:21.111Z"
   },
   "schedules": [
     {
@@ -259,249 +259,116 @@
     {
       "date": "2026-10-28",
       "status": "available",
-      "publishedAt": "2026-10-26T23:08:00.000Z",
-      "articleUrl": "https://www.dtek-dnem.com.ua/ua/shutdowns",
+      "publishedAt": "2026-10-27T19:54:00.000Z",
+      "articleUrl": "https://alerts.org.ua/dnipropetrovska-oblast/",
       "checkedAt": null,
+      "note": "Дані надійшли з alerts.org.ua — стороннього агрегатора. Звіряйте зміни на офіційному сервісі оператора. Резервні дані отримано зі стороннього агрегатора alerts.org.ua. Звіряйте графік з офіційним джерелом оператора.",
       "queues": [
         {
           "id": "1.1",
-          "intervals": [
-            {
-              "from": "01:30",
-              "to": "08:30",
-              "state": "possible"
-            },
-            {
-              "from": "12:00",
-              "to": "19:00",
-              "state": "possible"
-            },
-            {
-              "from": "22:30",
-              "to": "24:00",
-              "state": "possible"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "1.2",
-          "intervals": [
-            {
-              "from": "01:30",
-              "to": "08:30",
-              "state": "possible"
-            },
-            {
-              "from": "12:00",
-              "to": "19:00",
-              "state": "possible"
-            },
-            {
-              "from": "22:30",
-              "to": "24:00",
-              "state": "possible"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "2.1",
-          "intervals": [
-            {
-              "from": "01:30",
-              "to": "08:30",
-              "state": "possible"
-            },
-            {
-              "from": "12:00",
-              "to": "19:00",
-              "state": "possible"
-            },
-            {
-              "from": "22:30",
-              "to": "24:00",
-              "state": "possible"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "2.2",
-          "intervals": [
-            {
-              "from": "01:30",
-              "to": "08:30",
-              "state": "possible"
-            },
-            {
-              "from": "12:00",
-              "to": "19:00",
-              "state": "possible"
-            },
-            {
-              "from": "22:30",
-              "to": "24:00",
-              "state": "possible"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "3.1",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "01:30",
-              "state": "possible"
-            },
-            {
-              "from": "05:00",
-              "to": "12:00",
-              "state": "possible"
-            },
-            {
-              "from": "15:30",
-              "to": "22:30",
-              "state": "possible"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "3.2",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "01:30",
-              "state": "possible"
-            },
-            {
-              "from": "05:00",
-              "to": "12:00",
-              "state": "possible"
-            },
-            {
-              "from": "15:30",
-              "to": "22:30",
-              "state": "possible"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "4.1",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "01:30",
-              "state": "possible"
-            },
-            {
-              "from": "05:00",
-              "to": "12:00",
-              "state": "possible"
-            },
-            {
-              "from": "15:30",
-              "to": "22:30",
-              "state": "possible"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "4.2",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "01:30",
-              "state": "possible"
-            },
-            {
-              "from": "05:00",
-              "to": "12:00",
-              "state": "possible"
-            },
-            {
-              "from": "15:30",
-              "to": "22:30",
-              "state": "possible"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "5.1",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "05:00",
-              "state": "possible"
-            },
-            {
-              "from": "08:30",
-              "to": "15:30",
-              "state": "possible"
-            },
-            {
-              "from": "19:00",
-              "to": "24:00",
-              "state": "possible"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "5.2",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "05:00",
-              "state": "possible"
-            },
-            {
-              "from": "08:30",
-              "to": "15:30",
-              "state": "possible"
-            },
-            {
-              "from": "19:00",
-              "to": "24:00",
-              "state": "possible"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "6.1",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "05:00",
-              "state": "possible"
-            },
-            {
-              "from": "08:30",
-              "to": "15:30",
-              "state": "possible"
-            },
-            {
-              "from": "19:00",
-              "to": "24:00",
-              "state": "possible"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "6.2",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "05:00",
-              "state": "possible"
-            },
-            {
-              "from": "08:30",
-              "to": "15:30",
-              "state": "possible"
-            },
-            {
-              "from": "19:00",
-              "to": "24:00",
-              "state": "possible"
-            }
-          ]
+          "intervals": []
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "status": "unavailable",
+      "publishedAt": null,
+      "articleUrl": null,
+      "checkedAt": null,
+      "note": "Сторінка alerts.org.ua зараз містить графік на 2026-10-28, не на цю дату.",
+      "queues": [
+        {
+          "id": "1.1",
+          "intervals": []
+        },
+        {
+          "id": "1.2",
+          "intervals": []
+        },
+        {
+          "id": "2.1",
+          "intervals": []
+        },
+        {
+          "id": "2.2",
+          "intervals": []
+        },
+        {
+          "id": "3.1",
+          "intervals": []
+        },
+        {
+          "id": "3.2",
+          "intervals": []
+        },
+        {
+          "id": "4.1",
+          "intervals": []
+        },
+        {
+          "id": "4.2",
+          "intervals": []
+        },
+        {
+          "id": "5.1",
+          "intervals": []
+        },
+        {
+          "id": "5.2",
+          "intervals": []
+        },
+        {
+          "id": "6.1",
+          "intervals": []
+        },
+        {
+          "id": "6.2",
+          "intervals": []
         }
       ]
     }

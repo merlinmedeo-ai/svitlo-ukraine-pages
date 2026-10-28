@@ -1,261 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T21:02:07.210Z",
+  "generatedAt": "2026-10-28T00:35:51.196Z",
   "source": {
     "name": "ПрАТ «ДТЕК Київські регіональні електромережі» — офіційні графіки ГПВ",
     "indexUrl": "https://www.dtek-krem.com.ua/ua/shutdowns",
-    "checkedAt": "2026-10-27T21:02:07.210Z"
+    "checkedAt": "2026-10-28T00:35:51.196Z"
   },
   "schedules": [
-    {
-      "date": "2026-10-27",
-      "status": "available",
-      "publishedAt": "2026-10-27T19:23:00.000Z",
-      "articleUrl": "https://www.dtek-krem.com.ua/ua/shutdowns",
-      "checkedAt": null,
-      "queues": [
-        {
-          "id": "1.1",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "02:30",
-              "state": "possible"
-            },
-            {
-              "from": "06:00",
-              "to": "13:00",
-              "state": "possible"
-            },
-            {
-              "from": "16:30",
-              "to": "23:30",
-              "state": "possible"
-            }
-          ]
-        },
-        {
-          "id": "1.2",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "02:30",
-              "state": "possible"
-            },
-            {
-              "from": "06:00",
-              "to": "13:00",
-              "state": "possible"
-            },
-            {
-              "from": "16:30",
-              "to": "23:30",
-              "state": "possible"
-            }
-          ]
-        },
-        {
-          "id": "2.1",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "02:30",
-              "state": "possible"
-            },
-            {
-              "from": "06:00",
-              "to": "13:00",
-              "state": "possible"
-            },
-            {
-              "from": "16:30",
-              "to": "23:30",
-              "state": "possible"
-            }
-          ]
-        },
-        {
-          "id": "2.2",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "02:30",
-              "state": "possible"
-            },
-            {
-              "from": "06:00",
-              "to": "13:00",
-              "state": "possible"
-            },
-            {
-              "from": "16:30",
-              "to": "23:30",
-              "state": "possible"
-            }
-          ]
-        },
-        {
-          "id": "3.1",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "06:00",
-              "state": "possible"
-            },
-            {
-              "from": "09:30",
-              "to": "16:30",
-              "state": "possible"
-            },
-            {
-              "from": "20:00",
-              "to": "24:00",
-              "state": "possible"
-            }
-          ]
-        },
-        {
-          "id": "3.2",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "06:00",
-              "state": "possible"
-            },
-            {
-              "from": "09:30",
-              "to": "16:30",
-              "state": "possible"
-            },
-            {
-              "from": "20:00",
-              "to": "24:00",
-              "state": "possible"
-            }
-          ]
-        },
-        {
-          "id": "4.1",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "06:00",
-              "state": "possible"
-            },
-            {
-              "from": "09:30",
-              "to": "16:30",
-              "state": "possible"
-            },
-            {
-              "from": "20:00",
-              "to": "24:00",
-              "state": "possible"
-            }
-          ]
-        },
-        {
-          "id": "4.2",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "06:00",
-              "state": "possible"
-            },
-            {
-              "from": "09:30",
-              "to": "16:30",
-              "state": "possible"
-            },
-            {
-              "from": "20:00",
-              "to": "24:00",
-              "state": "possible"
-            }
-          ]
-        },
-        {
-          "id": "5.1",
-          "intervals": [
-            {
-              "from": "02:30",
-              "to": "09:30",
-              "state": "possible"
-            },
-            {
-              "from": "13:00",
-              "to": "20:00",
-              "state": "possible"
-            },
-            {
-              "from": "23:30",
-              "to": "24:00",
-              "state": "possible"
-            }
-          ]
-        },
-        {
-          "id": "5.2",
-          "intervals": [
-            {
-              "from": "02:30",
-              "to": "09:30",
-              "state": "possible"
-            },
-            {
-              "from": "13:00",
-              "to": "20:00",
-              "state": "possible"
-            },
-            {
-              "from": "23:30",
-              "to": "24:00",
-              "state": "possible"
-            }
-          ]
-        },
-        {
-          "id": "6.1",
-          "intervals": [
-            {
-              "from": "02:30",
-              "to": "09:30",
-              "state": "possible"
-            },
-            {
-              "from": "13:00",
-              "to": "20:00",
-              "state": "possible"
-            },
-            {
-              "from": "23:30",
-              "to": "24:00",
-              "state": "possible"
-            }
-          ]
-        },
-        {
-          "id": "6.2",
-          "intervals": [
-            {
-              "from": "02:30",
-              "to": "09:30",
-              "state": "possible"
-            },
-            {
-              "from": "13:00",
-              "to": "20:00",
-              "state": "possible"
-            },
-            {
-              "from": "23:30",
-              "to": "24:00",
-              "state": "possible"
-            }
-          ]
-        }
-      ]
-    },
     {
       "date": "2026-10-28",
       "status": "available",
@@ -478,6 +229,235 @@
             },
             {
               "from": "20:30",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "status": "available",
+      "publishedAt": "2026-10-27T19:23:00.000Z",
+      "articleUrl": "https://www.dtek-krem.com.ua/ua/shutdowns",
+      "checkedAt": null,
+      "queues": [
+        {
+          "id": "1.1",
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "07:00",
+              "state": "possible"
+            },
+            {
+              "from": "10:30",
+              "to": "17:30",
+              "state": "possible"
+            },
+            {
+              "from": "21:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
+        },
+        {
+          "id": "1.2",
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "07:00",
+              "state": "possible"
+            },
+            {
+              "from": "10:30",
+              "to": "17:30",
+              "state": "possible"
+            },
+            {
+              "from": "21:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
+        },
+        {
+          "id": "2.1",
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "07:00",
+              "state": "possible"
+            },
+            {
+              "from": "10:30",
+              "to": "17:30",
+              "state": "possible"
+            },
+            {
+              "from": "21:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
+        },
+        {
+          "id": "2.2",
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "07:00",
+              "state": "possible"
+            },
+            {
+              "from": "10:30",
+              "to": "17:30",
+              "state": "possible"
+            },
+            {
+              "from": "21:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
+        },
+        {
+          "id": "3.1",
+          "intervals": [
+            {
+              "from": "03:30",
+              "to": "10:30",
+              "state": "possible"
+            },
+            {
+              "from": "14:00",
+              "to": "21:00",
+              "state": "possible"
+            }
+          ]
+        },
+        {
+          "id": "3.2",
+          "intervals": [
+            {
+              "from": "03:30",
+              "to": "10:30",
+              "state": "possible"
+            },
+            {
+              "from": "14:00",
+              "to": "21:00",
+              "state": "possible"
+            }
+          ]
+        },
+        {
+          "id": "4.1",
+          "intervals": [
+            {
+              "from": "03:30",
+              "to": "10:30",
+              "state": "possible"
+            },
+            {
+              "from": "14:00",
+              "to": "21:00",
+              "state": "possible"
+            }
+          ]
+        },
+        {
+          "id": "4.2",
+          "intervals": [
+            {
+              "from": "03:30",
+              "to": "10:30",
+              "state": "possible"
+            },
+            {
+              "from": "14:00",
+              "to": "21:00",
+              "state": "possible"
+            }
+          ]
+        },
+        {
+          "id": "5.1",
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "03:30",
+              "state": "possible"
+            },
+            {
+              "from": "07:00",
+              "to": "14:00",
+              "state": "possible"
+            },
+            {
+              "from": "17:30",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
+        },
+        {
+          "id": "5.2",
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "03:30",
+              "state": "possible"
+            },
+            {
+              "from": "07:00",
+              "to": "14:00",
+              "state": "possible"
+            },
+            {
+              "from": "17:30",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
+        },
+        {
+          "id": "6.1",
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "03:30",
+              "state": "possible"
+            },
+            {
+              "from": "07:00",
+              "to": "14:00",
+              "state": "possible"
+            },
+            {
+              "from": "17:30",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
+        },
+        {
+          "id": "6.2",
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "03:30",
+              "state": "possible"
+            },
+            {
+              "from": "07:00",
+              "to": "14:00",
+              "state": "possible"
+            },
+            {
+              "from": "17:30",
               "to": "24:00",
               "state": "possible"
             }
