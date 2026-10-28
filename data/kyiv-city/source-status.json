@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-28T18:58:20.790Z",
+  "checkedAt": "2026-10-28T22:56:35.881Z",
   "sourceHealthy": true,
   "dates": [
     {
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "healthy": true,
-      "checkedAt": "2026-10-28T18:58:20.790Z",
+      "checkedAt": "2026-10-28T22:56:35.881Z",
       "note": null
     },
     {
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "healthy": true,
-      "checkedAt": "2026-10-28T18:58:20.790Z",
-      "note": null
+      "checkedAt": "2026-10-28T22:56:35.881Z",
+      "note": "YASNO ще не опублікував повний графік на завтра або перевів його в аварійний режим."
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T18:58:25.795Z",
+  "generatedAt": "2026-10-28T22:56:41.138Z",
   "source": {
     "name": "АТ «Харківобленерго» — офіційний Telegram-канал · резерв alerts.org.ua",
     "indexUrl": "https://t.me/s/kharkivenergy",
-    "checkedAt": "2026-10-28T18:58:25.795Z"
+    "checkedAt": "2026-10-28T22:56:41.138Z"
   },
   "schedules": [
     {
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "status": "available",
-      "publishedAt": "2026-10-27T20:25:00.000Z",
+      "publishedAt": "2026-10-28T17:43:00.000Z",
       "articleUrl": "https://alerts.org.ua/harkivska-oblast/",
       "checkedAt": null,
       "note": "Дані надійшли з alerts.org.ua — стороннього агрегатора. Звіряйте зміни на офіційному сервісі оператора. Резервні дані отримано зі стороннього агрегатора alerts.org.ua. Звіряйте графік з офіційним джерелом оператора.",
@@ -19,13 +19,8 @@
           "id": "1.1",
           "intervals": [
             {
-              "from": "06:00",
-              "to": "09:00",
-              "state": "outage"
-            },
-            {
-              "from": "16:00",
-              "to": "19:30",
+              "from": "12:00",
+              "to": "16:30",
               "state": "outage"
             }
           ]
@@ -34,13 +29,8 @@
           "id": "1.2",
           "intervals": [
             {
-              "from": "06:00",
-              "to": "09:00",
-              "state": "outage"
-            },
-            {
-              "from": "16:00",
-              "to": "19:30",
+              "from": "13:00",
+              "to": "16:30",
               "state": "outage"
             }
           ]
@@ -49,8 +39,8 @@
           "id": "2.1",
           "intervals": [
             {
-              "from": "15:00",
-              "to": "19:30",
+              "from": "13:00",
+              "to": "16:30",
               "state": "outage"
             }
           ]
@@ -59,13 +49,13 @@
           "id": "2.2",
           "intervals": [
             {
-              "from": "06:00",
-              "to": "09:00",
+              "from": "13:00",
+              "to": "16:30",
               "state": "outage"
             },
             {
-              "from": "16:00",
-              "to": "19:30",
+              "from": "20:00",
+              "to": "21:00",
               "state": "outage"
             }
           ]
@@ -74,13 +64,8 @@
           "id": "3.1",
           "intervals": [
             {
-              "from": "09:00",
-              "to": "12:30",
-              "state": "outage"
-            },
-            {
-              "from": "19:30",
-              "to": "23:00",
+              "from": "16:30",
+              "to": "20:00",
               "state": "outage"
             }
           ]
@@ -89,13 +74,13 @@
           "id": "3.2",
           "intervals": [
             {
-              "from": "09:00",
-              "to": "12:30",
+              "from": "06:00",
+              "to": "09:30",
               "state": "outage"
             },
             {
-              "from": "16:00",
-              "to": "21:00",
+              "from": "16:30",
+              "to": "20:00",
               "state": "outage"
             }
           ]
@@ -104,13 +89,13 @@
           "id": "4.1",
           "intervals": [
             {
-              "from": "10:00",
-              "to": "12:30",
+              "from": "06:00",
+              "to": "09:30",
               "state": "outage"
             },
             {
-              "from": "19:30",
-              "to": "23:00",
+              "from": "16:30",
+              "to": "20:00",
               "state": "outage"
             }
           ]
@@ -119,13 +104,13 @@
           "id": "4.2",
           "intervals": [
             {
-              "from": "09:00",
-              "to": "12:30",
+              "from": "06:00",
+              "to": "09:30",
               "state": "outage"
             },
             {
-              "from": "19:30",
-              "to": "23:00",
+              "from": "13:00",
+              "to": "20:00",
               "state": "outage"
             }
           ]
@@ -134,12 +119,12 @@
           "id": "5.1",
           "intervals": [
             {
-              "from": "12:30",
-              "to": "15:00",
+              "from": "09:30",
+              "to": "13:00",
               "state": "outage"
             },
             {
-              "from": "23:00",
+              "from": "20:00",
               "to": "24:00",
               "state": "outage"
             }
@@ -149,13 +134,13 @@
           "id": "5.2",
           "intervals": [
             {
-              "from": "12:30",
-              "to": "15:00",
+              "from": "09:30",
+              "to": "13:00",
               "state": "outage"
             },
             {
-              "from": "19:30",
-              "to": "21:00",
+              "from": "20:00",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -164,12 +149,12 @@
           "id": "6.1",
           "intervals": [
             {
-              "from": "12:30",
-              "to": "15:00",
+              "from": "09:30",
+              "to": "13:00",
               "state": "outage"
             },
             {
-              "from": "23:00",
+              "from": "20:00",
               "to": "24:00",
               "state": "outage"
             }
@@ -179,13 +164,13 @@
           "id": "6.2",
           "intervals": [
             {
-              "from": "12:30",
-              "to": "15:00",
+              "from": "09:30",
+              "to": "13:00",
               "state": "outage"
             },
             {
-              "from": "23:00",
-              "to": "24:00",
+              "from": "16:30",
+              "to": "21:00",
               "state": "outage"
             }
           ]
@@ -193,7 +178,7 @@
       ]
     },
     {
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,
