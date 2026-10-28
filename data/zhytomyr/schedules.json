@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T13:17:08.327Z",
+  "generatedAt": "2026-10-28T18:58:19.618Z",
   "source": {
     "name": "АТ «Житомиробленерго» — датована таблиця ГПВ",
     "indexUrl": "https://www.ztoe.com.ua/unhooking-search.php",
-    "checkedAt": "2026-10-28T13:17:08.327Z"
+    "checkedAt": "2026-10-28T18:58:19.618Z"
   },
   "schedules": [
     {
@@ -159,7 +159,7 @@
             },
             {
               "from": "19:00",
-              "to": "21:00",
+              "to": "22:00",
               "state": "outage"
             }
           ]
@@ -179,7 +179,7 @@
             },
             {
               "from": "19:00",
-              "to": "21:00",
+              "to": "22:00",
               "state": "outage"
             }
           ]
@@ -218,59 +218,195 @@
     },
     {
       "date": "2026-10-29",
-      "status": "unavailable",
+      "status": "available",
       "publishedAt": null,
-      "articleUrl": null,
+      "articleUrl": "https://www.ztoe.com.ua/unhooking-search.php",
       "checkedAt": null,
-      "note": "Житомиробленерго ще не опублікувало таблицю ГПВ на цю дату.",
       "queues": [
         {
           "id": "1.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "09:00",
+              "to": "12:00",
+              "state": "outage"
+            },
+            {
+              "from": "15:00",
+              "to": "18:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "1.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "09:00",
+              "to": "12:00",
+              "state": "outage"
+            },
+            {
+              "from": "15:00",
+              "to": "18:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "2.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "12:00",
+              "to": "15:00",
+              "state": "outage"
+            },
+            {
+              "from": "18:00",
+              "to": "21:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "2.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "06:00",
+              "to": "09:00",
+              "state": "outage"
+            },
+            {
+              "from": "15:00",
+              "to": "18:00",
+              "state": "outage"
+            },
+            {
+              "from": "21:00",
+              "to": "24:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "3.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "12:00",
+              "to": "15:00",
+              "state": "outage"
+            },
+            {
+              "from": "21:00",
+              "to": "24:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "3.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "12:00",
+              "to": "15:00",
+              "state": "outage"
+            },
+            {
+              "from": "21:00",
+              "to": "24:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "4.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "12:00",
+              "to": "15:00",
+              "state": "outage"
+            },
+            {
+              "from": "18:00",
+              "to": "21:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "4.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "12:00",
+              "to": "15:00",
+              "state": "outage"
+            },
+            {
+              "from": "18:00",
+              "to": "21:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "5.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "09:00",
+              "to": "12:00",
+              "state": "outage"
+            },
+            {
+              "from": "18:00",
+              "to": "21:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "5.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "09:00",
+              "to": "12:00",
+              "state": "outage"
+            },
+            {
+              "from": "18:00",
+              "to": "21:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "6.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "06:00",
+              "to": "09:00",
+              "state": "outage"
+            },
+            {
+              "from": "15:00",
+              "to": "18:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "6.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "06:00",
+              "to": "09:00",
+              "state": "outage"
+            },
+            {
+              "from": "15:00",
+              "to": "18:00",
+              "state": "outage"
+            }
+          ]
         }
       ]
     }
