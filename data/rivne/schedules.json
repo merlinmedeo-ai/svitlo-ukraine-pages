@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T02:00:39.475Z",
+  "generatedAt": "2026-10-29T08:05:51.797Z",
   "source": {
     "name": "ПрАТ «Рівнеобленерго» — таблиця ГПВ · резерв alerts.org.ua",
     "indexUrl": "https://www.roe.vsei.ua/disconnections",
-    "checkedAt": "2026-10-29T02:00:39.475Z"
+    "checkedAt": "2026-10-29T08:05:51.797Z"
   },
   "schedules": [
     {
