@@ -1,209 +1,72 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T20:23:34.956Z",
+  "generatedAt": "2026-10-30T00:01:06.144Z",
   "source": {
-    "name": "АТ «Сумиобленерго» — графік ГПВ та офіційні повідомлення · резерв alerts.org.ua",
+    "name": "АТ «Сумиобленерго» — графік ГПВ та офіційні повідомлення",
     "indexUrl": "https://www.soe.com.ua/consumers/shutdowns?tab=hourly-schedules",
-    "checkedAt": "2026-10-29T20:23:34.956Z"
+    "checkedAt": "2026-10-30T00:01:06.144Z"
   },
   "schedules": [
     {
-      "date": "2026-10-29",
-      "status": "available",
-      "publishedAt": "2026-10-28T18:31:00.000Z",
-      "articleUrl": "https://alerts.org.ua/sumska-oblast/",
+      "date": "2026-10-30",
+      "status": "unavailable",
+      "publishedAt": null,
+      "articleUrl": null,
       "checkedAt": null,
-      "note": "Дані надійшли з alerts.org.ua — стороннього агрегатора. Звіряйте зміни на офіційному сервісі оператора. Резервні дані отримано зі стороннього агрегатора alerts.org.ua. Звіряйте графік з офіційним джерелом оператора.",
+      "note": "На публічній сторінці Сумиобленерго немає доступного переліку інтервалів на цю дату.",
       "queues": [
         {
           "id": "1.1",
-          "intervals": [
-            {
-              "from": "08:00",
-              "to": "12:00",
-              "state": "outage"
-            },
-            {
-              "from": "14:00",
-              "to": "18:00",
-              "state": "outage"
-            },
-            {
-              "from": "20:00",
-              "to": "21:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "1.2",
-          "intervals": [
-            {
-              "from": "06:00",
-              "to": "10:00",
-              "state": "outage"
-            },
-            {
-              "from": "12:00",
-              "to": "16:00",
-              "state": "outage"
-            },
-            {
-              "from": "18:00",
-              "to": "20:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "2.1",
-          "intervals": [
-            {
-              "from": "06:00",
-              "to": "08:00",
-              "state": "outage"
-            },
-            {
-              "from": "10:00",
-              "to": "14:00",
-              "state": "outage"
-            },
-            {
-              "from": "16:00",
-              "to": "18:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "2.2",
-          "intervals": [
-            {
-              "from": "08:00",
-              "to": "12:00",
-              "state": "outage"
-            },
-            {
-              "from": "14:00",
-              "to": "16:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "3.1",
-          "intervals": [
-            {
-              "from": "06:00",
-              "to": "08:00",
-              "state": "outage"
-            },
-            {
-              "from": "09:00",
-              "to": "10:00",
-              "state": "outage"
-            },
-            {
-              "from": "12:00",
-              "to": "14:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "3.2",
-          "intervals": [
-            {
-              "from": "22:00",
-              "to": "24:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "4.1",
-          "intervals": [
-            {
-              "from": "20:00",
-              "to": "24:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "4.2",
-          "intervals": [
-            {
-              "from": "18:00",
-              "to": "22:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "5.1",
-          "intervals": [
-            {
-              "from": "16:00",
-              "to": "20:00",
-              "state": "outage"
-            },
-            {
-              "from": "22:00",
-              "to": "24:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "5.2",
-          "intervals": [
-            {
-              "from": "14:00",
-              "to": "18:00",
-              "state": "outage"
-            },
-            {
-              "from": "20:00",
-              "to": "22:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "6.1",
-          "intervals": [
-            {
-              "from": "12:00",
-              "to": "16:00",
-              "state": "outage"
-            },
-            {
-              "from": "18:00",
-              "to": "21:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "6.2",
-          "intervals": [
-            {
-              "from": "10:00",
-              "to": "14:00",
-              "state": "outage"
-            },
-            {
-              "from": "16:00",
-              "to": "20:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         }
       ]
     },
     {
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,
