@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T13:15:22.196Z",
+  "generatedAt": "2026-10-30T18:42:39.356Z",
   "source": {
-    "name": "АТ «Запоріжжяобленерго» — офіційні публікації ГПВ · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua",
+    "name": "АТ «Запоріжжяобленерго» — офіційні публікації ГПВ · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua",
     "indexUrl": "https://www.zoe.com.ua/outage/",
-    "checkedAt": "2026-10-30T13:15:22.196Z"
+    "checkedAt": "2026-10-30T18:42:39.356Z"
   },
   "schedules": [
     {
@@ -1155,15 +1155,33 @@
         },
         {
           "id": "1.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "14:30",
+              "to": "17:30",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "2.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "20:30",
+              "to": "24:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "2.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "14:30",
+              "to": "17:30",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "3.1",
@@ -1171,7 +1189,13 @@
         },
         {
           "id": "3.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "06:30",
+              "to": "10:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "4.1",
@@ -1179,15 +1203,33 @@
         },
         {
           "id": "4.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "17:00",
+              "to": "21:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "5.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "17:00",
+              "to": "21:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "5.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "20:30",
+              "to": "24:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "6.1",
@@ -1195,7 +1237,13 @@
         },
         {
           "id": "6.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "06:30",
+              "to": "10:00",
+              "state": "outage"
+            }
+          ]
         }
       ]
     },
