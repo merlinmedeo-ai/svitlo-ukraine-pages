@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T18:42:39.356Z",
+  "generatedAt": "2026-10-30T22:42:27.950Z",
   "source": {
-    "name": "АТ «Запоріжжяобленерго» — офіційні публікації ГПВ · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua",
+    "name": "АТ «Запоріжжяобленерго» — офіційні публікації ГПВ · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua",
     "indexUrl": "https://www.zoe.com.ua/outage/",
-    "checkedAt": "2026-10-30T18:42:39.356Z"
+    "checkedAt": "2026-10-30T22:42:27.950Z"
   },
   "schedules": [
     {
@@ -1249,11 +1249,117 @@
     },
     {
       "date": "2026-10-31",
+      "status": "available",
+      "publishedAt": "2026-10-30T18:31:00.000Z",
+      "articleUrl": "https://alerts.org.ua/zaporizka-oblast/",
+      "checkedAt": null,
+      "note": "Дані надійшли з alerts.org.ua — стороннього агрегатора. Звіряйте зміни на офіційному сервісі оператора. Резервні дані отримано зі стороннього агрегатора alerts.org.ua. Звіряйте графік з офіційним джерелом оператора.",
+      "queues": [
+        {
+          "id": "1.1",
+          "intervals": []
+        },
+        {
+          "id": "1.2",
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
+        },
+        {
+          "id": "2.1",
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
+        },
+        {
+          "id": "2.2",
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
+        },
+        {
+          "id": "3.1",
+          "intervals": []
+        },
+        {
+          "id": "3.2",
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
+        },
+        {
+          "id": "4.1",
+          "intervals": []
+        },
+        {
+          "id": "4.2",
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
+        },
+        {
+          "id": "5.1",
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
+        },
+        {
+          "id": "5.2",
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
+        },
+        {
+          "id": "6.1",
+          "intervals": []
+        },
+        {
+          "id": "6.2",
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,
       "checkedAt": null,
-      "note": "Сторінка alerts.org.ua зараз містить графік на 2026-10-30, не на цю дату.",
+      "note": "Сторінка alerts.org.ua зараз містить графік на 2026-10-31, не на цю дату.",
       "queues": [
         {
           "id": "1.1",

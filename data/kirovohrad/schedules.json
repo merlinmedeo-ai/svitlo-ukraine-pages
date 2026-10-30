@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T18:42:39.147Z",
+  "generatedAt": "2026-10-30T22:42:27.769Z",
   "source": {
     "name": "ПрАТ «Кіровоградобленерго» — API активних графіків · резерв alerts.org.ua",
     "indexUrl": "https://kiroe.com.ua/electricity-blackout",
-    "checkedAt": "2026-10-30T18:42:39.147Z"
+    "checkedAt": "2026-10-30T22:42:27.769Z"
   },
   "schedules": [
     {
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "status": "available",
-      "publishedAt": "2026-10-29T19:26:00.000Z",
+      "publishedAt": "2026-10-30T18:33:00.000Z",
       "articleUrl": "https://alerts.org.ua/kirovogradska-oblast/",
       "checkedAt": null,
       "note": "Дані надійшли з alerts.org.ua — стороннього агрегатора. Звіряйте зміни на офіційному сервісі оператора. Резервні дані отримано зі стороннього агрегатора alerts.org.ua. Звіряйте графік з офіційним джерелом оператора.",
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,
