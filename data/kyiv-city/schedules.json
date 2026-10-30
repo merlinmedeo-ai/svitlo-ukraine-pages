@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T00:01:08.004Z",
+  "generatedAt": "2026-10-30T13:15:16.645Z",
   "source": {
     "name": "YASNO — офіційний графік відключень ДТЕК Київські електромережі",
     "indexUrl": "https://kyiv.yasno.com.ua/schedule-turn-off-electricity",
-    "checkedAt": "2026-10-30T06:05:46.787Z"
+    "checkedAt": "2026-10-30T13:15:16.645Z"
   },
   "schedules": [
     {
       "date": "2026-10-30",
       "status": "available",
-      "publishedAt": "2026-10-29T18:45:02.000Z",
+      "publishedAt": "2026-10-30T12:30:01.000Z",
       "articleUrl": "https://kyiv.yasno.com.ua/schedule-turn-off-electricity",
       "checkedAt": null,
       "queues": [
@@ -23,8 +23,8 @@
               "state": "outage"
             },
             {
-              "from": "19:30",
-              "to": "23:00",
+              "from": "18:30",
+              "to": "22:30",
               "state": "outage"
             }
           ]
@@ -38,8 +38,8 @@
               "state": "outage"
             },
             {
-              "from": "20:00",
-              "to": "24:00",
+              "from": "19:00",
+              "to": "23:00",
               "state": "outage"
             }
           ]
@@ -58,8 +58,8 @@
               "state": "outage"
             },
             {
-              "from": "21:30",
-              "to": "24:00",
+              "from": "19:30",
+              "to": "23:30",
               "state": "outage"
             }
           ]
@@ -78,7 +78,7 @@
               "state": "outage"
             },
             {
-              "from": "22:30",
+              "from": "20:00",
               "to": "24:00",
               "state": "outage"
             }
@@ -93,8 +93,13 @@
               "state": "outage"
             },
             {
-              "from": "14:30",
+              "from": "14:00",
               "to": "18:00",
+              "state": "outage"
+            },
+            {
+              "from": "21:00",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -108,8 +113,13 @@
               "state": "outage"
             },
             {
-              "from": "15:00",
+              "from": "14:30",
               "to": "18:30",
+              "state": "outage"
+            },
+            {
+              "from": "21:30",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -123,8 +133,13 @@
               "state": "outage"
             },
             {
-              "from": "15:30",
+              "from": "15:00",
               "to": "19:00",
+              "state": "outage"
+            },
+            {
+              "from": "22:00",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -138,8 +153,13 @@
               "state": "outage"
             },
             {
-              "from": "16:30",
-              "to": "20:00",
+              "from": "15:30",
+              "to": "19:30",
+              "state": "outage"
+            },
+            {
+              "from": "22:30",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -153,8 +173,8 @@
               "state": "outage"
             },
             {
-              "from": "17:00",
-              "to": "20:30",
+              "from": "16:00",
+              "to": "20:00",
               "state": "outage"
             }
           ]
@@ -168,7 +188,7 @@
               "state": "outage"
             },
             {
-              "from": "17:30",
+              "from": "17:00",
               "to": "21:00",
               "state": "outage"
             }
@@ -183,7 +203,7 @@
               "state": "outage"
             },
             {
-              "from": "18:00",
+              "from": "17:30",
               "to": "21:30",
               "state": "outage"
             }
@@ -198,7 +218,7 @@
               "state": "outage"
             },
             {
-              "from": "18:30",
+              "from": "18:00",
               "to": "22:00",
               "state": "outage"
             }
@@ -213,8 +233,8 @@
               "state": "outage"
             },
             {
-              "from": "19:30",
-              "to": "23:00",
+              "from": "18:30",
+              "to": "22:30",
               "state": "outage"
             }
           ]
@@ -228,8 +248,8 @@
               "state": "outage"
             },
             {
-              "from": "20:00",
-              "to": "24:00",
+              "from": "19:00",
+              "to": "23:00",
               "state": "outage"
             }
           ]
@@ -248,8 +268,8 @@
               "state": "outage"
             },
             {
-              "from": "21:30",
-              "to": "24:00",
+              "from": "19:30",
+              "to": "23:30",
               "state": "outage"
             }
           ]
@@ -268,7 +288,7 @@
               "state": "outage"
             },
             {
-              "from": "22:30",
+              "from": "20:00",
               "to": "24:00",
               "state": "outage"
             }
@@ -283,8 +303,13 @@
               "state": "outage"
             },
             {
-              "from": "14:30",
+              "from": "14:00",
               "to": "18:00",
+              "state": "outage"
+            },
+            {
+              "from": "21:00",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -298,8 +323,13 @@
               "state": "outage"
             },
             {
-              "from": "15:00",
+              "from": "14:30",
               "to": "18:30",
+              "state": "outage"
+            },
+            {
+              "from": "21:30",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -313,8 +343,13 @@
               "state": "outage"
             },
             {
-              "from": "15:30",
+              "from": "15:00",
               "to": "19:00",
+              "state": "outage"
+            },
+            {
+              "from": "22:00",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -328,8 +363,13 @@
               "state": "outage"
             },
             {
-              "from": "16:30",
-              "to": "20:00",
+              "from": "15:30",
+              "to": "19:30",
+              "state": "outage"
+            },
+            {
+              "from": "22:30",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -343,8 +383,8 @@
               "state": "outage"
             },
             {
-              "from": "17:00",
-              "to": "20:30",
+              "from": "16:00",
+              "to": "20:00",
               "state": "outage"
             }
           ]
@@ -358,7 +398,7 @@
               "state": "outage"
             },
             {
-              "from": "17:30",
+              "from": "17:00",
               "to": "21:00",
               "state": "outage"
             }
@@ -373,7 +413,7 @@
               "state": "outage"
             },
             {
-              "from": "18:00",
+              "from": "17:30",
               "to": "21:30",
               "state": "outage"
             }
@@ -388,7 +428,7 @@
               "state": "outage"
             },
             {
-              "from": "18:30",
+              "from": "18:00",
               "to": "22:00",
               "state": "outage"
             }
@@ -403,8 +443,8 @@
               "state": "outage"
             },
             {
-              "from": "19:30",
-              "to": "23:00",
+              "from": "18:30",
+              "to": "22:30",
               "state": "outage"
             }
           ]
@@ -418,8 +458,8 @@
               "state": "outage"
             },
             {
-              "from": "20:00",
-              "to": "24:00",
+              "from": "19:00",
+              "to": "23:00",
               "state": "outage"
             }
           ]
@@ -438,8 +478,8 @@
               "state": "outage"
             },
             {
-              "from": "21:30",
-              "to": "24:00",
+              "from": "19:30",
+              "to": "23:30",
               "state": "outage"
             }
           ]
@@ -458,7 +498,7 @@
               "state": "outage"
             },
             {
-              "from": "22:30",
+              "from": "20:00",
               "to": "24:00",
               "state": "outage"
             }
@@ -473,8 +513,13 @@
               "state": "outage"
             },
             {
-              "from": "14:30",
+              "from": "14:00",
               "to": "18:00",
+              "state": "outage"
+            },
+            {
+              "from": "21:00",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -488,8 +533,13 @@
               "state": "outage"
             },
             {
-              "from": "15:00",
+              "from": "14:30",
               "to": "18:30",
+              "state": "outage"
+            },
+            {
+              "from": "21:30",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -503,8 +553,13 @@
               "state": "outage"
             },
             {
-              "from": "15:30",
+              "from": "15:00",
               "to": "19:00",
+              "state": "outage"
+            },
+            {
+              "from": "22:00",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -518,8 +573,13 @@
               "state": "outage"
             },
             {
-              "from": "16:30",
-              "to": "20:00",
+              "from": "15:30",
+              "to": "19:30",
+              "state": "outage"
+            },
+            {
+              "from": "22:30",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -533,8 +593,8 @@
               "state": "outage"
             },
             {
-              "from": "17:00",
-              "to": "20:30",
+              "from": "16:00",
+              "to": "20:00",
               "state": "outage"
             }
           ]
@@ -548,7 +608,7 @@
               "state": "outage"
             },
             {
-              "from": "17:30",
+              "from": "17:00",
               "to": "21:00",
               "state": "outage"
             }
@@ -563,7 +623,7 @@
               "state": "outage"
             },
             {
-              "from": "18:00",
+              "from": "17:30",
               "to": "21:30",
               "state": "outage"
             }
@@ -578,7 +638,7 @@
               "state": "outage"
             },
             {
-              "from": "18:30",
+              "from": "18:00",
               "to": "22:00",
               "state": "outage"
             }
@@ -593,8 +653,8 @@
               "state": "outage"
             },
             {
-              "from": "19:30",
-              "to": "23:00",
+              "from": "18:30",
+              "to": "22:30",
               "state": "outage"
             }
           ]
@@ -608,8 +668,8 @@
               "state": "outage"
             },
             {
-              "from": "20:00",
-              "to": "24:00",
+              "from": "19:00",
+              "to": "23:00",
               "state": "outage"
             }
           ]
@@ -628,8 +688,8 @@
               "state": "outage"
             },
             {
-              "from": "21:30",
-              "to": "24:00",
+              "from": "19:30",
+              "to": "23:30",
               "state": "outage"
             }
           ]
@@ -648,7 +708,7 @@
               "state": "outage"
             },
             {
-              "from": "22:30",
+              "from": "20:00",
               "to": "24:00",
               "state": "outage"
             }
@@ -663,8 +723,13 @@
               "state": "outage"
             },
             {
-              "from": "14:30",
+              "from": "14:00",
               "to": "18:00",
+              "state": "outage"
+            },
+            {
+              "from": "21:00",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -678,8 +743,13 @@
               "state": "outage"
             },
             {
-              "from": "15:00",
+              "from": "14:30",
               "to": "18:30",
+              "state": "outage"
+            },
+            {
+              "from": "21:30",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -693,8 +763,13 @@
               "state": "outage"
             },
             {
-              "from": "15:30",
+              "from": "15:00",
               "to": "19:00",
+              "state": "outage"
+            },
+            {
+              "from": "22:00",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -708,8 +783,13 @@
               "state": "outage"
             },
             {
-              "from": "16:30",
-              "to": "20:00",
+              "from": "15:30",
+              "to": "19:30",
+              "state": "outage"
+            },
+            {
+              "from": "22:30",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -723,8 +803,8 @@
               "state": "outage"
             },
             {
-              "from": "17:00",
-              "to": "20:30",
+              "from": "16:00",
+              "to": "20:00",
               "state": "outage"
             }
           ]
@@ -738,7 +818,7 @@
               "state": "outage"
             },
             {
-              "from": "17:30",
+              "from": "17:00",
               "to": "21:00",
               "state": "outage"
             }
@@ -753,7 +833,7 @@
               "state": "outage"
             },
             {
-              "from": "18:00",
+              "from": "17:30",
               "to": "21:30",
               "state": "outage"
             }
@@ -768,7 +848,7 @@
               "state": "outage"
             },
             {
-              "from": "18:30",
+              "from": "18:00",
               "to": "22:00",
               "state": "outage"
             }
@@ -783,8 +863,8 @@
               "state": "outage"
             },
             {
-              "from": "19:30",
-              "to": "23:00",
+              "from": "18:30",
+              "to": "22:30",
               "state": "outage"
             }
           ]
@@ -798,8 +878,8 @@
               "state": "outage"
             },
             {
-              "from": "20:00",
-              "to": "24:00",
+              "from": "19:00",
+              "to": "23:00",
               "state": "outage"
             }
           ]
@@ -818,8 +898,8 @@
               "state": "outage"
             },
             {
-              "from": "21:30",
-              "to": "24:00",
+              "from": "19:30",
+              "to": "23:30",
               "state": "outage"
             }
           ]
@@ -838,7 +918,7 @@
               "state": "outage"
             },
             {
-              "from": "22:30",
+              "from": "20:00",
               "to": "24:00",
               "state": "outage"
             }
@@ -853,8 +933,13 @@
               "state": "outage"
             },
             {
-              "from": "14:30",
+              "from": "14:00",
               "to": "18:00",
+              "state": "outage"
+            },
+            {
+              "from": "21:00",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -868,8 +953,13 @@
               "state": "outage"
             },
             {
-              "from": "15:00",
+              "from": "14:30",
               "to": "18:30",
+              "state": "outage"
+            },
+            {
+              "from": "21:30",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -883,8 +973,13 @@
               "state": "outage"
             },
             {
-              "from": "15:30",
+              "from": "15:00",
               "to": "19:00",
+              "state": "outage"
+            },
+            {
+              "from": "22:00",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -898,8 +993,13 @@
               "state": "outage"
             },
             {
-              "from": "16:30",
-              "to": "20:00",
+              "from": "15:30",
+              "to": "19:30",
+              "state": "outage"
+            },
+            {
+              "from": "22:30",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -913,8 +1013,8 @@
               "state": "outage"
             },
             {
-              "from": "17:00",
-              "to": "20:30",
+              "from": "16:00",
+              "to": "20:00",
               "state": "outage"
             }
           ]
@@ -928,7 +1028,7 @@
               "state": "outage"
             },
             {
-              "from": "17:30",
+              "from": "17:00",
               "to": "21:00",
               "state": "outage"
             }
@@ -943,7 +1043,7 @@
               "state": "outage"
             },
             {
-              "from": "18:00",
+              "from": "17:30",
               "to": "21:30",
               "state": "outage"
             }
@@ -958,7 +1058,7 @@
               "state": "outage"
             },
             {
-              "from": "18:30",
+              "from": "18:00",
               "to": "22:00",
               "state": "outage"
             }
