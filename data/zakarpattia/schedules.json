@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T18:02:40.895Z",
+  "generatedAt": "2026-10-31T21:46:16.861Z",
   "source": {
     "name": "ПрАТ «Закарпаттяобленерго» — офіційний сервіс графіків · резерв alerts.org.ua",
     "indexUrl": "https://outage.zakarpat.energy/schedule_queues",
-    "checkedAt": "2026-10-31T18:02:40.895Z"
+    "checkedAt": "2026-10-31T21:46:16.861Z"
   },
   "schedules": [
     {
