@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T21:46:16.264Z",
+  "generatedAt": "2026-11-01T00:31:24.580Z",
   "source": {
     "name": "ПрАТ «Рівнеобленерго» — таблиця ГПВ · резерв alerts.org.ua",
     "indexUrl": "https://www.roe.vsei.ua/disconnections",
-    "checkedAt": "2026-10-31T21:46:16.264Z"
+    "checkedAt": "2026-11-01T00:31:24.580Z"
   },
   "schedules": [
     {
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "status": "available",
-      "publishedAt": "2026-10-30T18:33:00.000Z",
+      "publishedAt": "2026-10-31T19:10:00.000Z",
       "articleUrl": "https://alerts.org.ua/rivnenska-oblast/",
       "checkedAt": null,
       "note": "Дані надійшли з alerts.org.ua — стороннього агрегатора. Звіряйте зміни на офіційному сервісі оператора. Резервні дані отримано зі стороннього агрегатора alerts.org.ua. Звіряйте графік з офіційним джерелом оператора.",
@@ -66,12 +66,12 @@
       ]
     },
     {
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,
       "checkedAt": null,
-      "note": "На сторінці Рівнеобленерго доступна таблиця від 31.10.2026; графік на цю дату не підтверджено.",
+      "note": "На сторінці Рівнеобленерго доступна таблиця від 01.11.2026; графік на цю дату не підтверджено.",
       "queues": [
         {
           "id": "1.1",
