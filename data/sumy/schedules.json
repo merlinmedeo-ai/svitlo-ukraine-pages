@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T00:31:17.557Z",
+  "generatedAt": "2026-11-01T22:29:47.818Z",
   "source": {
     "name": "АТ «Сумиобленерго» — графік ГПВ та офіційні повідомлення",
     "indexUrl": "https://www.soe.com.ua/consumers/shutdowns?tab=hourly-schedules",
-    "checkedAt": "2026-11-01T18:39:24.109Z"
+    "checkedAt": "2026-11-01T22:29:47.818Z"
   },
   "schedules": [
     {
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,
       "checkedAt": null,
-      "note": "Сумиобленерго повідомило про графік, але його публічне повідомлення не містить інтервалів для кожної черги; погодинний API оператора не відкрив дані.",
+      "note": "На публічній сторінці Сумиобленерго немає доступного переліку інтервалів на цю дату.",
       "queues": [
         {
           "id": "1.1",
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,
