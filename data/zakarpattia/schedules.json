@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T22:29:46.265Z",
+  "generatedAt": "2026-11-03T01:23:38.141Z",
   "source": {
     "name": "ПрАТ «Закарпаттяобленерго» — офіційний сервіс графіків",
     "indexUrl": "https://outage.zakarpat.energy/schedule_queues",
-    "checkedAt": "2026-11-02T18:40:40.072Z"
+    "checkedAt": "2026-11-03T01:23:38.141Z"
   },
   "schedules": [
     {
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,

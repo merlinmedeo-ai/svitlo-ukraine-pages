@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T22:29:10.695Z",
+  "generatedAt": "2026-11-03T01:22:28.202Z",
   "source": {
     "name": "АТ «Черкасиобленерго» — новини ГПВ",
     "indexUrl": "https://www.cherkasyoblenergo.com/media",
@@ -8,27 +8,27 @@
   },
   "schedules": [
     {
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "status": "available",
-      "publishedAt": "2026-11-01T18:25:00.000Z",
-      "articleUrl": "https://www.cherkasyoblenergo.com/media/hrafik-pohodynnykh-vidklyuchen-hpv-na-2-lystopada?lang=uk",
+      "publishedAt": "2026-11-03T00:50:00.000Z",
+      "articleUrl": "https://www.cherkasyoblenergo.com/media/onovleno-hrafik-pohodynnykh-vidklyuchen-hpv-na-1-lystopada?lang=uk",
       "checkedAt": null,
       "queues": [
         {
           "id": "1.1",
           "intervals": [
             {
-              "from": "06:00",
+              "from": "04:00",
               "to": "08:00",
               "state": "outage"
             },
             {
-              "from": "14:00",
-              "to": "16:00",
+              "from": "10:00",
+              "to": "14:00",
               "state": "outage"
             },
             {
-              "from": "18:00",
+              "from": "16:00",
               "to": "20:00",
               "state": "outage"
             }
@@ -38,17 +38,17 @@
           "id": "1.2",
           "intervals": [
             {
-              "from": "06:00",
+              "from": "04:00",
               "to": "08:00",
               "state": "outage"
             },
             {
-              "from": "14:00",
-              "to": "16:00",
+              "from": "10:00",
+              "to": "14:00",
               "state": "outage"
             },
             {
-              "from": "18:00",
+              "from": "16:00",
               "to": "20:00",
               "state": "outage"
             },
@@ -63,17 +63,17 @@
           "id": "2.1",
           "intervals": [
             {
-              "from": "06:00",
+              "from": "04:00",
               "to": "08:00",
               "state": "outage"
             },
             {
-              "from": "14:00",
-              "to": "16:00",
+              "from": "10:00",
+              "to": "14:00",
               "state": "outage"
             },
             {
-              "from": "18:00",
+              "from": "16:00",
               "to": "20:00",
               "state": "outage"
             },
@@ -88,17 +88,17 @@
           "id": "2.2",
           "intervals": [
             {
-              "from": "08:00",
-              "to": "10:00",
+              "from": "04:00",
+              "to": "08:00",
               "state": "outage"
             },
             {
-              "from": "12:00",
+              "from": "10:00",
               "to": "14:00",
               "state": "outage"
             },
             {
-              "from": "18:00",
+              "from": "16:00",
               "to": "20:00",
               "state": "outage"
             },
@@ -113,23 +113,18 @@
           "id": "3.1",
           "intervals": [
             {
-              "from": "08:00",
+              "from": "06:00",
               "to": "10:00",
               "state": "outage"
             },
             {
               "from": "12:00",
-              "to": "14:00",
+              "to": "16:00",
               "state": "outage"
             },
             {
-              "from": "16:00",
-              "to": "18:00",
-              "state": "outage"
-            },
-            {
-              "from": "20:00",
-              "to": "21:00",
+              "from": "18:00",
+              "to": "22:00",
               "state": "outage"
             }
           ]
@@ -138,18 +133,23 @@
           "id": "3.2",
           "intervals": [
             {
-              "from": "08:00",
+              "from": "03:00",
+              "to": "04:00",
+              "state": "outage"
+            },
+            {
+              "from": "06:00",
               "to": "10:00",
               "state": "outage"
             },
             {
               "from": "12:00",
-              "to": "14:00",
+              "to": "16:00",
               "state": "outage"
             },
             {
               "from": "18:00",
-              "to": "20:00",
+              "to": "22:00",
               "state": "outage"
             }
           ]
@@ -158,18 +158,23 @@
           "id": "4.1",
           "intervals": [
             {
-              "from": "09:00",
+              "from": "02:00",
+              "to": "04:00",
+              "state": "outage"
+            },
+            {
+              "from": "06:00",
               "to": "10:00",
               "state": "outage"
             },
             {
               "from": "12:00",
-              "to": "14:00",
+              "to": "16:00",
               "state": "outage"
             },
             {
-              "from": "16:00",
-              "to": "18:00",
+              "from": "18:00",
+              "to": "22:00",
               "state": "outage"
             }
           ]
@@ -178,13 +183,23 @@
           "id": "4.2",
           "intervals": [
             {
-              "from": "12:00",
-              "to": "14:00",
+              "from": "02:00",
+              "to": "04:00",
               "state": "outage"
             },
             {
-              "from": "16:00",
-              "to": "18:00",
+              "from": "08:00",
+              "to": "10:00",
+              "state": "outage"
+            },
+            {
+              "from": "12:00",
+              "to": "16:00",
+              "state": "outage"
+            },
+            {
+              "from": "18:00",
+              "to": "22:00",
               "state": "outage"
             }
           ]
@@ -193,18 +208,23 @@
           "id": "5.1",
           "intervals": [
             {
-              "from": "10:00",
+              "from": "02:00",
+              "to": "04:00",
+              "state": "outage"
+            },
+            {
+              "from": "08:00",
               "to": "12:00",
               "state": "outage"
             },
             {
-              "from": "16:00",
+              "from": "14:00",
               "to": "18:00",
               "state": "outage"
             },
             {
               "from": "20:00",
-              "to": "22:00",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -213,18 +233,23 @@
           "id": "5.2",
           "intervals": [
             {
-              "from": "10:00",
+              "from": "03:00",
+              "to": "06:00",
+              "state": "outage"
+            },
+            {
+              "from": "08:00",
               "to": "12:00",
               "state": "outage"
             },
             {
               "from": "14:00",
-              "to": "16:00",
+              "to": "18:00",
               "state": "outage"
             },
             {
               "from": "20:00",
-              "to": "22:00",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -233,18 +258,23 @@
           "id": "6.1",
           "intervals": [
             {
-              "from": "10:00",
+              "from": "03:00",
+              "to": "06:00",
+              "state": "outage"
+            },
+            {
+              "from": "08:00",
               "to": "12:00",
               "state": "outage"
             },
             {
-              "from": "16:00",
+              "from": "14:00",
               "to": "18:00",
               "state": "outage"
             },
             {
               "from": "20:00",
-              "to": "21:00",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -253,18 +283,23 @@
           "id": "6.2",
           "intervals": [
             {
-              "from": "10:00",
+              "from": "03:00",
+              "to": "06:00",
+              "state": "outage"
+            },
+            {
+              "from": "08:00",
               "to": "12:00",
               "state": "outage"
             },
             {
               "from": "14:00",
-              "to": "16:00",
+              "to": "18:00",
               "state": "outage"
             },
             {
               "from": "20:00",
-              "to": "22:00",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -273,7 +308,7 @@
       "note": null
     },
     {
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,
