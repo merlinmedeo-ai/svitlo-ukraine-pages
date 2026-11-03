@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T01:22:37.129Z",
+  "generatedAt": "2026-11-03T08:03:04.421Z",
   "source": {
     "name": "АТ «ДТЕК Дніпровські електромережі» — офіційні графіки ГПВ",
     "indexUrl": "https://www.dtek-dnem.com.ua/ua/shutdowns",
-    "checkedAt": "2026-11-03T01:22:37.129Z"
+    "checkedAt": "2026-11-03T08:03:04.421Z"
   },
   "schedules": [
     {
       "date": "2026-11-03",
       "status": "available",
-      "publishedAt": "2026-03-11T00:45:00.000Z",
+      "publishedAt": "2026-03-11T07:29:00.000Z",
       "articleUrl": "https://www.dtek-dnem.com.ua/ua/shutdowns",
       "checkedAt": null,
       "queues": [
@@ -259,7 +259,7 @@
     {
       "date": "2026-11-04",
       "status": "available",
-      "publishedAt": "2026-03-11T00:45:00.000Z",
+      "publishedAt": "2026-03-11T07:29:00.000Z",
       "articleUrl": "https://www.dtek-dnem.com.ua/ua/shutdowns",
       "checkedAt": null,
       "queues": [
