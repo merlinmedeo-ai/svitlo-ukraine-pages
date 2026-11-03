@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-03T16:23:38.218Z",
+  "checkedAt": "2026-11-03T21:53:19.396Z",
   "sourceHealthy": true,
   "dates": [
     {
       "date": "2026-11-03",
       "healthy": true,
-      "checkedAt": "2026-11-03T16:23:38.218Z",
+      "checkedAt": "2026-11-03T21:53:19.396Z",
       "note": null
     },
     {
       "date": "2026-11-04",
       "healthy": true,
-      "checkedAt": "2026-11-03T16:23:38.218Z",
-      "note": "Житомиробленерго ще не опублікувало таблицю ГПВ на цю дату."
+      "checkedAt": "2026-11-03T21:53:19.396Z",
+      "note": null
     }
   ]
 }
