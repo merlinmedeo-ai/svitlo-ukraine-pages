@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T01:45:34.911Z",
+  "generatedAt": "2026-11-04T22:01:04.156Z",
   "source": {
     "name": "АТ «Тернопільобленерго» — офіційний Telegram-канал",
     "indexUrl": "https://t.me/s/ternopiloblenerho",
-    "checkedAt": "2026-11-04T16:26:52.123Z"
+    "checkedAt": "2026-11-04T22:01:04.156Z"
   },
   "schedules": [
     {
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,
