@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T08:11:42.030Z",
+  "generatedAt": "2026-11-04T16:26:49.658Z",
   "source": {
     "name": "АТ «Житомиробленерго» — датована таблиця ГПВ",
     "indexUrl": "https://www.ztoe.com.ua/unhooking-search.php",
-    "checkedAt": "2026-11-04T08:11:42.030Z"
+    "checkedAt": "2026-11-04T16:26:49.658Z"
   },
   "schedules": [
     {
       "date": "2026-11-04",
       "status": "available",
-      "publishedAt": "2026-04-11T10:00:00.000Z",
+      "publishedAt": "2026-04-11T18:00:00.000Z",
       "articleUrl": "https://www.ztoe.com.ua/unhooking-search.php",
       "checkedAt": null,
       "queues": [
