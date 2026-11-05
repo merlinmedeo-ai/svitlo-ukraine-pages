@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T22:00:42.852Z",
+  "generatedAt": "2026-11-05T22:57:37.412Z",
   "source": {
     "name": "ПрАТ «ПЕЕМ «ЦЕК» — офіційний графік погодинних відключень",
     "indexUrl": "https://cek.dp.ua/index.php/cpojivaham/vidkliuchennia/2-uncategorised/921-grafik-pogodinikh-vidklyuchen.html",
-    "checkedAt": "2026-11-05T17:48:14.625Z"
+    "checkedAt": "2026-11-05T22:57:37.412Z"
   },
   "schedules": [
     {
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "status": "available",
       "publishedAt": null,
       "articleUrl": "https://cek.dp.ua/index.php/cpojivaham/vidkliuchennia/2-uncategorised/921-grafik-pogodinikh-vidklyuchen.html",
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "status": "available",
       "publishedAt": null,
       "articleUrl": "https://cek.dp.ua/index.php/cpojivaham/vidkliuchennia/2-uncategorised/921-grafik-pogodinikh-vidklyuchen.html",
