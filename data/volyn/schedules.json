@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T22:27:19.120Z",
+  "generatedAt": "2026-11-07T22:54:01.715Z",
   "source": {
     "name": "ПрАТ «Волиньобленерго» — офіційний графік ГПВ",
     "indexUrl": "https://energy.volyn.ua/spozhyvacham/perervy-u-elektropostachanni/hrafik-vidkliuchen/",
-    "checkedAt": "2026-11-07T19:29:58.540Z"
+    "checkedAt": "2026-11-07T22:54:01.715Z"
   },
   "schedules": [
     {
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,
