@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-06T22:28:03.829Z",
+  "checkedAt": "2026-11-07T02:08:27.387Z",
   "sourceHealthy": true,
   "dates": [
     {
       "date": "2026-11-07",
       "healthy": true,
-      "checkedAt": "2026-11-06T22:28:03.829Z",
+      "checkedAt": "2026-11-07T02:08:27.387Z",
       "note": null
     },
     {
       "date": "2026-11-08",
       "healthy": true,
-      "checkedAt": "2026-11-06T22:28:03.829Z",
+      "checkedAt": "2026-11-07T02:08:27.387Z",
       "note": "YASNO ще не опублікував повний графік на завтра або перевів його в аварійний режим."
     }
   ]

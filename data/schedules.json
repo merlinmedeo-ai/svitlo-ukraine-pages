@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T22:27:16.314Z",
+  "generatedAt": "2026-11-07T02:07:52.403Z",
   "source": {
     "name": "АТ «Черкасиобленерго» — новини ГПВ",
     "indexUrl": "https://www.cherkasyoblenergo.com/media",
@@ -10,20 +10,15 @@
     {
       "date": "2026-11-07",
       "status": "available",
-      "publishedAt": "2026-11-06T21:08:00.000Z",
-      "articleUrl": "https://www.cherkasyoblenergo.com/media/onovleno-hrafik-pohodynnykh-vidklyuchen-hpv-na-7-lystopada?lang=uk",
+      "publishedAt": "2026-11-07T00:59:00.000Z",
+      "articleUrl": "https://www.cherkasyoblenergo.com/media/onovleno-hrafik-pohodynnykh-vidklyuchen-hpv-na-7-lystopada-1?lang=uk",
       "checkedAt": null,
       "queues": [
         {
           "id": "1.1",
           "intervals": [
             {
-              "from": "00:00",
-              "to": "02:00",
-              "state": "outage"
-            },
-            {
-              "from": "05:00",
+              "from": "04:30",
               "to": "09:00",
               "state": "outage"
             },
@@ -49,11 +44,11 @@
           "intervals": [
             {
               "from": "01:00",
-              "to": "03:00",
+              "to": "04:00",
               "state": "outage"
             },
             {
-              "from": "06:00",
+              "from": "05:30",
               "to": "10:00",
               "state": "outage"
             },
@@ -74,7 +69,7 @@
           "intervals": [
             {
               "from": "01:00",
-              "to": "03:00",
+              "to": "04:30",
               "state": "outage"
             },
             {
@@ -108,7 +103,7 @@
               "state": "outage"
             },
             {
-              "from": "06:00",
+              "from": "05:30",
               "to": "10:00",
               "state": "outage"
             },
@@ -129,7 +124,7 @@
           "intervals": [
             {
               "from": "01:00",
-              "to": "03:00",
+              "to": "05:30",
               "state": "outage"
             },
             {
@@ -154,7 +149,7 @@
           "intervals": [
             {
               "from": "02:00",
-              "to": "04:00",
+              "to": "06:00",
               "state": "outage"
             },
             {
@@ -179,7 +174,7 @@
           "intervals": [
             {
               "from": "03:00",
-              "to": "05:00",
+              "to": "05:30",
               "state": "outage"
             },
             {
@@ -228,13 +223,8 @@
           "id": "5.1",
           "intervals": [
             {
-              "from": "00:00",
-              "to": "01:00",
-              "state": "outage"
-            },
-            {
               "from": "03:00",
-              "to": "05:00",
+              "to": "06:00",
               "state": "outage"
             },
             {
@@ -258,12 +248,7 @@
           "id": "5.2",
           "intervals": [
             {
-              "from": "00:00",
-              "to": "02:00",
-              "state": "outage"
-            },
-            {
-              "from": "05:00",
+              "from": "04:00",
               "to": "07:00",
               "state": "outage"
             },
@@ -287,11 +272,6 @@
         {
           "id": "6.1",
           "intervals": [
-            {
-              "from": "00:00",
-              "to": "01:00",
-              "state": "outage"
-            },
             {
               "from": "04:00",
               "to": "06:00",
@@ -318,12 +298,7 @@
           "id": "6.2",
           "intervals": [
             {
-              "from": "00:00",
-              "to": "01:00",
-              "state": "outage"
-            },
-            {
-              "from": "04:00",
+              "from": "03:00",
               "to": "07:00",
               "state": "outage"
             },
