@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T02:08:27.387Z",
+  "generatedAt": "2026-11-07T08:58:33.538Z",
   "source": {
     "name": "YASNO — офіційний графік відключень ДТЕК Київські електромережі",
     "indexUrl": "https://kyiv.yasno.com.ua/schedule-turn-off-electricity",
-    "checkedAt": "2026-11-07T02:08:27.387Z"
+    "checkedAt": "2026-11-07T08:58:33.538Z"
   },
   "schedules": [
     {
       "date": "2026-11-07",
       "status": "available",
-      "publishedAt": "2026-11-06T22:45:02.000Z",
+      "publishedAt": "2026-11-07T08:00:02.000Z",
       "articleUrl": "https://kyiv.yasno.com.ua/schedule-turn-off-electricity",
       "checkedAt": null,
       "queues": [
@@ -1039,11 +1039,11 @@
           "intervals": [
             {
               "from": "01:30",
-              "to": "09:30",
+              "to": "13:00",
               "state": "outage"
             },
             {
-              "from": "12:00",
+              "from": "15:00",
               "to": "20:00",
               "state": "outage"
             },
@@ -1059,11 +1059,11 @@
           "intervals": [
             {
               "from": "02:30",
-              "to": "10:30",
+              "to": "13:00",
               "state": "outage"
             },
             {
-              "from": "13:30",
+              "from": "15:00",
               "to": "21:00",
               "state": "outage"
             },
@@ -1084,11 +1084,11 @@
             },
             {
               "from": "03:00",
-              "to": "11:30",
+              "to": "13:00",
               "state": "outage"
             },
             {
-              "from": "14:00",
+              "from": "15:00",
               "to": "21:30",
               "state": "outage"
             }
@@ -1104,11 +1104,11 @@
             },
             {
               "from": "04:00",
-              "to": "12:00",
+              "to": "13:00",
               "state": "outage"
             },
             {
-              "from": "14:30",
+              "from": "15:00",
               "to": "22:30",
               "state": "outage"
             }
@@ -1164,7 +1164,7 @@
             },
             {
               "from": "07:00",
-              "to": "14:30",
+              "to": "15:00",
               "state": "outage"
             },
             {
