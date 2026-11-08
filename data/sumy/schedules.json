@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T22:54:32.459Z",
+  "generatedAt": "2026-11-08T23:14:35.591Z",
   "source": {
     "name": "АТ «Сумиобленерго» — графік ГПВ та офіційні повідомлення",
     "indexUrl": "https://www.soe.com.ua/consumers/shutdowns?tab=hourly-schedules",
-    "checkedAt": "2026-11-08T19:49:00.281Z"
+    "checkedAt": "2026-11-08T23:14:35.591Z"
   },
   "schedules": [
     {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,
