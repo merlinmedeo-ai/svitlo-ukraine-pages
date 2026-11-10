@@ -1,323 +1,72 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T18:44:59.925Z",
+  "generatedAt": "2026-11-10T23:48:00.761Z",
   "source": {
     "name": "АТ «Житомиробленерго» — датована таблиця ГПВ",
     "indexUrl": "https://www.ztoe.com.ua/unhooking-search.php",
-    "checkedAt": "2026-11-10T18:44:59.925Z"
+    "checkedAt": "2026-11-10T23:48:00.761Z"
   },
   "schedules": [
     {
-      "date": "2026-11-10",
-      "status": "available",
-      "publishedAt": "2026-10-11T20:30:00.000Z",
-      "articleUrl": "https://www.ztoe.com.ua/unhooking-search.php",
+      "date": "2026-11-11",
+      "status": "unavailable",
+      "publishedAt": null,
+      "articleUrl": null,
       "checkedAt": null,
+      "note": "Житомиробленерго ще не опублікувало таблицю ГПВ на цю дату.",
       "queues": [
         {
           "id": "1.1",
-          "intervals": [
-            {
-              "from": "03:00",
-              "to": "06:00",
-              "state": "outage"
-            },
-            {
-              "from": "08:00",
-              "to": "12:00",
-              "state": "outage"
-            },
-            {
-              "from": "14:00",
-              "to": "18:00",
-              "state": "outage"
-            },
-            {
-              "from": "20:00",
-              "to": "24:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "1.2",
-          "intervals": [
-            {
-              "from": "03:00",
-              "to": "06:00",
-              "state": "outage"
-            },
-            {
-              "from": "08:00",
-              "to": "12:00",
-              "state": "outage"
-            },
-            {
-              "from": "14:00",
-              "to": "18:00",
-              "state": "outage"
-            },
-            {
-              "from": "20:00",
-              "to": "24:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "2.1",
-          "intervals": [
-            {
-              "from": "03:00",
-              "to": "06:00",
-              "state": "outage"
-            },
-            {
-              "from": "08:00",
-              "to": "12:00",
-              "state": "outage"
-            },
-            {
-              "from": "14:00",
-              "to": "18:00",
-              "state": "outage"
-            },
-            {
-              "from": "20:00",
-              "to": "24:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "2.2",
-          "intervals": [
-            {
-              "from": "03:00",
-              "to": "06:00",
-              "state": "outage"
-            },
-            {
-              "from": "08:00",
-              "to": "12:00",
-              "state": "outage"
-            },
-            {
-              "from": "14:00",
-              "to": "18:00",
-              "state": "outage"
-            },
-            {
-              "from": "20:00",
-              "to": "24:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "3.1",
-          "intervals": [
-            {
-              "from": "04:00",
-              "to": "08:00",
-              "state": "outage"
-            },
-            {
-              "from": "10:00",
-              "to": "14:00",
-              "state": "outage"
-            },
-            {
-              "from": "16:00",
-              "to": "20:00",
-              "state": "outage"
-            },
-            {
-              "from": "22:00",
-              "to": "24:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "3.2",
-          "intervals": [
-            {
-              "from": "04:00",
-              "to": "08:00",
-              "state": "outage"
-            },
-            {
-              "from": "10:00",
-              "to": "14:00",
-              "state": "outage"
-            },
-            {
-              "from": "16:00",
-              "to": "20:00",
-              "state": "outage"
-            },
-            {
-              "from": "22:00",
-              "to": "24:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "4.1",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "04:00",
-              "state": "outage"
-            },
-            {
-              "from": "06:00",
-              "to": "08:00",
-              "state": "outage"
-            },
-            {
-              "from": "10:00",
-              "to": "14:00",
-              "state": "outage"
-            },
-            {
-              "from": "16:00",
-              "to": "20:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "4.2",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "04:00",
-              "state": "outage"
-            },
-            {
-              "from": "06:00",
-              "to": "08:00",
-              "state": "outage"
-            },
-            {
-              "from": "10:00",
-              "to": "14:00",
-              "state": "outage"
-            },
-            {
-              "from": "16:00",
-              "to": "20:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "5.1",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "03:00",
-              "state": "outage"
-            },
-            {
-              "from": "06:00",
-              "to": "10:00",
-              "state": "outage"
-            },
-            {
-              "from": "12:00",
-              "to": "16:00",
-              "state": "outage"
-            },
-            {
-              "from": "18:00",
-              "to": "22:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "5.2",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "03:00",
-              "state": "outage"
-            },
-            {
-              "from": "06:00",
-              "to": "10:00",
-              "state": "outage"
-            },
-            {
-              "from": "12:00",
-              "to": "16:00",
-              "state": "outage"
-            },
-            {
-              "from": "18:00",
-              "to": "22:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "6.1",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "03:00",
-              "state": "outage"
-            },
-            {
-              "from": "06:00",
-              "to": "10:00",
-              "state": "outage"
-            },
-            {
-              "from": "12:00",
-              "to": "16:00",
-              "state": "outage"
-            },
-            {
-              "from": "18:00",
-              "to": "22:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "6.2",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "03:00",
-              "state": "outage"
-            },
-            {
-              "from": "08:00",
-              "to": "10:00",
-              "state": "outage"
-            },
-            {
-              "from": "12:00",
-              "to": "16:00",
-              "state": "outage"
-            },
-            {
-              "from": "18:00",
-              "to": "22:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         }
       ]
     },
     {
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,
