@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T11:15:29.238Z",
+  "generatedAt": "2026-11-11T18:46:53.205Z",
   "source": {
     "name": "АТ «ДТЕК Одеські електромережі» — офіційні графіки ГПВ",
     "indexUrl": "https://www.dtek-oem.com.ua/ua/shutdowns",
-    "checkedAt": "2026-11-11T11:15:29.238Z"
+    "checkedAt": "2026-11-11T18:46:53.205Z"
   },
   "schedules": [
     {
       "date": "2026-11-11",
       "status": "available",
-      "publishedAt": "2026-11-11T12:49:00.000Z",
+      "publishedAt": "2026-11-11T20:23:00.000Z",
       "articleUrl": "https://www.dtek-oem.com.ua/ua/shutdowns",
       "checkedAt": null,
       "queues": [
@@ -239,7 +239,7 @@
     {
       "date": "2026-11-12",
       "status": "available",
-      "publishedAt": "2026-11-11T12:49:00.000Z",
+      "publishedAt": "2026-11-11T20:23:00.000Z",
       "articleUrl": "https://www.dtek-oem.com.ua/ua/shutdowns",
       "checkedAt": null,
       "queues": [
