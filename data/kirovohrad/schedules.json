@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T08:28:48.340Z",
+  "generatedAt": "2026-11-12T22:31:20.503Z",
   "source": {
     "name": "ПрАТ «Кіровоградобленерго» — API активних графіків",
     "indexUrl": "https://kiroe.com.ua/electricity-blackout",
-    "checkedAt": "2026-11-12T16:57:51.634Z"
+    "checkedAt": "2026-11-12T22:31:20.503Z"
   },
   "schedules": [
     {
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,

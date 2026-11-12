@@ -1,229 +1,72 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T16:58:12.307Z",
+  "generatedAt": "2026-11-12T22:31:36.626Z",
   "source": {
-    "name": "АТ «Харківобленерго» — офіційний Telegram-канал · резерв alerts.org.ua",
+    "name": "АТ «Харківобленерго» — офіційний Telegram-канал",
     "indexUrl": "https://t.me/s/kharkivenergy",
-    "checkedAt": "2026-11-12T16:58:12.307Z"
+    "checkedAt": "2026-11-12T22:31:36.626Z"
   },
   "schedules": [
     {
-      "date": "2026-11-12",
-      "status": "available",
-      "publishedAt": "2026-11-11T21:13:00.000Z",
-      "articleUrl": "https://alerts.org.ua/harkivska-oblast/",
+      "date": "2026-11-13",
+      "status": "unavailable",
+      "publishedAt": null,
+      "articleUrl": null,
       "checkedAt": null,
-      "note": "Дані надійшли з alerts.org.ua — стороннього агрегатора. Звіряйте зміни на офіційному сервісі оператора. Резервні дані отримано зі стороннього агрегатора alerts.org.ua. Звіряйте графік з офіційним джерелом оператора.",
+      "note": "Офіційний канал ще не опублікував повний графік на цю дату.",
       "queues": [
         {
           "id": "1.1",
-          "intervals": [
-            {
-              "from": "02:30",
-              "to": "06:00",
-              "state": "outage"
-            },
-            {
-              "from": "09:30",
-              "to": "16:30",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "1.2",
-          "intervals": [
-            {
-              "from": "02:30",
-              "to": "06:00",
-              "state": "outage"
-            },
-            {
-              "from": "13:00",
-              "to": "16:30",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "2.1",
-          "intervals": [
-            {
-              "from": "02:30",
-              "to": "06:00",
-              "state": "outage"
-            },
-            {
-              "from": "13:00",
-              "to": "16:30",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "2.2",
-          "intervals": [
-            {
-              "from": "02:30",
-              "to": "06:00",
-              "state": "outage"
-            },
-            {
-              "from": "13:00",
-              "to": "16:30",
-              "state": "outage"
-            },
-            {
-              "from": "20:00",
-              "to": "22:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "3.1",
-          "intervals": [
-            {
-              "from": "06:00",
-              "to": "09:30",
-              "state": "outage"
-            },
-            {
-              "from": "16:30",
-              "to": "20:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "3.2",
-          "intervals": [
-            {
-              "from": "06:00",
-              "to": "09:30",
-              "state": "outage"
-            },
-            {
-              "from": "16:30",
-              "to": "20:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "4.1",
-          "intervals": [
-            {
-              "from": "06:00",
-              "to": "09:30",
-              "state": "outage"
-            },
-            {
-              "from": "16:30",
-              "to": "20:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "4.2",
-          "intervals": [
-            {
-              "from": "06:00",
-              "to": "09:30",
-              "state": "outage"
-            },
-            {
-              "from": "13:00",
-              "to": "20:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "5.1",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "02:30",
-              "state": "outage"
-            },
-            {
-              "from": "08:00",
-              "to": "13:00",
-              "state": "outage"
-            },
-            {
-              "from": "20:00",
-              "to": "23:30",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "5.2",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "02:30",
-              "state": "outage"
-            },
-            {
-              "from": "09:30",
-              "to": "13:00",
-              "state": "outage"
-            },
-            {
-              "from": "20:00",
-              "to": "23:30",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "6.1",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "02:30",
-              "state": "outage"
-            },
-            {
-              "from": "09:30",
-              "to": "13:00",
-              "state": "outage"
-            },
-            {
-              "from": "20:00",
-              "to": "23:30",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "6.2",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "02:30",
-              "state": "outage"
-            },
-            {
-              "from": "09:30",
-              "to": "13:00",
-              "state": "outage"
-            },
-            {
-              "from": "16:30",
-              "to": "23:30",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         }
       ]
     },
     {
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,
