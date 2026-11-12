@@ -1,71 +1,144 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T23:47:29.634Z",
+  "generatedAt": "2026-11-12T01:06:44.418Z",
   "source": {
-    "name": "ПрАТ «Волиньобленерго» — офіційний графік ГПВ",
+    "name": "ПрАТ «Волиньобленерго» — офіційний графік ГПВ · резерв alerts.org.ua",
     "indexUrl": "https://energy.volyn.ua/spozhyvacham/perervy-u-elektropostachanni/hrafik-vidkliuchen/",
-    "checkedAt": "2026-11-11T18:46:50.917Z"
+    "checkedAt": "2026-11-12T01:06:44.418Z"
   },
   "schedules": [
     {
-      "date": "2026-11-11",
-      "status": "unavailable",
-      "publishedAt": null,
-      "articleUrl": null,
+      "date": "2026-11-12",
+      "status": "available",
+      "publishedAt": "2026-11-11T20:30:00.000Z",
+      "articleUrl": "https://alerts.org.ua/volynska-oblast/",
       "checkedAt": null,
+      "note": "Дані надійшли з alerts.org.ua — стороннього агрегатора. Звіряйте зміни на офіційному сервісі оператора. Резервні дані отримано зі стороннього агрегатора alerts.org.ua. Звіряйте графік з офіційним джерелом оператора.",
       "queues": [
         {
           "id": "1.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         },
         {
           "id": "1.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         },
         {
           "id": "2.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         },
         {
           "id": "2.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         },
         {
           "id": "3.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         },
         {
           "id": "3.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         },
         {
           "id": "4.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         },
         {
           "id": "4.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         },
         {
           "id": "5.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         },
         {
           "id": "5.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         },
         {
           "id": "6.1",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         },
         {
           "id": "6.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "24:00",
+              "state": "possible"
+            }
+          ]
         }
       ]
     },
     {
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,
