@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T18:12:17.865Z",
+  "generatedAt": "2026-11-13T23:44:28.989Z",
   "source": {
     "name": "ПрАТ «Кіровоградобленерго» — API активних графіків · резерв alerts.org.ua",
     "indexUrl": "https://kiroe.com.ua/electricity-blackout",
-    "checkedAt": "2026-11-13T18:12:17.865Z"
+    "checkedAt": "2026-11-13T23:44:28.989Z"
   },
   "schedules": [
     {
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "status": "available",
-      "publishedAt": "2026-11-13T06:44:00.000Z",
+      "publishedAt": "2026-11-13T20:02:00.000Z",
       "articleUrl": "https://alerts.org.ua/kirovogradska-oblast/",
       "checkedAt": null,
       "note": "Дані надійшли з alerts.org.ua — стороннього агрегатора. Звіряйте зміни на офіційному сервісі оператора. Резервні дані отримано зі стороннього агрегатора alerts.org.ua. Звіряйте графік з офіційним джерелом оператора.",
@@ -84,13 +84,8 @@
               "state": "outage"
             },
             {
-              "from": "14:00",
+              "from": "15:00",
               "to": "16:00",
-              "state": "outage"
-            },
-            {
-              "from": "22:00",
-              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -104,7 +99,7 @@
               "state": "outage"
             },
             {
-              "from": "14:00",
+              "from": "15:00",
               "to": "16:00",
               "state": "outage"
             }
@@ -113,11 +108,6 @@
         {
           "id": "4.1",
           "intervals": [
-            {
-              "from": "12:00",
-              "to": "14:00",
-              "state": "outage"
-            },
             {
               "from": "16:00",
               "to": "18:00",
@@ -136,11 +126,6 @@
             {
               "from": "00:00",
               "to": "00:30",
-              "state": "outage"
-            },
-            {
-              "from": "12:00",
-              "to": "14:00",
               "state": "outage"
             },
             {
@@ -180,7 +165,7 @@
             },
             {
               "from": "20:00",
-              "to": "22:00",
+              "to": "21:30",
               "state": "outage"
             }
           ]
@@ -207,28 +192,12 @@
         },
         {
           "id": "6.2",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "00:30",
-              "state": "outage"
-            },
-            {
-              "from": "08:00",
-              "to": "10:00",
-              "state": "outage"
-            },
-            {
-              "from": "16:00",
-              "to": "18:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         }
       ]
     },
     {
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,

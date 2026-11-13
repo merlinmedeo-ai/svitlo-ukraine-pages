@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T22:31:32.261Z",
+  "generatedAt": "2026-11-13T23:44:29.310Z",
   "source": {
-    "name": "ПрАТ «Закарпаттяобленерго» — офіційний сервіс графіків",
+    "name": "ПрАТ «Закарпаттяобленерго» — офіційний сервіс графіків · резерв alerts.org.ua",
     "indexUrl": "https://outage.zakarpat.energy/schedule_queues",
-    "checkedAt": "2026-11-13T18:12:08.678Z"
+    "checkedAt": "2026-11-13T23:44:29.310Z"
   },
   "schedules": [
     {
-      "date": "2026-11-13",
-      "status": "unavailable",
-      "publishedAt": null,
-      "articleUrl": null,
+      "date": "2026-11-14",
+      "status": "available",
+      "publishedAt": "2026-11-13T19:52:00.000Z",
+      "articleUrl": "https://alerts.org.ua/zakarpatska-oblast/",
       "checkedAt": null,
-      "note": "Закарпаттяобленерго ще не опублікувало зображення графіка на цю дату.",
+      "note": "Дані надійшли з alerts.org.ua — стороннього агрегатора. Звіряйте зміни на офіційному сервісі оператора. Резервні дані отримано зі стороннього агрегатора alerts.org.ua. Звіряйте графік з офіційним джерелом оператора.",
       "queues": [
         {
           "id": "1.1",
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,

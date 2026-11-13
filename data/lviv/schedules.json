@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T01:06:24.519Z",
+  "generatedAt": "2026-11-13T23:44:06.881Z",
   "source": {
     "name": "alerts.org.ua — сторонній агрегатор, графік за інформацією Львівобленерго",
     "indexUrl": "https://alerts.org.ua/lvivska-oblast/",
-    "checkedAt": "2026-11-12T16:57:48.096Z"
+    "checkedAt": "2026-11-13T23:44:06.881Z"
   },
   "schedules": [
     {
-      "date": "2026-11-12",
+      "date": "2026-11-14",
       "status": "available",
-      "publishedAt": "2026-11-11T20:41:00.000Z",
+      "publishedAt": "2026-11-13T19:51:00.000Z",
       "articleUrl": "https://alerts.org.ua/lvivska-oblast/",
       "checkedAt": null,
       "note": "Дані надійшли з alerts.org.ua — стороннього агрегатора. Звіряйте зміни на офіційному сервісі оператора.",
@@ -66,12 +66,12 @@
       ]
     },
     {
-      "date": "2026-11-13",
+      "date": "2026-11-15",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,
       "checkedAt": null,
-      "note": "Сторінка alerts.org.ua зараз містить графік на 2026-11-12, не на цю дату.",
+      "note": "Сторінка alerts.org.ua зараз містить графік на 2026-11-14, не на цю дату.",
       "queues": [
         {
           "id": "1.1",
