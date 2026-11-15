@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T21:37:18.653Z",
+  "generatedAt": "2026-11-15T01:23:19.375Z",
   "source": {
     "name": "АТ «Сумиобленерго» — графік ГПВ та офіційні повідомлення · резерв alerts.org.ua",
     "indexUrl": "https://www.soe.com.ua/consumers/shutdowns?tab=hourly-schedules",
-    "checkedAt": "2026-11-14T21:37:18.653Z"
+    "checkedAt": "2026-11-15T01:23:19.375Z"
   },
   "schedules": [
     {
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "status": "available",
-      "publishedAt": "2026-11-13T19:46:00.000Z",
+      "publishedAt": "2026-11-14T19:13:00.000Z",
       "articleUrl": "https://alerts.org.ua/sumska-oblast/",
       "checkedAt": null,
       "note": "Дані надійшли з alerts.org.ua — стороннього агрегатора. Звіряйте зміни на офіційному сервісі оператора. Резервні дані отримано зі стороннього агрегатора alerts.org.ua. Звіряйте графік з офіційним джерелом оператора.",
@@ -243,12 +243,12 @@
       ]
     },
     {
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,
       "checkedAt": null,
-      "note": "Сумиобленерго повідомило про графік, але його публічне повідомлення не містить інтервалів для кожної черги; погодинний API оператора не відкрив дані.",
+      "note": "На публічній сторінці Сумиобленерго немає доступного переліку інтервалів на цю дату.",
       "queues": [
         {
           "id": "1.1",

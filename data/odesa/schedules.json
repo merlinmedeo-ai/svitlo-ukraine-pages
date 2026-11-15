@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T21:36:38.290Z",
+  "generatedAt": "2026-11-15T01:23:17.961Z",
   "source": {
-    "name": "АТ «ДТЕК Одеські електромережі» — офіційні графіки ГПВ",
+    "name": "АТ «ДТЕК Одеські електромережі» — офіційні графіки ГПВ · резерв alerts.org.ua",
     "indexUrl": "https://www.dtek-oem.com.ua/ua/shutdowns",
-    "checkedAt": "2026-11-14T21:36:38.290Z"
+    "checkedAt": "2026-11-15T01:23:17.961Z"
   },
   "schedules": [
     {
@@ -259,127 +259,38 @@
     {
       "date": "2026-11-15",
       "status": "available",
-      "publishedAt": "2026-11-14T17:32:00.000Z",
-      "articleUrl": "https://www.dtek-oem.com.ua/ua/shutdowns",
+      "publishedAt": "2026-11-14T19:12:00.000Z",
+      "articleUrl": "https://alerts.org.ua/odeska-oblast/",
       "checkedAt": null,
+      "note": "Дані надійшли з alerts.org.ua — стороннього агрегатора. Звіряйте зміни на офіційному сервісі оператора. Резервні дані отримано зі стороннього агрегатора alerts.org.ua. Звіряйте графік з офіційним джерелом оператора.",
       "queues": [
         {
           "id": "1.1",
-          "intervals": [
-            {
-              "from": "02:00",
-              "to": "09:00",
-              "state": "possible"
-            },
-            {
-              "from": "12:30",
-              "to": "19:30",
-              "state": "possible"
-            },
-            {
-              "from": "23:00",
-              "to": "24:00",
-              "state": "possible"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "1.2",
-          "intervals": [
-            {
-              "from": "02:00",
-              "to": "09:00",
-              "state": "possible"
-            },
-            {
-              "from": "12:30",
-              "to": "19:30",
-              "state": "possible"
-            },
-            {
-              "from": "23:00",
-              "to": "24:00",
-              "state": "possible"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "2.1",
-          "intervals": [
-            {
-              "from": "02:00",
-              "to": "09:00",
-              "state": "possible"
-            },
-            {
-              "from": "12:30",
-              "to": "19:30",
-              "state": "possible"
-            },
-            {
-              "from": "23:00",
-              "to": "24:00",
-              "state": "possible"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "2.2",
-          "intervals": [
-            {
-              "from": "02:00",
-              "to": "09:00",
-              "state": "possible"
-            },
-            {
-              "from": "12:30",
-              "to": "19:30",
-              "state": "possible"
-            },
-            {
-              "from": "23:00",
-              "to": "24:00",
-              "state": "possible"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "3.1",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "02:00",
-              "state": "possible"
-            },
-            {
-              "from": "05:30",
-              "to": "12:30",
-              "state": "possible"
-            },
-            {
-              "from": "16:00",
-              "to": "23:00",
-              "state": "possible"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "3.2",
           "intervals": [
             {
-              "from": "00:00",
-              "to": "02:00",
-              "state": "possible"
-            },
-            {
-              "from": "05:30",
-              "to": "12:30",
-              "state": "possible"
-            },
-            {
               "from": "16:00",
-              "to": "23:00",
-              "state": "possible"
+              "to": "20:00",
+              "state": "outage"
             }
           ]
         },
@@ -387,19 +298,9 @@
           "id": "4.1",
           "intervals": [
             {
-              "from": "00:00",
-              "to": "02:00",
-              "state": "possible"
-            },
-            {
-              "from": "05:30",
-              "to": "12:30",
-              "state": "possible"
-            },
-            {
               "from": "16:00",
-              "to": "23:00",
-              "state": "possible"
+              "to": "20:00",
+              "state": "outage"
             }
           ]
         },
@@ -407,59 +308,23 @@
           "id": "4.2",
           "intervals": [
             {
-              "from": "00:00",
-              "to": "02:00",
-              "state": "possible"
-            },
-            {
-              "from": "05:30",
-              "to": "12:30",
-              "state": "possible"
-            },
-            {
               "from": "16:00",
-              "to": "23:00",
-              "state": "possible"
+              "to": "20:00",
+              "state": "outage"
             }
           ]
         },
         {
           "id": "5.1",
-          "intervals": [
-            {
-              "from": "00:00",
-              "to": "05:30",
-              "state": "possible"
-            },
-            {
-              "from": "09:00",
-              "to": "16:00",
-              "state": "possible"
-            },
-            {
-              "from": "19:30",
-              "to": "24:00",
-              "state": "possible"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "5.2",
           "intervals": [
             {
-              "from": "00:00",
-              "to": "05:30",
-              "state": "possible"
-            },
-            {
-              "from": "09:00",
-              "to": "16:00",
-              "state": "possible"
-            },
-            {
               "from": "19:30",
               "to": "24:00",
-              "state": "possible"
+              "state": "outage"
             }
           ]
         },
@@ -467,19 +332,9 @@
           "id": "6.1",
           "intervals": [
             {
-              "from": "00:00",
-              "to": "05:30",
-              "state": "possible"
-            },
-            {
-              "from": "09:00",
-              "to": "16:00",
-              "state": "possible"
-            },
-            {
               "from": "19:30",
-              "to": "24:00",
-              "state": "possible"
+              "to": "22:00",
+              "state": "outage"
             }
           ]
         },
@@ -487,21 +342,69 @@
           "id": "6.2",
           "intervals": [
             {
-              "from": "00:00",
-              "to": "05:30",
-              "state": "possible"
-            },
-            {
-              "from": "09:00",
-              "to": "16:00",
-              "state": "possible"
-            },
-            {
               "from": "19:30",
               "to": "24:00",
-              "state": "possible"
+              "state": "outage"
             }
           ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "status": "unavailable",
+      "publishedAt": null,
+      "articleUrl": null,
+      "checkedAt": null,
+      "note": "Сторінка alerts.org.ua зараз містить графік на 2026-11-15, не на цю дату.",
+      "queues": [
+        {
+          "id": "1.1",
+          "intervals": []
+        },
+        {
+          "id": "1.2",
+          "intervals": []
+        },
+        {
+          "id": "2.1",
+          "intervals": []
+        },
+        {
+          "id": "2.2",
+          "intervals": []
+        },
+        {
+          "id": "3.1",
+          "intervals": []
+        },
+        {
+          "id": "3.2",
+          "intervals": []
+        },
+        {
+          "id": "4.1",
+          "intervals": []
+        },
+        {
+          "id": "4.2",
+          "intervals": []
+        },
+        {
+          "id": "5.1",
+          "intervals": []
+        },
+        {
+          "id": "5.2",
+          "intervals": []
+        },
+        {
+          "id": "6.1",
+          "intervals": []
+        },
+        {
+          "id": "6.2",
+          "intervals": []
         }
       ]
     }
