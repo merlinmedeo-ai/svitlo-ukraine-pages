@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T01:23:19.375Z",
+  "generatedAt": "2026-11-15T07:58:28.716Z",
   "source": {
     "name": "АТ «Сумиобленерго» — графік ГПВ та офіційні повідомлення · резерв alerts.org.ua",
     "indexUrl": "https://www.soe.com.ua/consumers/shutdowns?tab=hourly-schedules",
-    "checkedAt": "2026-11-15T01:23:19.375Z"
+    "checkedAt": "2026-11-15T07:58:28.716Z"
   },
   "schedules": [
     {
