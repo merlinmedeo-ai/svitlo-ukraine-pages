@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T20:27:28.432Z",
+  "generatedAt": "2026-11-16T00:05:51.926Z",
   "source": {
     "name": "alerts.org.ua — сторонній агрегатор, графік за інформацією АТ «Хмельницькобленерго»",
     "indexUrl": "https://alerts.org.ua/hmelnitcka-oblast/",
-    "checkedAt": "2026-11-15T20:27:28.432Z"
+    "checkedAt": "2026-11-16T00:05:51.926Z"
   },
   "schedules": [
     {
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "status": "available",
-      "publishedAt": "2026-11-15T16:56:00.000Z",
+      "publishedAt": "2026-11-15T18:33:00.000Z",
       "articleUrl": "https://alerts.org.ua/hmelnitcka-oblast/",
       "checkedAt": null,
       "note": "Дані надійшли з alerts.org.ua — стороннього агрегатора. Звіряйте зміни на офіційному сервісі оператора.",
@@ -19,8 +19,13 @@
           "id": "1.1",
           "intervals": [
             {
-              "from": "19:00",
-              "to": "22:00",
+              "from": "10:00",
+              "to": "14:00",
+              "state": "outage"
+            },
+            {
+              "from": "20:00",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -29,7 +34,12 @@
           "id": "1.2",
           "intervals": [
             {
-              "from": "19:00",
+              "from": "10:00",
+              "to": "14:00",
+              "state": "outage"
+            },
+            {
+              "from": "18:00",
               "to": "22:00",
               "state": "outage"
             }
@@ -39,8 +49,13 @@
           "id": "2.1",
           "intervals": [
             {
-              "from": "19:00",
-              "to": "22:00",
+              "from": "14:00",
+              "to": "18:00",
+              "state": "outage"
+            },
+            {
+              "from": "22:00",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -49,8 +64,13 @@
           "id": "2.2",
           "intervals": [
             {
-              "from": "19:00",
-              "to": "22:00",
+              "from": "10:00",
+              "to": "14:00",
+              "state": "outage"
+            },
+            {
+              "from": "21:00",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -59,13 +79,8 @@
           "id": "3.1",
           "intervals": [
             {
-              "from": "17:00",
-              "to": "19:00",
-              "state": "outage"
-            },
-            {
-              "from": "22:00",
-              "to": "24:00",
+              "from": "14:00",
+              "to": "18:00",
               "state": "outage"
             }
           ]
@@ -74,13 +89,8 @@
           "id": "3.2",
           "intervals": [
             {
-              "from": "17:00",
-              "to": "19:00",
-              "state": "outage"
-            },
-            {
-              "from": "22:00",
-              "to": "24:00",
+              "from": "18:00",
+              "to": "22:00",
               "state": "outage"
             }
           ]
@@ -89,13 +99,8 @@
           "id": "4.1",
           "intervals": [
             {
-              "from": "17:00",
-              "to": "19:00",
-              "state": "outage"
-            },
-            {
-              "from": "22:00",
-              "to": "24:00",
+              "from": "14:00",
+              "to": "18:00",
               "state": "outage"
             }
           ]
@@ -104,13 +109,8 @@
           "id": "4.2",
           "intervals": [
             {
-              "from": "17:00",
-              "to": "19:00",
-              "state": "outage"
-            },
-            {
-              "from": "22:00",
-              "to": "24:00",
+              "from": "14:00",
+              "to": "18:00",
               "state": "outage"
             }
           ]
@@ -119,8 +119,13 @@
           "id": "5.1",
           "intervals": [
             {
-              "from": "19:00",
-              "to": "22:00",
+              "from": "06:00",
+              "to": "10:00",
+              "state": "outage"
+            },
+            {
+              "from": "16:00",
+              "to": "20:00",
               "state": "outage"
             }
           ]
@@ -129,8 +134,13 @@
           "id": "5.2",
           "intervals": [
             {
-              "from": "19:00",
-              "to": "22:00",
+              "from": "06:00",
+              "to": "10:00",
+              "state": "outage"
+            },
+            {
+              "from": "18:00",
+              "to": "21:00",
               "state": "outage"
             }
           ]
@@ -139,13 +149,8 @@
           "id": "6.1",
           "intervals": [
             {
-              "from": "17:30",
-              "to": "19:00",
-              "state": "outage"
-            },
-            {
-              "from": "22:00",
-              "to": "24:00",
+              "from": "06:00",
+              "to": "10:00",
               "state": "outage"
             }
           ]
@@ -154,13 +159,8 @@
           "id": "6.2",
           "intervals": [
             {
-              "from": "17:30",
-              "to": "19:00",
-              "state": "outage"
-            },
-            {
-              "from": "22:00",
-              "to": "24:00",
+              "from": "18:00",
+              "to": "22:00",
               "state": "outage"
             }
           ]
@@ -168,12 +168,12 @@
       ]
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,
       "checkedAt": null,
-      "note": "Сторінка alerts.org.ua зараз містить графік на 2026-11-15, не на цю дату.",
+      "note": "Сторінка alerts.org.ua зараз містить графік на 2026-11-16, не на цю дату.",
       "queues": [
         {
           "id": "1.1",
