@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T06:53:06.670Z",
+  "generatedAt": "2026-11-16T16:32:55.543Z",
   "source": {
-    "name": "АТ «Запоріжжяобленерго» — офіційні публікації ГПВ · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua",
+    "name": "АТ «Запоріжжяобленерго» — офіційні публікації ГПВ · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua",
     "indexUrl": "https://www.zoe.com.ua/outage/",
-    "checkedAt": "2026-11-16T06:53:06.670Z"
+    "checkedAt": "2026-11-16T16:32:55.543Z"
   },
   "schedules": [
     {
@@ -2380,7 +2380,7 @@
     {
       "date": "2026-11-16",
       "status": "available",
-      "publishedAt": "2026-11-16T03:37:00.000Z",
+      "publishedAt": "2026-11-16T09:09:00.000Z",
       "articleUrl": "https://alerts.org.ua/zaporizka-oblast/",
       "checkedAt": null,
       "note": "Дані надійшли з alerts.org.ua — стороннього агрегатора. Звіряйте зміни на офіційному сервісі оператора. Резервні дані отримано зі стороннього агрегатора alerts.org.ua. Звіряйте графік з офіційним джерелом оператора.",
@@ -2394,12 +2394,12 @@
               "state": "outage"
             },
             {
-              "from": "10:00",
-              "to": "15:00",
+              "from": "11:30",
+              "to": "16:30",
               "state": "outage"
             },
             {
-              "from": "23:30",
+              "from": "20:30",
               "to": "24:00",
               "state": "outage"
             }
@@ -2414,7 +2414,12 @@
               "state": "outage"
             },
             {
-              "from": "19:00",
+              "from": "11:30",
+              "to": "16:30",
+              "state": "outage"
+            },
+            {
+              "from": "20:30",
               "to": "24:00",
               "state": "outage"
             }
@@ -2429,8 +2434,13 @@
               "state": "outage"
             },
             {
-              "from": "11:30",
-              "to": "16:30",
+              "from": "07:00",
+              "to": "12:00",
+              "state": "outage"
+            },
+            {
+              "from": "14:30",
+              "to": "19:30",
               "state": "outage"
             }
           ]
@@ -2444,8 +2454,13 @@
               "state": "outage"
             },
             {
-              "from": "19:00",
-              "to": "24:00",
+              "from": "07:00",
+              "to": "12:00",
+              "state": "outage"
+            },
+            {
+              "from": "16:00",
+              "to": "21:00",
               "state": "outage"
             }
           ]
@@ -2464,8 +2479,8 @@
               "state": "outage"
             },
             {
-              "from": "20:30",
-              "to": "24:00",
+              "from": "14:30",
+              "to": "19:30",
               "state": "outage"
             }
           ]
@@ -2484,8 +2499,8 @@
               "state": "outage"
             },
             {
-              "from": "16:00",
-              "to": "21:00",
+              "from": "14:30",
+              "to": "19:30",
               "state": "outage"
             }
           ]
@@ -2499,8 +2514,13 @@
               "state": "outage"
             },
             {
-              "from": "14:30",
-              "to": "19:30",
+              "from": "10:00",
+              "to": "15:00",
+              "state": "outage"
+            },
+            {
+              "from": "19:00",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -2514,8 +2534,13 @@
               "state": "outage"
             },
             {
-              "from": "14:30",
-              "to": "19:30",
+              "from": "10:00",
+              "to": "15:00",
+              "state": "outage"
+            },
+            {
+              "from": "19:00",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -2531,6 +2556,11 @@
             {
               "from": "11:30",
               "to": "16:30",
+              "state": "outage"
+            },
+            {
+              "from": "20:30",
+              "to": "24:00",
               "state": "outage"
             }
           ]
@@ -2549,8 +2579,8 @@
               "state": "outage"
             },
             {
-              "from": "20:30",
-              "to": "24:00",
+              "from": "16:00",
+              "to": "21:00",
               "state": "outage"
             }
           ]
@@ -2564,12 +2594,12 @@
               "state": "outage"
             },
             {
-              "from": "10:00",
+              "from": "11:30",
               "to": "15:00",
               "state": "outage"
             },
             {
-              "from": "23:30",
+              "from": "19:00",
               "to": "24:00",
               "state": "outage"
             }
