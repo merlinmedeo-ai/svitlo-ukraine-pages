@@ -1,19 +1,18 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T00:32:56.759Z",
+  "generatedAt": "2026-11-17T08:36:41.527Z",
   "source": {
-    "name": "АТ «Черкасиобленерго» — новини ГПВ · резерв alerts.org.ua",
+    "name": "АТ «Черкасиобленерго» — новини ГПВ",
     "indexUrl": "https://www.cherkasyoblenergo.com/media",
-    "checkedAt": "2026-11-17T00:32:56.759Z"
+    "checkedAt": null
   },
   "schedules": [
     {
       "date": "2026-11-17",
       "status": "available",
-      "publishedAt": "2026-11-16T22:02:00.000Z",
-      "articleUrl": "https://alerts.org.ua/cherkaska-oblast/",
+      "publishedAt": "2026-11-16T21:37:00.000Z",
+      "articleUrl": "https://www.cherkasyoblenergo.com/media/hrafik-pohodynnykh-vidklyuchen-hpv-na-17-lystopada?lang=uk",
       "checkedAt": null,
-      "note": "Дані надійшли з alerts.org.ua — стороннього агрегатора. Звіряйте зміни на офіційному сервісі оператора. Резервні дані отримано зі стороннього агрегатора alerts.org.ua. Звіряйте графік з офіційним джерелом оператора.",
       "queues": [
         {
           "id": "1.1",
@@ -300,7 +299,8 @@
             }
           ]
         }
-      ]
+      ],
+      "note": null
     },
     {
       "date": "2026-11-18",
