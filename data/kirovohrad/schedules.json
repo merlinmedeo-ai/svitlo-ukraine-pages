@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T08:37:33.557Z",
+  "generatedAt": "2026-11-17T17:57:13.144Z",
   "source": {
     "name": "ПрАТ «Кіровоградобленерго» — API активних графіків · резерв alerts.org.ua",
     "indexUrl": "https://kiroe.com.ua/electricity-blackout",
-    "checkedAt": "2026-11-17T08:37:33.557Z"
+    "checkedAt": "2026-11-17T17:57:13.144Z"
   },
   "schedules": [
     {
