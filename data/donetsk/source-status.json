@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-18T00:12:12.135Z",
+  "checkedAt": "2026-11-18T07:45:12.453Z",
   "sourceHealthy": true,
   "dates": [
     {
       "date": "2026-11-18",
       "healthy": true,
-      "checkedAt": "2026-11-18T00:12:12.135Z",
+      "checkedAt": "2026-11-18T07:45:12.453Z",
       "note": null
     },
     {
       "date": "2026-11-19",
       "healthy": true,
-      "checkedAt": "2026-11-18T00:12:12.135Z",
+      "checkedAt": "2026-11-18T07:45:12.453Z",
       "note": null
     }
   ]
