@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T17:57:12.853Z",
+  "generatedAt": "2026-11-18T00:12:41.262Z",
   "source": {
     "name": "ПрАТ «Рівнеобленерго» — таблиця ГПВ · резерв alerts.org.ua",
     "indexUrl": "https://www.roe.vsei.ua/disconnections",
-    "checkedAt": "2026-11-17T17:57:12.853Z"
+    "checkedAt": "2026-11-18T00:12:41.262Z"
   },
   "schedules": [
     {
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "status": "available",
-      "publishedAt": "2026-11-16T21:37:00.000Z",
+      "publishedAt": "2026-11-17T19:10:00.000Z",
       "articleUrl": "https://alerts.org.ua/rivnenska-oblast/",
       "checkedAt": null,
       "note": "Дані надійшли з alerts.org.ua — стороннього агрегатора. Звіряйте зміни на офіційному сервісі оператора. Резервні дані отримано зі стороннього агрегатора alerts.org.ua. Звіряйте графік з офіційним джерелом оператора.",
@@ -19,9 +19,9 @@
           "id": "1.1",
           "intervals": [
             {
-              "from": "00:00",
-              "to": "24:00",
-              "state": "possible"
+              "from": "13:00",
+              "to": "16:00",
+              "state": "outage"
             }
           ]
         },
@@ -29,9 +29,9 @@
           "id": "1.2",
           "intervals": [
             {
-              "from": "00:00",
-              "to": "24:00",
-              "state": "possible"
+              "from": "13:00",
+              "to": "16:00",
+              "state": "outage"
             }
           ]
         },
@@ -39,9 +39,9 @@
           "id": "2.1",
           "intervals": [
             {
-              "from": "00:00",
-              "to": "24:00",
-              "state": "possible"
+              "from": "13:00",
+              "to": "16:00",
+              "state": "outage"
             }
           ]
         },
@@ -49,9 +49,9 @@
           "id": "2.2",
           "intervals": [
             {
-              "from": "00:00",
-              "to": "24:00",
-              "state": "possible"
+              "from": "13:00",
+              "to": "16:00",
+              "state": "outage"
             }
           ]
         },
@@ -59,9 +59,9 @@
           "id": "3.1",
           "intervals": [
             {
-              "from": "00:00",
-              "to": "24:00",
-              "state": "possible"
+              "from": "16:00",
+              "to": "20:00",
+              "state": "outage"
             }
           ]
         },
@@ -69,9 +69,9 @@
           "id": "3.2",
           "intervals": [
             {
-              "from": "00:00",
-              "to": "24:00",
-              "state": "possible"
+              "from": "16:00",
+              "to": "20:00",
+              "state": "outage"
             }
           ]
         },
@@ -79,9 +79,9 @@
           "id": "4.1",
           "intervals": [
             {
-              "from": "00:00",
-              "to": "24:00",
-              "state": "possible"
+              "from": "16:00",
+              "to": "20:00",
+              "state": "outage"
             }
           ]
         },
@@ -89,9 +89,9 @@
           "id": "4.2",
           "intervals": [
             {
-              "from": "00:00",
-              "to": "24:00",
-              "state": "possible"
+              "from": "16:00",
+              "to": "20:00",
+              "state": "outage"
             }
           ]
         },
@@ -99,9 +99,9 @@
           "id": "5.1",
           "intervals": [
             {
-              "from": "00:00",
+              "from": "20:00",
               "to": "24:00",
-              "state": "possible"
+              "state": "outage"
             }
           ]
         },
@@ -109,9 +109,9 @@
           "id": "5.2",
           "intervals": [
             {
-              "from": "00:00",
+              "from": "20:00",
               "to": "24:00",
-              "state": "possible"
+              "state": "outage"
             }
           ]
         },
@@ -119,9 +119,9 @@
           "id": "6.1",
           "intervals": [
             {
-              "from": "00:00",
+              "from": "20:00",
               "to": "24:00",
-              "state": "possible"
+              "state": "outage"
             }
           ]
         },
@@ -129,21 +129,21 @@
           "id": "6.2",
           "intervals": [
             {
-              "from": "00:00",
+              "from": "20:00",
               "to": "24:00",
-              "state": "possible"
+              "state": "outage"
             }
           ]
         }
       ]
     },
     {
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,
       "checkedAt": null,
-      "note": "На сторінці Рівнеобленерго доступна таблиця від 17.11.2026; графік на цю дату не підтверджено.",
+      "note": "На сторінці Рівнеобленерго доступна таблиця від 18.11.2026; графік на цю дату не підтверджено.",
       "queues": [
         {
           "id": "1.1",

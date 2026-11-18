@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T17:57:13.144Z",
+  "generatedAt": "2026-11-18T00:12:41.477Z",
   "source": {
     "name": "ПрАТ «Кіровоградобленерго» — API активних графіків · резерв alerts.org.ua",
     "indexUrl": "https://kiroe.com.ua/electricity-blackout",
-    "checkedAt": "2026-11-17T17:57:13.144Z"
+    "checkedAt": "2026-11-18T00:12:41.477Z"
   },
   "schedules": [
     {
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "status": "available",
-      "publishedAt": "2026-11-16T22:05:00.000Z",
+      "publishedAt": "2026-11-17T19:22:00.000Z",
       "articleUrl": "https://alerts.org.ua/kirovogradska-oblast/",
       "checkedAt": null,
       "note": "Дані надійшли з alerts.org.ua — стороннього агрегатора. Звіряйте зміни на офіційному сервісі оператора. Резервні дані отримано зі стороннього агрегатора alerts.org.ua. Звіряйте графік з офіційним джерелом оператора.",
@@ -31,6 +31,11 @@
             {
               "from": "08:00",
               "to": "10:00",
+              "state": "outage"
+            },
+            {
+              "from": "12:00",
+              "to": "14:00",
               "state": "outage"
             },
             {
@@ -61,6 +66,11 @@
             {
               "from": "08:00",
               "to": "10:00",
+              "state": "outage"
+            },
+            {
+              "from": "12:00",
+              "to": "14:00",
               "state": "outage"
             },
             {
@@ -134,6 +144,11 @@
               "state": "outage"
             },
             {
+              "from": "16:00",
+              "to": "18:00",
+              "state": "outage"
+            },
+            {
               "from": "20:00",
               "to": "22:00",
               "state": "outage"
@@ -151,6 +166,11 @@
             {
               "from": "04:00",
               "to": "06:00",
+              "state": "outage"
+            },
+            {
+              "from": "08:00",
+              "to": "10:00",
               "state": "outage"
             },
             {
@@ -184,6 +204,11 @@
               "state": "outage"
             },
             {
+              "from": "08:00",
+              "to": "10:00",
+              "state": "outage"
+            },
+            {
               "from": "12:00",
               "to": "14:00",
               "state": "outage"
@@ -211,6 +236,11 @@
             {
               "from": "10:00",
               "to": "12:00",
+              "state": "outage"
+            },
+            {
+              "from": "14:00",
+              "to": "16:00",
               "state": "outage"
             },
             {
@@ -329,6 +359,11 @@
               "state": "outage"
             },
             {
+              "from": "10:00",
+              "to": "12:00",
+              "state": "outage"
+            },
+            {
               "from": "14:00",
               "to": "16:00",
               "state": "outage"
@@ -359,6 +394,11 @@
               "state": "outage"
             },
             {
+              "from": "10:00",
+              "to": "12:00",
+              "state": "outage"
+            },
+            {
               "from": "14:00",
               "to": "16:00",
               "state": "outage"
@@ -378,7 +418,7 @@
       ]
     },
     {
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "status": "unavailable",
       "publishedAt": null,
       "articleUrl": null,
