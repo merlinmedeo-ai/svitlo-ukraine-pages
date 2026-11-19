@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T23:11:38.099Z",
+  "generatedAt": "2026-11-19T21:52:56.315Z",
   "source": {
     "name": "АТ «Черкасиобленерго» — новини ГПВ",
     "indexUrl": "https://www.cherkasyoblenergo.com/media",
@@ -193,9 +193,9 @@
     },
     {
       "date": "2026-11-20",
-      "status": "unavailable",
-      "publishedAt": null,
-      "articleUrl": null,
+      "status": "available",
+      "publishedAt": "2026-11-19T18:14:00.000Z",
+      "articleUrl": "https://www.cherkasyoblenergo.com/media/hrafik-pohodynnykh-vidklyuchen-hpv-na-20-lystopada?lang=uk",
       "checkedAt": null,
       "queues": [
         {
@@ -204,7 +204,28 @@
         },
         {
           "id": "1.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "03:00",
+              "state": "outage"
+            },
+            {
+              "from": "06:00",
+              "to": "09:00",
+              "state": "outage"
+            },
+            {
+              "from": "12:00",
+              "to": "15:00",
+              "state": "outage"
+            },
+            {
+              "from": "18:00",
+              "to": "21:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "2.1",
@@ -212,7 +233,28 @@
         },
         {
           "id": "2.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "03:00",
+              "state": "outage"
+            },
+            {
+              "from": "06:00",
+              "to": "09:00",
+              "state": "outage"
+            },
+            {
+              "from": "12:00",
+              "to": "15:00",
+              "state": "outage"
+            },
+            {
+              "from": "18:00",
+              "to": "21:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "3.1",
@@ -220,7 +262,28 @@
         },
         {
           "id": "3.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "00:00",
+              "to": "03:00",
+              "state": "outage"
+            },
+            {
+              "from": "06:00",
+              "to": "09:00",
+              "state": "outage"
+            },
+            {
+              "from": "12:00",
+              "to": "15:00",
+              "state": "outage"
+            },
+            {
+              "from": "18:00",
+              "to": "21:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "4.1",
@@ -228,7 +291,28 @@
         },
         {
           "id": "4.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "03:00",
+              "to": "06:00",
+              "state": "outage"
+            },
+            {
+              "from": "09:00",
+              "to": "12:00",
+              "state": "outage"
+            },
+            {
+              "from": "15:00",
+              "to": "18:00",
+              "state": "outage"
+            },
+            {
+              "from": "21:00",
+              "to": "24:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "5.1",
@@ -236,7 +320,28 @@
         },
         {
           "id": "5.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "03:00",
+              "to": "06:00",
+              "state": "outage"
+            },
+            {
+              "from": "09:00",
+              "to": "12:00",
+              "state": "outage"
+            },
+            {
+              "from": "15:00",
+              "to": "18:00",
+              "state": "outage"
+            },
+            {
+              "from": "21:00",
+              "to": "24:00",
+              "state": "outage"
+            }
+          ]
         },
         {
           "id": "6.1",
@@ -244,7 +349,28 @@
         },
         {
           "id": "6.2",
-          "intervals": []
+          "intervals": [
+            {
+              "from": "03:00",
+              "to": "06:00",
+              "state": "outage"
+            },
+            {
+              "from": "09:00",
+              "to": "12:00",
+              "state": "outage"
+            },
+            {
+              "from": "15:00",
+              "to": "18:00",
+              "state": "outage"
+            },
+            {
+              "from": "21:00",
+              "to": "24:00",
+              "state": "outage"
+            }
+          ]
         }
       ],
       "note": null
