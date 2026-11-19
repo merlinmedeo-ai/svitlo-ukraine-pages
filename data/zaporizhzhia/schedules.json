@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T04:17:16.861Z",
+  "generatedAt": "2026-11-19T13:37:16.030Z",
   "source": {
-    "name": "АТ «Запоріжжяобленерго» — офіційні публікації ГПВ · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua",
+    "name": "АТ «Запоріжжяобленерго» — офіційні публікації ГПВ · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua · резерв alerts.org.ua",
     "indexUrl": "https://www.zoe.com.ua/outage/",
-    "checkedAt": "2026-11-19T04:17:16.861Z"
+    "checkedAt": "2026-11-19T13:37:16.030Z"
   },
   "schedules": [
     {
@@ -3110,7 +3110,7 @@
     {
       "date": "2026-11-19",
       "status": "available",
-      "publishedAt": "2026-11-18T19:47:00.000Z",
+      "publishedAt": "2026-11-19T13:36:00.000Z",
       "articleUrl": "https://alerts.org.ua/zaporizka-oblast/",
       "checkedAt": null,
       "note": "Дані надійшли з alerts.org.ua — стороннього агрегатора. Звіряйте зміни на офіційному сервісі оператора. Резервні дані отримано зі стороннього агрегатора alerts.org.ua. Звіряйте графік з офіційним джерелом оператора.",
@@ -3118,11 +3118,6 @@
         {
           "id": "1.1",
           "intervals": [
-            {
-              "from": "05:30",
-              "to": "10:30",
-              "state": "outage"
-            },
             {
               "from": "18:00",
               "to": "22:30",
@@ -3134,11 +3129,6 @@
           "id": "1.2",
           "intervals": [
             {
-              "from": "00:00",
-              "to": "03:00",
-              "state": "outage"
-            },
-            {
               "from": "19:00",
               "to": "24:00",
               "state": "outage"
@@ -3149,7 +3139,7 @@
           "id": "2.1",
           "intervals": [
             {
-              "from": "16:00",
+              "from": "16:30",
               "to": "21:00",
               "state": "outage"
             }
@@ -3159,7 +3149,7 @@
           "id": "2.2",
           "intervals": [
             {
-              "from": "13:30",
+              "from": "16:30",
               "to": "18:30",
               "state": "outage"
             }
@@ -3170,7 +3160,7 @@
           "intervals": [
             {
               "from": "07:00",
-              "to": "12:00",
+              "to": "08:00",
               "state": "outage"
             }
           ]
@@ -3179,13 +3169,8 @@
           "id": "3.2",
           "intervals": [
             {
-              "from": "03:00",
+              "from": "05:30",
               "to": "08:00",
-              "state": "outage"
-            },
-            {
-              "from": "12:00",
-              "to": "17:00",
               "state": "outage"
             },
             {
@@ -3199,7 +3184,7 @@
           "id": "4.1",
           "intervals": [
             {
-              "from": "14:30",
+              "from": "16:30",
               "to": "19:30",
               "state": "outage"
             }
@@ -3209,13 +3194,8 @@
           "id": "4.2",
           "intervals": [
             {
-              "from": "02:30",
+              "from": "05:30",
               "to": "07:30",
-              "state": "outage"
-            },
-            {
-              "from": "11:30",
-              "to": "16:30",
               "state": "outage"
             },
             {
@@ -3227,22 +3207,11 @@
         },
         {
           "id": "5.1",
-          "intervals": [
-            {
-              "from": "07:30",
-              "to": "12:30",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         },
         {
           "id": "5.2",
           "intervals": [
-            {
-              "from": "00:00",
-              "to": "03:30",
-              "state": "outage"
-            },
             {
               "from": "21:00",
               "to": "24:00",
@@ -3262,13 +3231,7 @@
         },
         {
           "id": "6.2",
-          "intervals": [
-            {
-              "from": "10:00",
-              "to": "15:00",
-              "state": "outage"
-            }
-          ]
+          "intervals": []
         }
       ]
     },
