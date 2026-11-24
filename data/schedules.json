@@ -1,220 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T21:45:55.942Z",
+  "generatedAt": "2026-11-24T05:37:50.502Z",
   "source": {
     "name": "АТ «Черкасиобленерго» — новини ГПВ",
     "indexUrl": "https://www.cherkasyoblenergo.com/media",
     "checkedAt": null
   },
   "schedules": [
-    {
-      "date": "2026-11-23",
-      "status": "available",
-      "publishedAt": "2026-11-23T17:40:00.000Z",
-      "articleUrl": "https://www.cherkasyoblenergo.com/media/onovleno-hrafik-pohodynnykh-vidklyuchen-hpv-na-23-lystopada-2?lang=uk",
-      "checkedAt": null,
-      "queues": [
-        {
-          "id": "1.1",
-          "intervals": [
-            {
-              "from": "17:00",
-              "to": "20:00",
-              "state": "outage"
-            },
-            {
-              "from": "22:00",
-              "to": "24:00",
-              "state": "outage"
-            }
-          ]
-        },
-        {
-          "id": "1.2",
-          "intervals": [
-            {
-              "from": "17:00",
-              "to": "19:00",
-              "state": "outage"
-            }
-          ]
-        },
-        {
-          "id": "2.1",
-          "intervals": [
-            {
-              "from": "16:00",
-              "to": "20:00",
-              "state": "outage"
-            },
-            {
-              "from": "22:00",
-              "to": "24:00",
-              "state": "outage"
-            }
-          ]
-        },
-        {
-          "id": "2.2",
-          "intervals": [
-            {
-              "from": "18:00",
-              "to": "21:00",
-              "state": "outage"
-            }
-          ]
-        },
-        {
-          "id": "3.1",
-          "intervals": [
-            {
-              "from": "19:00",
-              "to": "22:00",
-              "state": "outage"
-            }
-          ]
-        },
-        {
-          "id": "3.2",
-          "intervals": [
-            {
-              "from": "19:00",
-              "to": "22:00",
-              "state": "outage"
-            }
-          ]
-        },
-        {
-          "id": "4.1",
-          "intervals": [
-            {
-              "from": "18:00",
-              "to": "21:00",
-              "state": "outage"
-            }
-          ]
-        },
-        {
-          "id": "4.2",
-          "intervals": [
-            {
-              "from": "20:00",
-              "to": "22:00",
-              "state": "outage"
-            }
-          ]
-        },
-        {
-          "id": "5.1",
-          "intervals": [
-            {
-              "from": "21:00",
-              "to": "24:00",
-              "state": "outage"
-            }
-          ]
-        },
-        {
-          "id": "5.2",
-          "intervals": [
-            {
-              "from": "22:00",
-              "to": "24:00",
-              "state": "outage"
-            }
-          ]
-        },
-        {
-          "id": "6.1",
-          "intervals": [
-            {
-              "from": "20:00",
-              "to": "24:00",
-              "state": "outage"
-            }
-          ]
-        },
-        {
-          "id": "6.2",
-          "intervals": [
-            {
-              "from": "21:00",
-              "to": "24:00",
-              "state": "outage"
-            }
-          ]
-        }
-      ],
-      "coverage": {
-        "regionalLabel": "ГПВ по області (крім ВСП «Уманські енергетичні мережі», Жашківської, Монастирищенської та Христинівської філій)",
-        "local": {
-          "label": "Тимчасові індивідуальні графіки відключень електроенергії для споживачів ВСП «Уманські енергетичні мережі», Жашківської, Монастирищенської та Христинівської філій.",
-          "queues": [
-            {
-              "id": "1.2",
-              "intervals": [
-                {
-                  "from": "18:00",
-                  "to": "21:00",
-                  "state": "outage"
-                }
-              ]
-            },
-            {
-              "id": "2.2",
-              "intervals": [
-                {
-                  "from": "18:00",
-                  "to": "21:00",
-                  "state": "outage"
-                }
-              ]
-            },
-            {
-              "id": "3.2",
-              "intervals": [
-                {
-                  "from": "18:00",
-                  "to": "21:00",
-                  "state": "outage"
-                }
-              ]
-            },
-            {
-              "id": "4.2",
-              "intervals": [
-                {
-                  "from": "21:00",
-                  "to": "24:00",
-                  "state": "outage"
-                }
-              ]
-            },
-            {
-              "id": "5.2",
-              "intervals": [
-                {
-                  "from": "21:00",
-                  "to": "24:00",
-                  "state": "outage"
-                }
-              ]
-            },
-            {
-              "id": "6.2",
-              "intervals": [
-                {
-                  "from": "21:00",
-                  "to": "24:00",
-                  "state": "outage"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      "note": null
-    },
     {
       "date": "2026-11-24",
       "status": "available",
@@ -646,6 +438,64 @@
           ]
         }
       },
+      "note": null
+    },
+    {
+      "date": "2026-11-25",
+      "status": "unavailable",
+      "publishedAt": null,
+      "articleUrl": null,
+      "checkedAt": null,
+      "queues": [
+        {
+          "id": "1.1",
+          "intervals": []
+        },
+        {
+          "id": "1.2",
+          "intervals": []
+        },
+        {
+          "id": "2.1",
+          "intervals": []
+        },
+        {
+          "id": "2.2",
+          "intervals": []
+        },
+        {
+          "id": "3.1",
+          "intervals": []
+        },
+        {
+          "id": "3.2",
+          "intervals": []
+        },
+        {
+          "id": "4.1",
+          "intervals": []
+        },
+        {
+          "id": "4.2",
+          "intervals": []
+        },
+        {
+          "id": "5.1",
+          "intervals": []
+        },
+        {
+          "id": "5.2",
+          "intervals": []
+        },
+        {
+          "id": "6.1",
+          "intervals": []
+        },
+        {
+          "id": "6.2",
+          "intervals": []
+        }
+      ],
       "note": null
     }
   ]
